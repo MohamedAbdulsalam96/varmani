@@ -1,0 +1,320 @@
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+timeout: timed out
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+error: [Errno 32] Broken pipe
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+error: [Errno 32] Broken pipe
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+error: [Errno 32] Broken pipe
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+error: [Errno 32] Broken pipe
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+error: [Errno 32] Broken pipe
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+error: [Errno 32] Broken pipe
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+error: [Errno 32] Broken pipe
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+error: [Errno 32] Broken pipe
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+error: [Errno 32] Broken pipe
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+error: [Errno 32] Broken pipe
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+error: [Errno 32] Broken pipe
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+error: [Errno 32] Broken pipe
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+error: [Errno 32] Broken pipe
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+error: [Errno 32] Broken pipe
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+error: [Errno 32] Broken pipe
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+error: [Errno 32] Broken pipe
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+error: [Errno 32] Broken pipe
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+error: [Errno 32] Broken pipe
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+error: [Errno 32] Broken pipe
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+error: [Errno 32] Broken pipe
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+error: [Errno 32] Broken pipe
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+error: [Errno 32] Broken pipe
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+error: [Errno 32] Broken pipe
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+error: [Errno 32] Broken pipe
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+error: [Errno 32] Broken pipe
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+error: [Errno 32] Broken pipe
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+error: [Errno 32] Broken pipe
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+error: [Errno 32] Broken pipe
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+error: [Errno 32] Broken pipe
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+timeout: timed out
+
+Exception in thread 1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 810, in __bootstrap_inner
+    self.run()
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 35, in run
+    USSDClient(self.messenger)
+  File "/home/hemant/frappe-bench/apps/varmani/varmani/scripts/ussdService.py", line 203, in USSDClient
+    s.send(loginMessage)
+error: [Errno 32] Broken pipe
+

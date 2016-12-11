@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include varmani *.css
+recursive-include varmani *.csv
+recursive-include varmani *.html
+recursive-include varmani *.ico
+recursive-include varmani *.js
+recursive-include varmani *.json
+recursive-include varmani *.md
+recursive-include varmani *.png
+recursive-include varmani *.py
+recursive-include varmani *.svg
+recursive-include varmani *.txt
+recursive-exclude varmani *.pyc

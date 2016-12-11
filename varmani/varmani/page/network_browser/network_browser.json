@@ -1,0 +1,22 @@
+{
+ "content": null, 
+ "creation": "2016-01-28 07:22:53.721972", 
+ "docstatus": 0, 
+ "doctype": "Page", 
+ "idx": 0, 
+ "modified": "2016-01-28 07:24:17.350993", 
+ "modified_by": "Administrator", 
+ "module": "Varmani", 
+ "name": "network-browser", 
+ "owner": "Administrator", 
+ "page_name": "Network Browser", 
+ "roles": [
+  {
+   "role": "MTN Service"
+  }
+ ], 
+ "script": null, 
+ "standard": "Yes", 
+ "style": null, 
+ "title": "Network Browser"
+}

@@ -1,0 +1,15 @@
+tep 1: Install PhantomJS
+
+sudo npm install -g phantomjs
+
+If you do not have npm installed, install node (which includes npm): https://nodejs.org/en/download/
+Step 2: Install Selenium Through pip
+
+2.1 Install Python pip
+
+wget https://bootstrap.pypa.io/get-pip.py
+sudo python get-pip.py
+
+2.2 Install Selenium using pip
+
+sudo pip install selenium

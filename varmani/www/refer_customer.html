@@ -1,0 +1,122 @@
+{% extends "templates/web.html" %}
+
+{% block title %} {{_("Refer Customers to NewCo")}} {% endblock %}
+
+{% block header %}<h1>{{_("Refer Others")}}</h1>{% endblock %}
+{% block page_content %}
+
+<div class="row" style="margin-top: 40px; margin-bottom: 20px">
+	<div class="col-sm-6">
+        <form id="refer_others">
+			<div class="form-group">
+				<input id="referrer" type="text"
+					class="form-control" placeholder="{{ _('My ID Number') }}">
+			</div>
+			<div class="form-group">
+				<input id="pin" type="password"
+					class="form-control" placeholder="{{ _('My Pin') }}">
+				<span class="password-strength-indicator indicator"></span>
+			</div>
+			<div class="form-group">
+				<input id="id" type="text"
+					class="form-control" placeholder="{{ _('Customer ID Number') }}">
+			</div>
+			<div class="form-group">
+				<input id="customer_fullname" type="text"
+					class="form-control" placeholder="{{ _('Customer Full Names') }}">
+			</div>
+			<div class="form-group">
+				<input id="customer_msisdn" type="text"
+					class="form-control" placeholder="{{ _('Customer Mobile Number') }}">
+			</div>
+			<p class='password-strength-message text-muted small hidden'></p>
+			<div class="form-group">
+				<button type="submit" id="refer"
+					class="btn btn-primary">{{_("Refer")}}</button>
+			</div>
+        </form>
+	</div>
+</div>
+
+<script>
+
+frappe.ready(function() {
+	if(get_url_arg("key")) {
+		$("#old_password").parent().toggle(false);
+	}
+
+	$("#reset-password").on("submit", function() {
+		return false;
+	});
+
+	$("#new_password").on("keypress", function(e) {
+		if(e.which===13) $("#update").click();
+	})
+
+	$("#refer").click(function() {
+		var args = {
+			key: get_url_arg("key") || "",
+			referrer: $("#referrer").val(),
+			pin: $("#pin").val(),
+			id: $("#id").val(),
+			via_ussd: 0,
+			customer_fullname: $("#customer_fullname").val(),
+			customer_msisdn: $("#customer_msisdn").val()
+		}
+		console.log(args);
+
+		if(!args.referrer && !args.pin) {
+			frappe.msgprint("Your ID and Pin required.");
+			return;
+		}
+		if(!args.id) {
+			frappe.msgprint("Customer ID Number required.")
+			return;
+		}
+		if(!args.customer_fullname) {
+			frappe.msgprint("Customer Full Name required.")
+			return;
+		}
+		if(!args.customer_msisdn) {
+			frappe.msgprint("Customer mobile number required.")
+			return;
+		}
+
+		frappe.call({
+			type: "POST",
+			method: "varmani.varmani.doctype.varmani_network.varmani_network.referral",
+			btn: $("#refer"),
+			args: args,
+			callback: function(r) {
+				console.log(r.message.message);
+				if(r.message) {
+					frappe.msgprint(__(r.message.message));
+				}
+                if(r.exc) {
+                    frappe.msgprint(r.exc);
+                }
+			}
+		});
+
+        return false;
+	});
+});
+
+</script>
+
+{% endblock %}
+
+{% block style %}
+<style>
+	.password-strength-indicator {
+		float: right;
+		padding: 15px;
+		margin-top: -38px;
+		margin-right: -7px;
+	}
+
+	.password-strength-message {
+		margin-top: -10px;
+	}
+</style>
+{% endblock %}

@@ -1,0 +1,2871 @@
+[2016-04-24 09:11:14] Sun Apr 24 09:11:14 2016 | 5544693608133176583 | 27810378419 | *130*826*12345*1*0810378419*555## | 12345*1*0810378419*555 | PULL_REQUEST | timeRec=2016-04-24 09:11:14
+checking banned
+NOT banned
+Hemant Govan Pema
+<type 'exceptions.AttributeError'>
+[2016-04-24 09:11:25] Sun Apr 24 09:11:25 2016 | 5544693608133176583 | 27810378419 | *130*826*12345*1*0810378419*555## | STATE: wait_app_phase_2 | ABORT | timeRec=2016-04-24 09:11:25
+[2016-04-24 09:13:08] Connected to remote host. Start sending messages
+[2016-04-24 09:13:19] Sun Apr 24 09:13:19 2016 | 5544693608263911807 | 27810378419 | *130*826*12345*1*0810378419*555## | 12345*1*0810378419*555 | PULL_REQUEST | timeRec=2016-04-24 09:13:19
+checking banned
+NOT banned
+Hemant Govan Pema
+[2016-04-24 09:13:34] Sun Apr 24 09:13:34 2016 | 5544693608279258585 | 27832123780 | *130*826*3# | 3 | PULL_REQUEST | timeRec=2016-04-24 09:13:34
+checking banned
+NOT banned
+<type 'exceptions.TypeError'>
+[2016-04-24 09:13:44] Sun Apr 24 09:13:44 2016 | 5544693608279258585 | 27832123780 | *130*826*3# | STATE: wait_app_phase_2 | ABORT | timeRec=2016-04-24 09:13:44
+[2016-04-24 09:16:19] Connected to remote host. Start sending messages
+[2016-04-24 09:16:38] Sun Apr 24 09:16:38 2016 | 5544693608472411066 | 27832123780 | *130*826*3# | 3 | PULL_REQUEST | timeRec=2016-04-24 09:16:38
+checking banned
+NOT banned
+None
+<type 'exceptions.TypeError'>
+[2016-04-24 09:16:43] Sun Apr 24 09:16:43 2016 | 5544693608477629423 | 27810378419 | *130*826*12345*1*0810378419*555## | 12345*1*0810378419*555 | PULL_REQUEST | timeRec=2016-04-24 09:16:43
+checking banned
+NOT banned
+{u'customer': u'Hemant Govan Pema', u'modified_by': u'hem@varmani.co.za', u'name': u'V00000379', u'idx': 0, u'title': u'{full_name}', u'msisdn': u'27810378419', u'docstatus': 0, u'creation': u'2016-04-10 12:59:22.782313', u'ref_full_name': u'Varmani Consumer Network', u'modified': u'2016-04-24 08:47:01.764481', u'doctype': u'Varmani Network', u'old_parent': u'V00000204', u'lft': 350, u'full_name': u'Hemant Govan Pema', u'parent_varmani_network': u'V00000204', u'owner': u'Administrator', u'rgt': 405}
+Hemant Govan Pema
+[2016-04-24 09:16:48] Sun Apr 24 09:16:48 2016 | 5544693608472411066 | 27832123780 | *130*826*3# | STATE: wait_app_phase_2 | ABORT | timeRec=2016-04-24 09:16:48
+[2016-04-24 09:19:37] Connected to remote host. Start sending messages
+[2016-04-24 09:19:53] Sun Apr 24 09:19:53 2016 | 5544693608677397959 | 27832123780 | *130*826*3# | 3 | PULL_REQUEST | timeRec=2016-04-24 09:19:53
+checking banned
+NOT banned
+No customer with msisdn=27832123780 found.
+[2016-04-24 09:20:03] Sun Apr 24 09:20:03 2016 | 5544693608677397959 | 27832123780 | *130*826*3# | STATE: wait_app_phase_2 | ABORT | timeRec=2016-04-24 09:20:03
+checking banned
+NOT banned
+No customer with msisdn=27832123780 found.
+[2016-04-24 09:20:24] Sun Apr 24 09:20:24 2016 | 5544693608709152177 | 27810378419 | *130*826*12345*1*0810378419*555## | 12345*1*0810378419*555 | PULL_REQUEST | timeRec=2016-04-24 09:20:24
+checking banned
+NOT banned
+{u'customer': u'Hemant Govan Pema', u'modified_by': u'hem@varmani.co.za', u'name': u'V00000379', u'idx': 0, u'title': u'{full_name}', u'msisdn': u'27810378419', u'docstatus': 0, u'creation': u'2016-04-10 12:59:22.782313', u'ref_full_name': u'Varmani Consumer Network', u'modified': u'2016-04-24 08:47:01.764481', u'doctype': u'Varmani Network', u'old_parent': u'V00000204', u'lft': 350, u'full_name': u'Hemant Govan Pema', u'parent_varmani_network': u'V00000204', u'owner': u'Administrator', u'rgt': 405}
+Hemant Govan Pema
+[2016-04-24 09:20:49] Sun Apr 24 09:20:49 2016 | 5544693608735654340 | 27810378419 | *130*826*12345*1*0810378419*555## | 12345*1*0810378419*555 | PULL_REQUEST | timeRec=2016-04-24 09:20:49
+[2016-04-24 09:23:35] Connected to remote host. Start sending messages
+[2016-04-24 09:23:57] Sun Apr 24 09:23:57 2016 | 5544693608932975431 | 27810378419 | *130*826*12345*1*0810378419*555## | 12345*1*0810378419*555 | PULL_REQUEST | timeRec=2016-04-24 09:23:57
+<type 'exceptions.AttributeError'>
+[2016-04-24 09:24:07] Sun Apr 24 09:24:07 2016 | 5544693608932975431 | 27810378419 | *130*826*12345*1*0810378419*555## | STATE: wait_app_phase_2 | ABORT | timeRec=2016-04-24 09:24:07
+<type 'exceptions.AttributeError'>
+[2016-04-24 09:54:07] Trying to restart thread
+[2016-04-24 09:54:08] Connected to remote host. Start sending messages
+[2016-04-24 10:24:07] Trying to restart thread
+[2016-04-24 10:24:07] Connected to remote host. Start sending messages
+[2016-04-24 10:28:04] Connected to remote host. Start sending messages
+[2016-04-24 10:28:08] Sun Apr 24 10:28:08 2016 | 5544693612970562372 | 27810378419 | *130*826*12345*1*0810378419*555## | 12345*1*0810378419*555 | PULL_REQUEST | timeRec=2016-04-24 10:28:08
+-9.5
+<type 'exceptions.TypeError'>
+[2016-04-24 10:28:18] Sun Apr 24 10:28:18 2016 | 5544693612970562372 | 27810378419 | *130*826*12345*1*0810378419*555## | STATE: wait_app_phase_2 | ABORT | timeRec=2016-04-24 10:28:18
+-9.5
+<type 'exceptions.TypeError'>
+[2016-04-24 10:28:24] Sun Apr 24 10:28:24 2016 | 5544693612987246972 | 27810378419 | *130*826*12345*1*0810378419*555## | 12345*1*0810378419*555 | PULL_REQUEST | timeRec=2016-04-24 10:28:24
+-9.5
+<type 'exceptions.TypeError'>
+[2016-04-24 10:28:34] Sun Apr 24 10:28:34 2016 | 5544693612987246972 | 27810378419 | *130*826*12345*1*0810378419*555## | STATE: wait_app_phase_2 | ABORT | timeRec=2016-04-24 10:28:34
+[2016-04-24 10:33:42] Connected to remote host. Start sending messages
+[2016-04-24 10:33:59] Sun Apr 24 10:33:59 2016 | 5544693613338008275 | 27810378419 | *130*826*12345*1*0810378419*555## | 12345*1*0810378419*555 | PULL_REQUEST | timeRec=2016-04-24 10:33:59
+[2016-04-24 10:37:02] Connected to remote host. Start sending messages
+[2016-04-24 10:37:55] Sun Apr 24 10:37:55 2016 | 5544693613586562582 | 27810378419 | *130*826*12345*1*0810378419*555## | 12345*1*0810378419*555 | PULL_REQUEST | timeRec=2016-04-24 10:37:55
+[2016-04-24 11:07:55] Trying to restart thread
+[2016-04-24 11:07:55] Connected to remote host. Start sending messages
+[2016-04-24 11:37:55] Trying to restart thread
+[2016-04-24 11:37:56] Connected to remote host. Start sending messages
+[2016-04-24 12:07:56] Trying to restart thread
+[2016-04-24 12:07:56] Connected to remote host. Start sending messages
+[2016-04-24 12:37:56] Trying to restart thread
+[2016-04-24 12:37:57] Connected to remote host. Start sending messages
+[2016-04-24 13:07:57] Trying to restart thread
+[2016-04-24 13:07:57] Connected to remote host. Start sending messages
+[2016-04-24 13:37:56] Trying to restart thread
+[2016-04-24 13:37:57] Connected to remote host. Start sending messages
+[2016-04-24 14:04:31] Sun Apr 24 14:04:31 2016 | 5544693626584486466 | 27810378419 | *130*826*12345*1*0810378419*555## | 12345*1*0810378419*555 | PULL_REQUEST | timeRec=2016-04-24 14:04:31
+[2016-04-24 14:07:39] Sun Apr 24 14:07:39 2016 | 5544693626782164503 | 27810378419 | *130*826*12345*1*0810378419*555## | 12345*1*0810378419*555 | PULL_REQUEST | timeRec=2016-04-24 14:07:39
+No customer with msisdn=27810378419 found.
+[2016-04-24 14:07:49] Sun Apr 24 14:07:49 2016 | 5544693626782164503 | 27810378419 | *130*826*12345*1*0810378419*555## | STATE: wait_app_phase_2 | ABORT | timeRec=2016-04-24 14:07:49
+No customer with msisdn=27810378419 found.
+[2016-04-24 14:07:55] Sun Apr 24 14:07:55 2016 | 1121790730 | 27724006215 | *130*826*3# | 3 | PULL_REQUEST | timeRec=2016-04-24 14:07:55
+[2016-04-24 14:09:12] Sun Apr 24 14:09:12 2016 | 1801849419 | 27724006215 | *130*826*3# | 3 | PULL_REQUEST | timeRec=2016-04-24 14:09:12
+No customer with msisdn=27724006215 found.
+[2016-04-24 14:39:12] Trying to restart thread
+[2016-04-24 14:39:13] Connected to remote host. Start sending messages
+[2016-04-24 15:09:12] Trying to restart thread
+[2016-04-24 15:09:13] Connected to remote host. Start sending messages
+[2016-04-24 15:39:13] Trying to restart thread
+[2016-04-24 15:39:13] Connected to remote host. Start sending messages
+[2016-04-24 16:09:12] Trying to restart thread
+[2016-04-24 16:09:13] Connected to remote host. Start sending messages
+[2016-04-24 16:39:13] Trying to restart thread
+[2016-04-24 16:39:13] Connected to remote host. Start sending messages
+[2016-04-24 17:09:13] Trying to restart thread
+[2016-04-24 17:09:14] Connected to remote host. Start sending messages
+[2016-04-24 17:39:12] Trying to restart thread
+[2016-04-24 17:39:13] Connected to remote host. Start sending messages
+[2016-04-24 18:09:12] Trying to restart thread
+[2016-04-24 18:09:12] Connected to remote host. Start sending messages
+[2016-04-24 18:39:12] Trying to restart thread
+[2016-04-24 18:39:13] Connected to remote host. Start sending messages
+[2016-04-24 18:48:48] Connected to remote host. Start sending messages
+[2016-04-24 18:49:04] Sun Apr 24 18:49:04 2016 | 5544693644486785116 | 27832123780 | *130*826*3# | 3 | PULL_REQUEST | timeRec=2016-04-24 18:49:04
+No customer with msisdn=27832123780 found.
+[2016-04-24 18:49:05] Sun Apr 24 18:49:05 2016 | 5544693644487936387 | 27810378419 | *130*826*12345*1*0810378419*555## | 12345*1*0810378419*555 | PULL_REQUEST | timeRec=2016-04-24 18:49:05
+[2016-04-24 18:49:14] Sun Apr 24 18:49:14 2016 | 5544693644486785116 | 27832123780 | *130*826*3# | STATE: wait_app_phase_2 | ABORT | timeRec=2016-04-24 18:49:14
+No customer with msisdn=27832123780 found.
+[2016-04-24 19:19:15] Trying to restart thread
+[2016-04-24 19:19:15] Connected to remote host. Start sending messages
+[2016-04-24 19:49:14] Trying to restart thread
+[2016-04-24 19:49:15] Connected to remote host. Start sending messages
+[2016-04-24 20:19:15] Trying to restart thread
+[2016-04-24 20:19:16] Connected to remote host. Start sending messages
+[2016-04-24 20:49:15] Trying to restart thread
+[2016-04-24 20:49:15] Connected to remote host. Start sending messages
+[2016-04-24 21:19:15] Trying to restart thread
+[2016-04-24 21:19:15] Connected to remote host. Start sending messages
+[2016-04-24 21:49:15] Trying to restart thread
+[2016-04-24 21:49:15] Connected to remote host. Start sending messages
+[2016-04-24 22:19:14] Trying to restart thread
+[2016-04-24 22:19:15] Connected to remote host. Start sending messages
+[2016-04-24 22:49:16] Trying to restart thread
+[2016-04-24 22:49:16] Connected to remote host. Start sending messages
+[2016-04-24 23:19:15] Trying to restart thread
+[2016-04-24 23:19:16] Connected to remote host. Start sending messages
+[2016-04-24 23:49:15] Trying to restart thread
+[2016-04-24 23:49:15] Connected to remote host. Start sending messages
+[2016-04-25 00:19:16] Trying to restart thread
+[2016-04-25 00:19:16] Connected to remote host. Start sending messages
+[2016-04-25 00:49:16] Trying to restart thread
+[2016-04-25 00:49:16] Connected to remote host. Start sending messages
+[2016-04-25 01:19:16] Trying to restart thread
+[2016-04-25 01:19:16] Connected to remote host. Start sending messages
+[2016-04-25 01:49:15] Trying to restart thread
+[2016-04-25 01:49:16] Connected to remote host. Start sending messages
+[2016-04-25 02:19:15] Trying to restart thread
+[2016-04-25 02:19:15] Connected to remote host. Start sending messages
+[2016-04-25 02:49:15] Trying to restart thread
+[2016-04-25 02:49:16] Connected to remote host. Start sending messages
+[2016-04-25 03:19:15] Trying to restart thread
+[2016-04-25 03:19:15] Connected to remote host. Start sending messages
+[2016-04-25 03:49:16] Trying to restart thread
+[2016-04-25 03:49:16] Connected to remote host. Start sending messages
+[2016-04-25 04:07:44] Mon Apr 25 04:07:44 2016 | 5544693679635765443 | 27781578599 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-04-25 04:07:44
+No customer with msisdn=27781578599 found.
+[2016-04-25 04:07:54] Mon Apr 25 04:07:54 2016 | 5544693679635765443 | 27781578599 | *130*826# | STATE: wait_app_phase_2 | ABORT | timeRec=2016-04-25 04:07:54
+No customer with msisdn=27781578599 found.
+[2016-04-25 04:08:07] Mon Apr 25 04:08:07 2016 | 5544693679659003108 | 27781578599 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-04-25 04:08:07
+No customer with msisdn=27781578599 found.
+[2016-04-25 04:08:17] Mon Apr 25 04:08:17 2016 | 5544693679659003108 | 27781578599 | *130*826# | STATE: wait_app_phase_2 | ABORT | timeRec=2016-04-25 04:08:17
+No customer with msisdn=27781578599 found.
+[2016-04-25 04:38:17] Trying to restart thread
+[2016-04-25 04:38:18] Connected to remote host. Start sending messages
+[2016-04-25 05:08:17] Trying to restart thread
+[2016-04-25 05:08:17] Connected to remote host. Start sending messages
+[2016-04-25 05:38:17] Trying to restart thread
+[2016-04-25 05:38:18] Connected to remote host. Start sending messages
+[2016-04-25 06:08:17] Trying to restart thread
+[2016-04-25 06:08:18] Connected to remote host. Start sending messages
+[2016-04-25 06:38:18] Trying to restart thread
+[2016-04-25 06:38:21] Unable to connect: timed out
+[2016-04-25 06:38:21] Connected to remote host. Start sending messages
+[2016-04-25 07:08:17] Trying to restart thread
+[2016-04-25 07:08:18] Connected to remote host. Start sending messages
+[2016-04-25 07:38:18] Trying to restart thread
+[2016-04-25 07:38:19] Connected to remote host. Start sending messages
+[2016-04-25 08:08:18] Trying to restart thread
+[2016-04-25 08:08:18] Connected to remote host. Start sending messages
+[2016-04-25 08:38:17] Trying to restart thread
+[2016-04-25 08:38:18] Connected to remote host. Start sending messages
+[2016-04-25 09:08:17] Trying to restart thread
+[2016-04-25 09:08:18] Connected to remote host. Start sending messages
+[2016-04-25 09:37:30] Mon Apr 25 09:37:30 2016 | 5544693700382901202 | 27835255762 | *130*826*3*0788638218# | 3*0788638218 | PULL_REQUEST | timeRec=2016-04-25 09:37:30
+No customer with msisdn=27835255762 found.
+[2016-04-25 09:37:40] Mon Apr 25 09:37:40 2016 | 5544693700382901202 | 27835255762 | *130*826*3*0788638218# | STATE: wait_app_phase_2 | ABORT | timeRec=2016-04-25 09:37:40
+No customer with msisdn=27835255762 found.
+[2016-04-25 10:07:40] Trying to restart thread
+[2016-04-25 10:07:40] Connected to remote host. Start sending messages
+[2016-04-25 10:37:41] Trying to restart thread
+[2016-04-25 10:37:42] Connected to remote host. Start sending messages
+[2016-04-25 11:07:40] Trying to restart thread
+[2016-04-25 11:07:41] Connected to remote host. Start sending messages
+[2016-04-25 11:37:40] Trying to restart thread
+[2016-04-25 11:37:41] Connected to remote host. Start sending messages
+[2016-04-25 12:07:40] Trying to restart thread
+[2016-04-25 12:07:40] Connected to remote host. Start sending messages
+[2016-04-25 12:37:40] Trying to restart thread
+[2016-04-25 12:37:41] Connected to remote host. Start sending messages
+[2016-04-25 13:07:40] Trying to restart thread
+[2016-04-25 13:07:41] Connected to remote host. Start sending messages
+[2016-04-25 13:37:40] Trying to restart thread
+[2016-04-25 13:37:41] Connected to remote host. Start sending messages
+[2016-04-25 14:07:40] Trying to restart thread
+[2016-04-25 14:07:42] Connected to remote host. Start sending messages
+[2016-04-25 14:37:40] Trying to restart thread
+[2016-04-25 14:37:41] Connected to remote host. Start sending messages
+[2016-04-25 15:07:40] Trying to restart thread
+[2016-04-25 15:07:41] Connected to remote host. Start sending messages
+[2016-04-25 15:37:40] Trying to restart thread
+[2016-04-25 15:37:41] Connected to remote host. Start sending messages
+[2016-04-25 16:07:40] Trying to restart thread
+[2016-04-25 16:07:41] Connected to remote host. Start sending messages
+[2016-04-25 16:37:40] Trying to restart thread
+[2016-04-25 16:37:41] Connected to remote host. Start sending messages
+[2016-04-25 17:07:40] Trying to restart thread
+[2016-04-25 17:07:40] Connected to remote host. Start sending messages
+[2016-04-25 17:37:40] Trying to restart thread
+[2016-04-25 17:37:40] Connected to remote host. Start sending messages
+[2016-04-25 18:07:40] Trying to restart thread
+[2016-04-25 18:07:41] Connected to remote host. Start sending messages
+[2016-04-25 18:37:40] Trying to restart thread
+[2016-04-25 18:37:41] Connected to remote host. Start sending messages
+[2016-04-25 19:07:41] Trying to restart thread
+[2016-04-25 19:07:41] Connected to remote host. Start sending messages
+[2016-04-25 19:37:40] Trying to restart thread
+[2016-04-25 19:37:41] Connected to remote host. Start sending messages
+[2016-04-25 20:07:40] Trying to restart thread
+[2016-04-25 20:07:41] Connected to remote host. Start sending messages
+[2016-04-25 20:37:41] Trying to restart thread
+[2016-04-25 20:37:41] Connected to remote host. Start sending messages
+[2016-04-25 21:07:40] Trying to restart thread
+[2016-04-25 21:07:41] Connected to remote host. Start sending messages
+[2016-04-25 21:35:37] Mon Apr 25 21:35:37 2016 | 1337163430 | 27619945617 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-04-25 21:35:37
+No customer with msisdn=27619945617 found.
+[2016-04-25 22:05:37] Trying to restart thread
+[2016-04-25 22:05:38] Connected to remote host. Start sending messages
+[2016-04-25 22:35:37] Trying to restart thread
+[2016-04-25 22:35:38] Connected to remote host. Start sending messages
+[2016-04-25 23:05:38] Trying to restart thread
+[2016-04-25 23:05:39] Connected to remote host. Start sending messages
+[2016-04-25 23:35:37] Trying to restart thread
+[2016-04-25 23:35:37] Connected to remote host. Start sending messages
+[2016-04-25 23:52:14] Mon Apr 25 23:52:14 2016 | 5544693754157664266 | 27732216588 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-04-25 23:52:14
+[2016-04-25 23:52:24] Mon Apr 25 23:52:24 2016 | 5544693754157664266 | 27732216588 | *130*826# | STATE: wait_app_phase_2 | ABORT | timeRec=2016-04-25 23:52:24
+[2016-04-25 23:57:05] Mon Apr 25 23:57:05 2016 | 5544693754462985108 | 27732216588 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-04-25 23:57:05
+[2016-04-25 23:57:15] Mon Apr 25 23:57:15 2016 | 5544693754462985108 | 27732216588 | *130*826# | STATE: wait_app_phase_2 | ABORT | timeRec=2016-04-25 23:57:15
+[2016-04-26 00:27:15] Trying to restart thread
+[2016-04-26 00:27:16] Connected to remote host. Start sending messages
+[2016-04-26 00:57:15] Trying to restart thread
+[2016-04-26 00:57:16] Connected to remote host. Start sending messages
+[2016-04-26 01:27:15] Trying to restart thread
+[2016-04-26 01:27:16] Connected to remote host. Start sending messages
+[2016-04-26 01:57:16] Trying to restart thread
+[2016-04-26 01:57:16] Connected to remote host. Start sending messages
+[2016-04-26 02:27:15] Trying to restart thread
+[2016-04-26 02:27:16] Connected to remote host. Start sending messages
+[2016-04-26 02:57:15] Trying to restart thread
+[2016-04-26 02:57:16] Connected to remote host. Start sending messages
+[2016-04-26 03:27:16] Trying to restart thread
+[2016-04-26 03:27:16] Connected to remote host. Start sending messages
+[2016-04-26 03:57:15] Trying to restart thread
+[2016-04-26 03:57:16] Connected to remote host. Start sending messages
+[2016-04-26 04:27:16] Trying to restart thread
+[2016-04-26 04:27:16] Connected to remote host. Start sending messages
+[2016-04-26 04:57:15] Trying to restart thread
+[2016-04-26 04:57:16] Connected to remote host. Start sending messages
+[2016-04-26 05:27:16] Trying to restart thread
+[2016-04-26 05:27:16] Connected to remote host. Start sending messages
+[2016-04-26 05:57:15] Trying to restart thread
+[2016-04-26 05:57:15] Connected to remote host. Start sending messages
+[2016-04-26 06:27:16] Trying to restart thread
+[2016-04-26 06:27:16] Connected to remote host. Start sending messages
+[2016-04-26 06:57:15] Trying to restart thread
+[2016-04-26 06:57:16] Connected to remote host. Start sending messages
+[2016-04-26 07:27:15] Trying to restart thread
+[2016-04-26 07:27:16] Connected to remote host. Start sending messages
+[2016-04-26 07:57:15] Trying to restart thread
+[2016-04-26 07:57:15] Connected to remote host. Start sending messages
+[2016-04-26 08:27:15] Trying to restart thread
+[2016-04-26 08:27:15] Connected to remote host. Start sending messages
+[2016-04-26 08:57:15] Trying to restart thread
+[2016-04-26 08:57:16] Connected to remote host. Start sending messages
+[2016-04-26 09:27:15] Trying to restart thread
+[2016-04-26 09:27:15] Connected to remote host. Start sending messages
+[2016-04-26 09:57:15] Trying to restart thread
+[2016-04-26 09:57:15] Connected to remote host. Start sending messages
+[2016-04-26 10:27:16] Trying to restart thread
+[2016-04-26 10:27:16] Connected to remote host. Start sending messages
+[2016-04-26 10:57:15] Trying to restart thread
+[2016-04-26 10:57:16] Connected to remote host. Start sending messages
+[2016-04-26 11:27:15] Trying to restart thread
+[2016-04-26 11:27:15] Connected to remote host. Start sending messages
+[2016-04-26 11:57:16] Trying to restart thread
+[2016-04-26 11:57:16] Connected to remote host. Start sending messages
+[2016-04-26 12:27:15] Trying to restart thread
+[2016-04-26 12:27:15] Connected to remote host. Start sending messages
+[2016-04-26 12:57:15] Trying to restart thread
+[2016-04-26 12:57:15] Connected to remote host. Start sending messages
+[2016-04-26 13:27:16] Trying to restart thread
+[2016-04-26 13:27:16] Connected to remote host. Start sending messages
+[2016-04-26 13:57:16] Trying to restart thread
+[2016-04-26 13:57:16] Connected to remote host. Start sending messages
+[2016-04-26 14:27:15] Trying to restart thread
+[2016-04-26 14:27:16] Connected to remote host. Start sending messages
+[2016-04-26 14:57:15] Trying to restart thread
+[2016-04-26 14:57:15] Connected to remote host. Start sending messages
+[2016-04-26 15:27:15] Trying to restart thread
+[2016-04-26 15:27:16] Connected to remote host. Start sending messages
+[2016-04-26 15:53:01] Tue Apr 26 15:53:01 2016 | 1811898299 | 27763204919 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-04-26 15:53:01
+No customer with msisdn=27763204919 found.
+[2016-04-26 16:23:01] Trying to restart thread
+[2016-04-26 16:23:01] Connected to remote host. Start sending messages
+[2016-04-26 16:53:01] Trying to restart thread
+[2016-04-26 16:53:01] Connected to remote host. Start sending messages
+[2016-04-26 17:23:01] Trying to restart thread
+[2016-04-26 17:23:02] Connected to remote host. Start sending messages
+[2016-04-26 17:53:01] Trying to restart thread
+[2016-04-26 17:53:01] Connected to remote host. Start sending messages
+[2016-04-26 18:23:01] Trying to restart thread
+[2016-04-26 18:23:02] Connected to remote host. Start sending messages
+[2016-04-26 18:53:01] Trying to restart thread
+[2016-04-26 18:53:02] Connected to remote host. Start sending messages
+[2016-04-26 19:23:01] Trying to restart thread
+[2016-04-26 19:23:02] Connected to remote host. Start sending messages
+[2016-04-26 19:53:01] Trying to restart thread
+[2016-04-26 19:53:02] Connected to remote host. Start sending messages
+[2016-04-26 20:23:01] Trying to restart thread
+[2016-04-26 20:23:02] Connected to remote host. Start sending messages
+[2016-04-26 20:53:01] Trying to restart thread
+[2016-04-26 20:53:02] Connected to remote host. Start sending messages
+[2016-04-26 21:23:01] Trying to restart thread
+[2016-04-26 21:23:01] Connected to remote host. Start sending messages
+[2016-04-26 21:53:01] Trying to restart thread
+[2016-04-26 21:53:02] Connected to remote host. Start sending messages
+[2016-04-26 22:23:02] Trying to restart thread
+[2016-04-26 22:23:02] Connected to remote host. Start sending messages
+[2016-04-26 22:53:01] Trying to restart thread
+[2016-04-26 22:53:02] Connected to remote host. Start sending messages
+[2016-04-26 23:23:01] Trying to restart thread
+[2016-04-26 23:23:01] Connected to remote host. Start sending messages
+[2016-04-26 23:53:01] Trying to restart thread
+[2016-04-26 23:53:02] Connected to remote host. Start sending messages
+[2016-04-27 00:23:02] Trying to restart thread
+[2016-04-27 00:23:02] Connected to remote host. Start sending messages
+[2016-04-27 00:53:01] Trying to restart thread
+[2016-04-27 00:53:01] Connected to remote host. Start sending messages
+[2016-04-27 01:23:02] Trying to restart thread
+[2016-04-27 01:23:02] Connected to remote host. Start sending messages
+[2016-04-27 01:53:02] Trying to restart thread
+[2016-04-27 01:53:02] Connected to remote host. Start sending messages
+[2016-04-27 02:23:02] Trying to restart thread
+[2016-04-27 02:23:02] Connected to remote host. Start sending messages
+[2016-04-27 02:53:02] Trying to restart thread
+[2016-04-27 02:53:02] Connected to remote host. Start sending messages
+[2016-04-27 03:23:02] Trying to restart thread
+[2016-04-27 03:23:02] Connected to remote host. Start sending messages
+[2016-04-27 03:53:01] Trying to restart thread
+[2016-04-27 03:53:02] Connected to remote host. Start sending messages
+[2016-04-27 04:23:01] Trying to restart thread
+[2016-04-27 04:23:02] Connected to remote host. Start sending messages
+[2016-04-27 04:53:01] Trying to restart thread
+[2016-04-27 04:53:02] Connected to remote host. Start sending messages
+[2016-04-27 05:23:02] Trying to restart thread
+[2016-04-27 05:23:02] Connected to remote host. Start sending messages
+[2016-04-27 05:53:02] Trying to restart thread
+[2016-04-27 05:53:02] Connected to remote host. Start sending messages
+[2016-04-27 06:23:02] Trying to restart thread
+[2016-04-27 06:23:02] Connected to remote host. Start sending messages
+[2016-04-27 06:53:02] Trying to restart thread
+[2016-04-27 06:53:03] Connected to remote host. Start sending messages
+[2016-04-27 07:23:01] Trying to restart thread
+[2016-04-27 07:23:02] Connected to remote host. Start sending messages
+[2016-04-27 07:53:01] Trying to restart thread
+[2016-04-27 07:53:02] Connected to remote host. Start sending messages
+[2016-04-27 08:23:02] Trying to restart thread
+[2016-04-27 08:23:02] Connected to remote host. Start sending messages
+[2016-04-27 08:53:02] Trying to restart thread
+[2016-04-27 08:53:02] Connected to remote host. Start sending messages
+[2016-04-27 09:23:01] Trying to restart thread
+[2016-04-27 09:23:01] Connected to remote host. Start sending messages
+[2016-04-27 09:53:02] Trying to restart thread
+[2016-04-27 09:53:02] Connected to remote host. Start sending messages
+[2016-04-27 10:23:02] Trying to restart thread
+[2016-04-27 10:23:02] Connected to remote host. Start sending messages
+[2016-04-27 10:53:02] Trying to restart thread
+[2016-04-27 10:53:02] Connected to remote host. Start sending messages
+[2016-04-27 11:23:01] Trying to restart thread
+[2016-04-27 11:23:01] Connected to remote host. Start sending messages
+[2016-04-27 11:53:02] Trying to restart thread
+[2016-04-27 11:53:02] Connected to remote host. Start sending messages
+[2016-04-27 12:23:02] Trying to restart thread
+[2016-04-27 12:23:02] Connected to remote host. Start sending messages
+[2016-04-27 12:53:01] Trying to restart thread
+[2016-04-27 12:53:01] Connected to remote host. Start sending messages
+[2016-04-27 13:23:02] Trying to restart thread
+[2016-04-27 13:23:02] Connected to remote host. Start sending messages
+[2016-04-27 13:53:02] Trying to restart thread
+[2016-04-27 13:53:02] Connected to remote host. Start sending messages
+[2016-04-27 14:23:02] Trying to restart thread
+[2016-04-27 14:23:02] Connected to remote host. Start sending messages
+[2016-04-27 14:53:01] Trying to restart thread
+[2016-04-27 14:53:01] Connected to remote host. Start sending messages
+[2016-04-27 15:23:02] Trying to restart thread
+[2016-04-27 15:23:02] Connected to remote host. Start sending messages
+[2016-04-27 15:53:01] Trying to restart thread
+[2016-04-27 15:53:02] Connected to remote host. Start sending messages
+[2016-04-27 16:09:12] Wed Apr 27 16:09:12 2016 | 1137172533 | 27818605558 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-04-27 16:09:12
+No customer with msisdn=27818605558 found.
+[2016-04-27 16:10:09] Wed Apr 27 16:10:09 2016 | 1137176849 | 27818605558 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-04-27 16:10:09
+No customer with msisdn=27818605558 found.
+[2016-04-27 16:40:09] Trying to restart thread
+[2016-04-27 16:40:09] Connected to remote host. Start sending messages
+[2016-04-27 17:10:10] Trying to restart thread
+[2016-04-27 17:10:10] Connected to remote host. Start sending messages
+[2016-04-27 17:40:10] Trying to restart thread
+[2016-04-27 17:40:10] Connected to remote host. Start sending messages
+[2016-04-27 18:10:09] Trying to restart thread
+[2016-04-27 18:10:10] Connected to remote host. Start sending messages
+[2016-04-27 18:40:10] Trying to restart thread
+[2016-04-27 18:40:10] Connected to remote host. Start sending messages
+[2016-04-27 19:10:09] Trying to restart thread
+[2016-04-27 19:10:10] Connected to remote host. Start sending messages
+[2016-04-27 19:40:09] Trying to restart thread
+[2016-04-27 19:40:09] Connected to remote host. Start sending messages
+[2016-04-27 20:10:09] Trying to restart thread
+[2016-04-27 20:10:09] Connected to remote host. Start sending messages
+[2016-04-27 20:40:09] Trying to restart thread
+[2016-04-27 20:40:09] Connected to remote host. Start sending messages
+[2016-04-27 21:01:35] Wed Apr 27 21:01:35 2016 | 1819046763 | 27795577802 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-04-27 21:01:35
+No customer with msisdn=27795577802 found.
+[2016-04-27 21:31:35] Trying to restart thread
+[2016-04-27 21:31:35] Connected to remote host. Start sending messages
+[2016-04-27 22:01:35] Trying to restart thread
+[2016-04-27 22:01:36] Connected to remote host. Start sending messages
+[2016-04-27 22:31:35] Trying to restart thread
+[2016-04-27 22:31:36] Connected to remote host. Start sending messages
+[2016-04-27 23:01:36] Trying to restart thread
+[2016-04-27 23:01:36] Connected to remote host. Start sending messages
+[2016-04-27 23:08:00] Wed Apr 27 23:08:00 2016 | 1139394166 | 27764594621 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-04-27 23:08:00
+No customer with msisdn=27764594621 found.
+[2016-04-27 23:38:00] Trying to restart thread
+[2016-04-27 23:38:01] Connected to remote host. Start sending messages
+[2016-04-28 00:08:01] Trying to restart thread
+[2016-04-28 00:08:01] Connected to remote host. Start sending messages
+[2016-04-28 00:38:01] Trying to restart thread
+[2016-04-28 00:38:01] Connected to remote host. Start sending messages
+[2016-04-28 01:08:00] Trying to restart thread
+[2016-04-28 01:08:00] Connected to remote host. Start sending messages
+[2016-04-28 01:38:00] Trying to restart thread
+[2016-04-28 01:38:01] Connected to remote host. Start sending messages
+[2016-04-28 02:08:00] Trying to restart thread
+[2016-04-28 02:08:01] Connected to remote host. Start sending messages
+[2016-04-28 02:38:00] Trying to restart thread
+[2016-04-28 02:38:00] Connected to remote host. Start sending messages
+[2016-04-28 03:08:00] Trying to restart thread
+[2016-04-28 03:08:01] Connected to remote host. Start sending messages
+[2016-04-28 03:38:00] Trying to restart thread
+[2016-04-28 03:38:00] Connected to remote host. Start sending messages
+[2016-04-28 04:08:00] Trying to restart thread
+[2016-04-28 04:08:01] Connected to remote host. Start sending messages
+[2016-04-28 04:38:00] Trying to restart thread
+[2016-04-28 04:38:01] Connected to remote host. Start sending messages
+[2016-04-28 05:08:00] Trying to restart thread
+[2016-04-28 05:08:01] Connected to remote host. Start sending messages
+[2016-04-28 05:38:00] Trying to restart thread
+[2016-04-28 05:38:00] Connected to remote host. Start sending messages
+[2016-04-28 06:08:00] Trying to restart thread
+[2016-04-28 06:08:01] Connected to remote host. Start sending messages
+[2016-04-28 06:38:00] Trying to restart thread
+[2016-04-28 06:38:01] Connected to remote host. Start sending messages
+[2016-04-28 07:08:00] Trying to restart thread
+[2016-04-28 07:08:01] Connected to remote host. Start sending messages
+[2016-04-28 07:38:01] Trying to restart thread
+[2016-04-28 07:38:01] Connected to remote host. Start sending messages
+[2016-04-28 08:08:00] Trying to restart thread
+[2016-04-28 08:08:00] Connected to remote host. Start sending messages
+[2016-04-28 08:38:00] Trying to restart thread
+[2016-04-28 08:38:00] Connected to remote host. Start sending messages
+[2016-04-28 08:39:45] Connected to remote host. Start sending messages
+[2016-04-28 09:08:00] Trying to restart thread
+[2016-04-28 09:08:01] Connected to remote host. Start sending messages
+[2016-04-28 09:38:00] Trying to restart thread
+[2016-04-28 09:38:01] Connected to remote host. Start sending messages
+[2016-04-28 10:08:00] Trying to restart thread
+[2016-04-28 10:08:01] Connected to remote host. Start sending messages
+[2016-04-28 10:38:00] Trying to restart thread
+[2016-04-28 10:38:01] Connected to remote host. Start sending messages
+[2016-04-28 11:08:01] Trying to restart thread
+[2016-04-28 11:08:02] Connected to remote host. Start sending messages
+[2016-04-28 11:38:01] Trying to restart thread
+[2016-04-28 11:38:02] Connected to remote host. Start sending messages
+[2016-04-28 12:08:01] Trying to restart thread
+[2016-04-28 12:08:02] Connected to remote host. Start sending messages
+[2016-04-28 12:38:01] Trying to restart thread
+[2016-04-28 12:38:02] Connected to remote host. Start sending messages
+[2016-04-28 13:08:01] Trying to restart thread
+[2016-04-28 13:08:02] Connected to remote host. Start sending messages
+[2016-04-28 13:38:02] Trying to restart thread
+[2016-04-28 13:38:02] Connected to remote host. Start sending messages
+[2016-04-28 14:08:02] Trying to restart thread
+[2016-04-28 14:08:02] Connected to remote host. Start sending messages
+[2016-04-28 14:38:01] Trying to restart thread
+[2016-04-28 14:38:02] Connected to remote host. Start sending messages
+[2016-04-28 14:40:23] Thu Apr 28 14:40:23 2016 | 15663649 | 27613986954 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-04-28 14:40:23
+[2016-04-28 15:10:24] Trying to restart thread
+[2016-04-28 15:10:24] Connected to remote host. Start sending messages
+[2016-04-28 15:40:23] Trying to restart thread
+[2016-04-28 15:40:23] Connected to remote host. Start sending messages
+[2016-04-28 16:10:24] Trying to restart thread
+[2016-04-28 16:10:24] Connected to remote host. Start sending messages
+[2016-04-28 16:40:24] Trying to restart thread
+[2016-04-28 16:40:24] Connected to remote host. Start sending messages
+[2016-04-28 17:10:23] Trying to restart thread
+[2016-04-28 17:10:24] Connected to remote host. Start sending messages
+[2016-04-28 17:40:23] Trying to restart thread
+[2016-04-28 17:40:25] Connected to remote host. Start sending messages
+[2016-04-28 18:10:24] Trying to restart thread
+[2016-04-28 18:10:24] Connected to remote host. Start sending messages
+[2016-04-28 18:40:23] Trying to restart thread
+[2016-04-28 18:40:24] Connected to remote host. Start sending messages
+[2016-04-28 19:10:23] Trying to restart thread
+[2016-04-28 19:10:23] Connected to remote host. Start sending messages
+[2016-04-28 19:40:23] Trying to restart thread
+[2016-04-28 19:40:24] Connected to remote host. Start sending messages
+[2016-04-28 20:10:24] Trying to restart thread
+[2016-04-28 20:10:24] Connected to remote host. Start sending messages
+[2016-04-28 20:40:04] Thu Apr 28 20:40:04 2016 | 586466199 | 27608269692 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-04-28 20:40:04
+No customer with msisdn=27608269692 found.
+[2016-04-28 21:10:04] Trying to restart thread
+[2016-04-28 21:10:05] Connected to remote host. Start sending messages
+[2016-04-28 21:40:04] Trying to restart thread
+[2016-04-28 21:40:05] Connected to remote host. Start sending messages
+[2016-04-28 22:10:04] Trying to restart thread
+[2016-04-28 22:10:05] Connected to remote host. Start sending messages
+[2016-04-28 22:40:04] Trying to restart thread
+[2016-04-28 22:40:05] Connected to remote host. Start sending messages
+[2016-04-28 23:10:05] Trying to restart thread
+[2016-04-28 23:10:05] Connected to remote host. Start sending messages
+[2016-04-28 23:40:04] Trying to restart thread
+[2016-04-28 23:40:05] Connected to remote host. Start sending messages
+[2016-04-29 00:10:05] Trying to restart thread
+[2016-04-29 00:10:05] Connected to remote host. Start sending messages
+[2016-04-29 00:40:04] Trying to restart thread
+[2016-04-29 00:40:05] Connected to remote host. Start sending messages
+[2016-04-29 00:45:24] Fri Apr 29 00:45:24 2016 | 482956542 | 27828339733 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-04-29 00:45:24
+No customer with msisdn=27828339733 found.
+[2016-04-29 01:15:24] Trying to restart thread
+[2016-04-29 01:15:25] Connected to remote host. Start sending messages
+[2016-04-29 01:45:25] Trying to restart thread
+[2016-04-29 01:45:25] Connected to remote host. Start sending messages
+[2016-04-29 02:15:25] Trying to restart thread
+[2016-04-29 02:15:25] Connected to remote host. Start sending messages
+[2016-04-29 02:45:24] Trying to restart thread
+[2016-04-29 02:45:25] Connected to remote host. Start sending messages
+[2016-04-29 03:15:24] Trying to restart thread
+[2016-04-29 03:15:25] Connected to remote host. Start sending messages
+[2016-04-29 03:45:24] Trying to restart thread
+[2016-04-29 03:45:25] Connected to remote host. Start sending messages
+[2016-04-29 04:15:25] Trying to restart thread
+[2016-04-29 04:15:25] Connected to remote host. Start sending messages
+[2016-04-29 04:45:24] Trying to restart thread
+[2016-04-29 04:45:24] Connected to remote host. Start sending messages
+[2016-04-29 05:15:24] Trying to restart thread
+[2016-04-29 05:15:25] Connected to remote host. Start sending messages
+[2016-04-29 05:45:24] Trying to restart thread
+[2016-04-29 05:45:25] Connected to remote host. Start sending messages
+[2016-04-29 06:15:24] Trying to restart thread
+[2016-04-29 06:15:25] Connected to remote host. Start sending messages
+[2016-04-29 06:45:24] Trying to restart thread
+[2016-04-29 06:45:25] Connected to remote host. Start sending messages
+[2016-04-29 07:15:24] Trying to restart thread
+[2016-04-29 07:15:25] Connected to remote host. Start sending messages
+[2016-04-29 07:45:24] Trying to restart thread
+[2016-04-29 07:45:25] Connected to remote host. Start sending messages
+[2016-04-29 08:15:24] Trying to restart thread
+[2016-04-29 08:15:24] Connected to remote host. Start sending messages
+[2016-04-29 08:45:24] Trying to restart thread
+[2016-04-29 08:45:25] Connected to remote host. Start sending messages
+[2016-04-29 09:15:24] Trying to restart thread
+[2016-04-29 09:15:25] Connected to remote host. Start sending messages
+[2016-04-29 09:45:24] Trying to restart thread
+[2016-04-29 09:45:24] Connected to remote host. Start sending messages
+[2016-04-29 10:15:24] Trying to restart thread
+[2016-04-29 10:15:24] Connected to remote host. Start sending messages
+[2016-04-29 10:45:25] Trying to restart thread
+[2016-04-29 10:45:27] Connected to remote host. Start sending messages
+[2016-04-29 11:15:26] Trying to restart thread
+[2016-04-29 11:15:26] Connected to remote host. Start sending messages
+[2016-04-29 11:45:25] Trying to restart thread
+[2016-04-29 11:45:26] Connected to remote host. Start sending messages
+[2016-04-29 12:15:26] Trying to restart thread
+[2016-04-29 12:15:26] Connected to remote host. Start sending messages
+[2016-04-29 12:45:27] Trying to restart thread
+[2016-04-29 12:45:28] Connected to remote host. Start sending messages
+[2016-04-29 13:15:27] Trying to restart thread
+[2016-04-29 13:15:27] Connected to remote host. Start sending messages
+[2016-04-29 13:45:27] Trying to restart thread
+[2016-04-29 13:45:27] Connected to remote host. Start sending messages
+[2016-04-29 14:15:26] Trying to restart thread
+[2016-04-29 14:15:27] Connected to remote host. Start sending messages
+[2016-04-29 14:45:26] Trying to restart thread
+[2016-04-29 14:45:27] Connected to remote host. Start sending messages
+[2016-04-29 15:15:26] Trying to restart thread
+[2016-04-29 15:15:26] Connected to remote host. Start sending messages
+[2016-04-29 15:45:26] Trying to restart thread
+[2016-04-29 15:45:27] Connected to remote host. Start sending messages
+[2016-04-29 16:15:26] Trying to restart thread
+[2016-04-29 16:15:26] Connected to remote host. Start sending messages
+[2016-04-29 16:45:26] Trying to restart thread
+[2016-04-29 16:45:27] Connected to remote host. Start sending messages
+[2016-04-29 17:15:26] Trying to restart thread
+[2016-04-29 17:15:27] Connected to remote host. Start sending messages
+[2016-04-29 17:45:26] Trying to restart thread
+[2016-04-29 17:45:27] Connected to remote host. Start sending messages
+[2016-04-29 18:15:26] Trying to restart thread
+[2016-04-29 18:15:27] Connected to remote host. Start sending messages
+[2016-04-29 18:45:26] Trying to restart thread
+[2016-04-29 18:45:27] Connected to remote host. Start sending messages
+[2016-04-29 19:15:26] Trying to restart thread
+[2016-04-29 19:15:26] Connected to remote host. Start sending messages
+[2016-04-29 19:39:55] Fri Apr 29 19:39:55 2016 | 591255261 | 27727360576 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-04-29 19:39:55
+No customer with msisdn=27727360576 found.
+[2016-04-29 20:09:55] Trying to restart thread
+[2016-04-29 20:09:56] Connected to remote host. Start sending messages
+[2016-04-29 20:39:56] Trying to restart thread
+[2016-04-29 20:39:56] Connected to remote host. Start sending messages
+[2016-04-29 21:09:56] Trying to restart thread
+[2016-04-29 21:09:56] Connected to remote host. Start sending messages
+[2016-04-29 21:39:55] Trying to restart thread
+[2016-04-29 21:39:56] Connected to remote host. Start sending messages
+[2016-04-29 22:09:56] Trying to restart thread
+[2016-04-29 22:09:57] Connected to remote host. Start sending messages
+[2016-04-29 22:39:55] Trying to restart thread
+[2016-04-29 22:39:55] Connected to remote host. Start sending messages
+[2016-04-29 23:09:55] Trying to restart thread
+[2016-04-29 23:09:56] Connected to remote host. Start sending messages
+[2016-04-29 23:39:55] Trying to restart thread
+[2016-04-29 23:39:56] Connected to remote host. Start sending messages
+[2016-04-30 00:09:56] Trying to restart thread
+[2016-04-30 00:09:56] Connected to remote host. Start sending messages
+[2016-04-30 00:39:56] Trying to restart thread
+[2016-04-30 00:39:56] Connected to remote host. Start sending messages
+[2016-04-30 01:09:56] Trying to restart thread
+[2016-04-30 01:09:56] Connected to remote host. Start sending messages
+[2016-04-30 01:39:56] Trying to restart thread
+[2016-04-30 01:39:56] Connected to remote host. Start sending messages
+[2016-04-30 02:09:55] Trying to restart thread
+[2016-04-30 02:09:56] Connected to remote host. Start sending messages
+[2016-04-30 02:39:55] Trying to restart thread
+[2016-04-30 02:39:55] Connected to remote host. Start sending messages
+[2016-04-30 03:09:55] Trying to restart thread
+[2016-04-30 03:09:56] Connected to remote host. Start sending messages
+[2016-04-30 03:39:55] Trying to restart thread
+[2016-04-30 03:39:56] Connected to remote host. Start sending messages
+[2016-04-30 04:09:55] Trying to restart thread
+[2016-04-30 04:09:56] Connected to remote host. Start sending messages
+[2016-04-30 04:39:55] Trying to restart thread
+[2016-04-30 04:39:56] Connected to remote host. Start sending messages
+[2016-04-30 05:09:55] Trying to restart thread
+[2016-04-30 05:09:56] Connected to remote host. Start sending messages
+[2016-04-30 05:39:55] Trying to restart thread
+[2016-04-30 05:39:55] Connected to remote host. Start sending messages
+[2016-04-30 06:09:55] Trying to restart thread
+[2016-04-30 06:09:56] Connected to remote host. Start sending messages
+[2016-04-30 06:39:56] Trying to restart thread
+[2016-04-30 06:39:56] Connected to remote host. Start sending messages
+[2016-04-30 07:09:56] Trying to restart thread
+[2016-04-30 07:09:56] Connected to remote host. Start sending messages
+[2016-04-30 07:39:55] Trying to restart thread
+[2016-04-30 07:39:56] Connected to remote host. Start sending messages
+[2016-04-30 08:09:55] Trying to restart thread
+[2016-04-30 08:09:56] Connected to remote host. Start sending messages
+[2016-04-30 08:39:55] Trying to restart thread
+[2016-04-30 08:39:56] Connected to remote host. Start sending messages
+[2016-04-30 09:09:55] Trying to restart thread
+[2016-04-30 09:09:56] Connected to remote host. Start sending messages
+[2016-04-30 09:39:55] Trying to restart thread
+[2016-04-30 09:39:56] Connected to remote host. Start sending messages
+[2016-04-30 10:09:55] Trying to restart thread
+[2016-04-30 10:09:56] Connected to remote host. Start sending messages
+[2016-04-30 10:39:56] Trying to restart thread
+[2016-04-30 10:39:56] Connected to remote host. Start sending messages
+[2016-04-30 11:09:55] Trying to restart thread
+[2016-04-30 11:09:56] Connected to remote host. Start sending messages
+[2016-04-30 11:39:55] Trying to restart thread
+[2016-04-30 11:39:56] Connected to remote host. Start sending messages
+[2016-04-30 12:09:55] Trying to restart thread
+[2016-04-30 12:09:56] Connected to remote host. Start sending messages
+[2016-04-30 12:39:56] Trying to restart thread
+[2016-04-30 12:39:56] Connected to remote host. Start sending messages
+[2016-04-30 13:09:55] Trying to restart thread
+[2016-04-30 13:09:56] Connected to remote host. Start sending messages
+[2016-04-30 13:39:55] Trying to restart thread
+[2016-04-30 13:39:56] Connected to remote host. Start sending messages
+[2016-04-30 14:09:55] Trying to restart thread
+[2016-04-30 14:09:56] Connected to remote host. Start sending messages
+[2016-04-30 14:39:55] Trying to restart thread
+[2016-04-30 14:39:56] Connected to remote host. Start sending messages
+[2016-04-30 15:09:56] Trying to restart thread
+[2016-04-30 15:09:56] Connected to remote host. Start sending messages
+[2016-04-30 15:39:55] Trying to restart thread
+[2016-04-30 15:39:56] Connected to remote host. Start sending messages
+[2016-04-30 16:09:55] Trying to restart thread
+[2016-04-30 16:09:56] Connected to remote host. Start sending messages
+[2016-04-30 16:39:56] Trying to restart thread
+[2016-04-30 16:39:56] Connected to remote host. Start sending messages
+[2016-04-30 17:09:55] Trying to restart thread
+[2016-04-30 17:09:56] Connected to remote host. Start sending messages
+[2016-04-30 17:10:22] 
+Disconnected from chat server
+[2016-04-30 17:12:02] 
+Disconnected from chat server
+[2016-04-30 17:13:43] 
+Disconnected from chat server
+[2016-04-30 17:15:23] 
+Disconnected from chat server
+[2016-04-30 17:17:03] 
+Disconnected from chat server
+[2016-04-30 17:18:43] 
+Disconnected from chat server
+[2016-04-30 17:20:23] 
+Disconnected from chat server
+[2016-04-30 17:22:03] 
+Disconnected from chat server
+[2016-04-30 17:23:44] 
+Disconnected from chat server
+[2016-04-30 17:25:24] 
+Disconnected from chat server
+[2016-04-30 17:27:04] 
+Disconnected from chat server
+[2016-04-30 17:28:44] 
+Disconnected from chat server
+[2016-04-30 17:30:24] 
+Disconnected from chat server
+[2016-04-30 17:32:04] 
+Disconnected from chat server
+[2016-04-30 17:33:44] 
+Disconnected from chat server
+[2016-04-30 17:35:25] 
+Disconnected from chat server
+[2016-04-30 17:37:05] 
+Disconnected from chat server
+[2016-04-30 17:38:45] 
+Disconnected from chat server
+[2016-04-30 17:40:25] Trying to restart thread
+[2016-04-30 17:40:26] Connected to remote host. Start sending messages
+[2016-04-30 18:09:55] Trying to restart thread
+[2016-04-30 18:09:56] Connected to remote host. Start sending messages
+[2016-04-30 18:39:55] Trying to restart thread
+[2016-04-30 18:39:55] Connected to remote host. Start sending messages
+[2016-04-30 19:09:55] Trying to restart thread
+[2016-04-30 19:09:56] Connected to remote host. Start sending messages
+[2016-04-30 19:24:19] Sat Apr 30 19:24:19 2016 | 493189806 | 27792583775 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-04-30 19:24:19
+No customer with msisdn=27792583775 found.
+[2016-04-30 19:29:34] Sat Apr 30 19:29:34 2016 | 1527167031 | 27792583775 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-04-30 19:29:34
+No customer with msisdn=27792583775 found.
+[2016-04-30 19:59:34] Trying to restart thread
+[2016-04-30 19:59:35] Connected to remote host. Start sending messages
+[2016-04-30 20:29:34] Trying to restart thread
+[2016-04-30 20:29:34] Connected to remote host. Start sending messages
+[2016-04-30 20:59:35] Trying to restart thread
+[2016-04-30 20:59:35] Connected to remote host. Start sending messages
+[2016-04-30 21:10:02] Connected to remote host. Start sending messages
+[2016-04-30 21:18:30] 
+Disconnected from chat server
+[2016-04-30 21:20:11] 
+Disconnected from chat server
+[2016-04-30 21:21:51] 
+Disconnected from chat server
+[2016-04-30 21:23:31] 
+Disconnected from chat server
+[2016-04-30 21:25:11] 
+Disconnected from chat server
+[2016-04-30 21:26:51] 
+Disconnected from chat server
+[2016-04-30 21:28:32] 
+Disconnected from chat server
+[2016-04-30 21:30:12] Trying to restart thread
+[2016-04-30 21:30:12] Unable to connect: [Errno 111] Connection refused
+[2016-04-30 21:30:13] Connected to remote host. Start sending messages
+[2016-04-30 21:59:34] Trying to restart thread
+[2016-04-30 21:59:34] Unable to connect: [Errno 111] Connection refused
+[2016-04-30 21:59:34] Connected to remote host. Start sending messages
+[2016-04-30 22:29:34] Trying to restart thread
+[2016-04-30 22:29:34] Unable to connect: [Errno 111] Connection refused
+[2016-04-30 22:29:34] Connected to remote host. Start sending messages
+[2016-04-30 22:59:34] Trying to restart thread
+[2016-04-30 22:59:34] Unable to connect: [Errno 111] Connection refused
+[2016-04-30 22:59:34] Connected to remote host. Start sending messages
+[2016-04-30 23:29:34] Trying to restart thread
+[2016-04-30 23:29:34] Unable to connect: [Errno 111] Connection refused
+[2016-04-30 23:29:34] Connected to remote host. Start sending messages
+[2016-04-30 23:59:34] Trying to restart thread
+[2016-04-30 23:59:34] Unable to connect: [Errno 111] Connection refused
+[2016-04-30 23:59:34] Connected to remote host. Start sending messages
+[2016-05-01 00:29:34] Trying to restart thread
+[2016-05-01 00:29:34] Unable to connect: [Errno 111] Connection refused
+[2016-05-01 00:29:34] Connected to remote host. Start sending messages
+[2016-05-01 00:59:34] Trying to restart thread
+[2016-05-01 00:59:34] Unable to connect: [Errno 111] Connection refused
+[2016-05-01 00:59:34] Connected to remote host. Start sending messages
+[2016-05-01 01:29:34] Trying to restart thread
+[2016-05-01 01:29:34] Unable to connect: [Errno 111] Connection refused
+[2016-05-01 01:29:34] Connected to remote host. Start sending messages
+[2016-05-01 01:59:34] Trying to restart thread
+[2016-05-01 01:59:34] Unable to connect: [Errno 111] Connection refused
+[2016-05-01 01:59:34] Connected to remote host. Start sending messages
+[2016-05-01 02:29:34] Trying to restart thread
+[2016-05-01 02:29:34] Unable to connect: [Errno 111] Connection refused
+[2016-05-01 02:29:34] Connected to remote host. Start sending messages
+[2016-05-01 02:59:34] Trying to restart thread
+[2016-05-01 02:59:34] Unable to connect: [Errno 111] Connection refused
+[2016-05-01 02:59:34] Connected to remote host. Start sending messages
+[2016-05-01 03:29:34] Trying to restart thread
+[2016-05-01 03:29:34] Unable to connect: [Errno 111] Connection refused
+[2016-05-01 03:29:34] Connected to remote host. Start sending messages
+[2016-05-01 03:59:34] Trying to restart thread
+[2016-05-01 03:59:34] Unable to connect: [Errno 111] Connection refused
+[2016-05-01 03:59:34] Connected to remote host. Start sending messages
+[2016-05-01 04:29:34] Trying to restart thread
+[2016-05-01 04:29:35] Unable to connect: [Errno 111] Connection refused
+[2016-05-01 04:29:35] Connected to remote host. Start sending messages
+[2016-05-01 04:59:34] Trying to restart thread
+[2016-05-01 04:59:34] Unable to connect: [Errno 111] Connection refused
+[2016-05-01 04:59:34] Connected to remote host. Start sending messages
+[2016-05-01 05:29:34] Trying to restart thread
+[2016-05-01 05:29:34] Unable to connect: [Errno 111] Connection refused
+[2016-05-01 05:29:34] Connected to remote host. Start sending messages
+[2016-05-01 05:59:34] Trying to restart thread
+[2016-05-01 05:59:34] Unable to connect: [Errno 111] Connection refused
+[2016-05-01 05:59:34] Connected to remote host. Start sending messages
+[2016-05-01 06:29:34] Trying to restart thread
+[2016-05-01 06:29:34] Unable to connect: [Errno 111] Connection refused
+[2016-05-01 06:29:34] Connected to remote host. Start sending messages
+[2016-05-01 06:59:34] Trying to restart thread
+[2016-05-01 06:59:35] Unable to connect: [Errno 111] Connection refused
+[2016-05-01 06:59:35] Connected to remote host. Start sending messages
+[2016-05-01 07:29:34] Trying to restart thread
+[2016-05-01 07:29:34] Unable to connect: [Errno 111] Connection refused
+[2016-05-01 07:29:34] Connected to remote host. Start sending messages
+[2016-05-01 07:59:34] Trying to restart thread
+[2016-05-01 07:59:34] Unable to connect: [Errno 111] Connection refused
+[2016-05-01 07:59:34] Connected to remote host. Start sending messages
+[2016-05-01 08:29:34] Trying to restart thread
+[2016-05-01 08:29:35] Unable to connect: [Errno 111] Connection refused
+[2016-05-01 08:29:35] Connected to remote host. Start sending messages
+[2016-05-01 08:59:34] Trying to restart thread
+[2016-05-01 08:59:34] Unable to connect: [Errno 111] Connection refused
+[2016-05-01 08:59:34] Connected to remote host. Start sending messages
+[2016-05-01 09:29:34] Trying to restart thread
+[2016-05-01 09:29:34] Connected to remote host. Start sending messages
+[2016-05-01 09:59:34] Trying to restart thread
+[2016-05-01 09:59:35] Connected to remote host. Start sending messages
+[2016-05-01 10:29:34] Trying to restart thread
+[2016-05-01 10:29:35] Connected to remote host. Start sending messages
+[2016-05-01 10:59:34] Trying to restart thread
+[2016-05-01 10:59:35] Connected to remote host. Start sending messages
+[2016-05-01 11:29:34] Trying to restart thread
+[2016-05-01 11:29:34] Connected to remote host. Start sending messages
+[2016-05-01 11:59:35] Trying to restart thread
+[2016-05-01 11:59:35] Connected to remote host. Start sending messages
+[2016-05-01 12:29:34] Trying to restart thread
+[2016-05-01 12:29:35] Connected to remote host. Start sending messages
+[2016-05-01 12:59:34] Trying to restart thread
+[2016-05-01 12:59:34] Connected to remote host. Start sending messages
+[2016-05-01 13:29:34] Trying to restart thread
+[2016-05-01 13:29:35] Connected to remote host. Start sending messages
+[2016-05-01 13:59:35] Trying to restart thread
+[2016-05-01 13:59:35] Connected to remote host. Start sending messages
+[2016-05-01 14:29:34] Trying to restart thread
+[2016-05-01 14:29:34] Connected to remote host. Start sending messages
+[2016-05-01 14:59:35] Trying to restart thread
+[2016-05-01 14:59:35] Connected to remote host. Start sending messages
+[2016-05-01 15:29:34] Trying to restart thread
+[2016-05-01 15:29:35] Connected to remote host. Start sending messages
+[2016-05-01 15:59:35] Trying to restart thread
+[2016-05-01 15:59:35] Connected to remote host. Start sending messages
+[2016-05-01 16:29:34] Trying to restart thread
+[2016-05-01 16:29:35] Connected to remote host. Start sending messages
+[2016-05-01 16:59:35] Trying to restart thread
+[2016-05-01 16:59:35] Connected to remote host. Start sending messages
+[2016-05-01 17:29:34] Trying to restart thread
+[2016-05-01 17:29:35] Connected to remote host. Start sending messages
+[2016-05-01 17:59:34] Trying to restart thread
+[2016-05-01 17:59:35] Connected to remote host. Start sending messages
+[2016-05-01 18:29:35] Trying to restart thread
+[2016-05-01 18:29:36] Connected to remote host. Start sending messages
+[2016-05-01 18:59:34] Trying to restart thread
+[2016-05-01 18:59:35] Connected to remote host. Start sending messages
+[2016-05-01 19:25:38] 
+Disconnected from chat server
+[2016-05-01 19:27:18] 
+Disconnected from chat server
+[2016-05-01 19:28:59] 
+Disconnected from chat server
+[2016-05-01 19:30:39] Trying to restart thread
+[2016-05-01 19:30:39] Unable to connect: [Errno 111] Connection refused
+[2016-05-01 19:30:39] Connected to remote host. Start sending messages
+[2016-05-01 19:59:34] Trying to restart thread
+[2016-05-01 19:59:34] Unable to connect: [Errno 111] Connection refused
+[2016-05-01 19:59:34] Connected to remote host. Start sending messages
+[2016-05-01 20:29:34] Trying to restart thread
+[2016-05-01 20:29:34] Unable to connect: [Errno 111] Connection refused
+[2016-05-01 20:29:34] Connected to remote host. Start sending messages
+[2016-05-01 20:59:34] Trying to restart thread
+[2016-05-01 20:59:35] Unable to connect: [Errno 111] Connection refused
+[2016-05-01 20:59:35] Connected to remote host. Start sending messages
+[2016-05-01 21:29:34] Trying to restart thread
+[2016-05-01 21:29:34] Connected to remote host. Start sending messages
+[2016-05-01 21:59:35] Trying to restart thread
+[2016-05-01 21:59:35] Connected to remote host. Start sending messages
+[2016-05-01 22:29:35] Trying to restart thread
+[2016-05-01 22:29:35] Connected to remote host. Start sending messages
+[2016-05-01 22:59:34] Trying to restart thread
+[2016-05-01 22:59:35] Connected to remote host. Start sending messages
+[2016-05-01 23:29:34] Trying to restart thread
+[2016-05-01 23:29:35] Connected to remote host. Start sending messages
+[2016-05-01 23:59:35] Trying to restart thread
+[2016-05-01 23:59:35] Connected to remote host. Start sending messages
+[2016-05-02 00:29:34] Trying to restart thread
+[2016-05-02 00:29:35] Connected to remote host. Start sending messages
+[2016-05-02 00:59:35] Trying to restart thread
+[2016-05-02 00:59:35] Connected to remote host. Start sending messages
+[2016-05-02 01:29:35] Trying to restart thread
+[2016-05-02 01:29:35] Connected to remote host. Start sending messages
+[2016-05-02 01:39:15] 
+Disconnected from chat server
+[2016-05-02 01:40:56] 
+Disconnected from chat server
+[2016-05-02 01:42:36] 
+Disconnected from chat server
+[2016-05-02 01:44:16] 
+Disconnected from chat server
+[2016-05-02 01:45:56] 
+Disconnected from chat server
+[2016-05-02 01:47:36] 
+Disconnected from chat server
+[2016-05-02 01:49:16] 
+Disconnected from chat server
+[2016-05-02 01:50:56] 
+Disconnected from chat server
+[2016-05-02 01:52:36] 
+Disconnected from chat server
+[2016-05-02 01:54:17] 
+Disconnected from chat server
+[2016-05-02 01:55:57] 
+Disconnected from chat server
+[2016-05-02 01:57:37] 
+Disconnected from chat server
+[2016-05-02 01:59:17] 
+Disconnected from chat server
+[2016-05-02 02:00:57] Trying to restart thread
+[2016-05-02 02:00:58] Unable to connect: [Errno 111] Connection refused
+[2016-05-02 02:00:58] Connected to remote host. Start sending messages
+[2016-05-02 02:29:34] Trying to restart thread
+[2016-05-02 02:29:34] Connected to remote host. Start sending messages
+[2016-05-02 02:59:34] Trying to restart thread
+[2016-05-02 02:59:35] Connected to remote host. Start sending messages
+[2016-05-02 03:29:35] Trying to restart thread
+[2016-05-02 03:29:35] Connected to remote host. Start sending messages
+[2016-05-02 03:59:34] Trying to restart thread
+[2016-05-02 03:59:34] Connected to remote host. Start sending messages
+[2016-05-02 04:29:34] Trying to restart thread
+[2016-05-02 04:29:35] Connected to remote host. Start sending messages
+[2016-05-02 04:59:34] Trying to restart thread
+[2016-05-02 04:59:34] Connected to remote host. Start sending messages
+[2016-05-02 05:29:35] Trying to restart thread
+[2016-05-02 05:29:35] Connected to remote host. Start sending messages
+[2016-05-02 05:59:35] Trying to restart thread
+[2016-05-02 05:59:35] Connected to remote host. Start sending messages
+[2016-05-02 06:29:34] Trying to restart thread
+[2016-05-02 06:29:35] Connected to remote host. Start sending messages
+[2016-05-02 06:59:34] Trying to restart thread
+[2016-05-02 06:59:35] Connected to remote host. Start sending messages
+[2016-05-02 07:29:35] Trying to restart thread
+[2016-05-02 07:29:35] Connected to remote host. Start sending messages
+[2016-05-02 07:59:34] Trying to restart thread
+[2016-05-02 07:59:35] Connected to remote host. Start sending messages
+[2016-05-02 08:29:34] Trying to restart thread
+[2016-05-02 08:29:35] Connected to remote host. Start sending messages
+[2016-05-02 08:59:34] Trying to restart thread
+[2016-05-02 08:59:35] Connected to remote host. Start sending messages
+[2016-05-02 09:29:34] Trying to restart thread
+[2016-05-02 09:29:35] Connected to remote host. Start sending messages
+[2016-05-02 09:59:35] Trying to restart thread
+[2016-05-02 09:59:35] Connected to remote host. Start sending messages
+[2016-05-02 10:29:34] Trying to restart thread
+[2016-05-02 10:29:35] Connected to remote host. Start sending messages
+[2016-05-02 10:59:34] Trying to restart thread
+[2016-05-02 10:59:34] Connected to remote host. Start sending messages
+[2016-05-02 11:29:35] Trying to restart thread
+[2016-05-02 11:29:35] Connected to remote host. Start sending messages
+[2016-05-02 11:59:34] Trying to restart thread
+[2016-05-02 11:59:34] Connected to remote host. Start sending messages
+[2016-05-02 12:29:35] Trying to restart thread
+[2016-05-02 12:29:36] Connected to remote host. Start sending messages
+[2016-05-02 12:59:34] Trying to restart thread
+[2016-05-02 12:59:35] Connected to remote host. Start sending messages
+[2016-05-02 13:29:35] Trying to restart thread
+[2016-05-02 13:29:35] Connected to remote host. Start sending messages
+[2016-05-02 13:42:13] Connected to remote host. Start sending messages
+[2016-05-02 13:46:58] Mon May  2 13:46:58 2016 | 5544694401191530019 | 27810378419 | *130*826*12345*1*0810378419*555## | 12345*1*0810378419*555 | PULL_REQUEST | timeRec=2016-05-02 13:46:58
+[2016-05-02 13:47:51] Mon May  2 13:47:51 2016 | 5544694401247767829 | 27810378419 | *130*826*12345*1*0810378419*555## | 12345*1*0810378419*555 | PULL_REQUEST | timeRec=2016-05-02 13:47:51
+[2016-05-02 13:48:01] Mon May  2 13:48:01 2016 | 5544694401247767829 | 27810378419 | *130*826*12345*1*0810378419*555## | STATE: wait_app_phase_2 | ABORT | timeRec=2016-05-02 13:48:01
+[2016-05-02 14:18:02] Trying to restart thread
+[2016-05-02 14:18:02] Connected to remote host. Start sending messages
+[2016-05-02 14:48:02] Trying to restart thread
+[2016-05-02 14:48:02] Connected to remote host. Start sending messages
+[2016-05-02 14:56:21] Mon May  2 14:56:21 2016 | 1534676845 | 27724691726 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-02 14:56:21
+No customer with msisdn=27724691726 found.
+[2016-05-02 15:26:21] Trying to restart thread
+[2016-05-02 15:26:22] Connected to remote host. Start sending messages
+[2016-05-02 15:56:21] Trying to restart thread
+[2016-05-02 15:56:21] Connected to remote host. Start sending messages
+[2016-05-02 16:26:22] Trying to restart thread
+[2016-05-02 16:26:22] Connected to remote host. Start sending messages
+[2016-05-02 16:56:21] Trying to restart thread
+[2016-05-02 16:56:22] Connected to remote host. Start sending messages
+[2016-05-02 17:26:21] Trying to restart thread
+[2016-05-02 17:26:22] Connected to remote host. Start sending messages
+[2016-05-02 17:56:22] Trying to restart thread
+[2016-05-02 17:56:22] Connected to remote host. Start sending messages
+[2016-05-02 18:26:21] Trying to restart thread
+[2016-05-02 18:26:21] Connected to remote host. Start sending messages
+[2016-05-02 18:56:21] Trying to restart thread
+[2016-05-02 18:56:21] Connected to remote host. Start sending messages
+[2016-05-02 19:26:21] Trying to restart thread
+[2016-05-02 19:26:22] Connected to remote host. Start sending messages
+[2016-05-02 19:56:22] Trying to restart thread
+[2016-05-02 19:56:22] Connected to remote host. Start sending messages
+[2016-05-02 20:26:22] Trying to restart thread
+[2016-05-02 20:26:22] Connected to remote host. Start sending messages
+[2016-05-02 20:56:21] Trying to restart thread
+[2016-05-02 20:56:22] Connected to remote host. Start sending messages
+[2016-05-02 21:26:21] Trying to restart thread
+[2016-05-02 21:26:22] Connected to remote host. Start sending messages
+[2016-05-02 21:56:21] Trying to restart thread
+[2016-05-02 21:56:21] Connected to remote host. Start sending messages
+[2016-05-02 22:26:22] Trying to restart thread
+[2016-05-02 22:26:22] Connected to remote host. Start sending messages
+[2016-05-02 22:56:21] Trying to restart thread
+[2016-05-02 22:56:22] Connected to remote host. Start sending messages
+[2016-05-02 23:26:22] Trying to restart thread
+[2016-05-02 23:26:22] Connected to remote host. Start sending messages
+[2016-05-02 23:56:22] Trying to restart thread
+[2016-05-02 23:56:22] Connected to remote host. Start sending messages
+[2016-05-03 00:26:21] Trying to restart thread
+[2016-05-03 00:26:22] Connected to remote host. Start sending messages
+[2016-05-03 00:56:22] Trying to restart thread
+[2016-05-03 00:56:22] Connected to remote host. Start sending messages
+[2016-05-03 01:26:22] Trying to restart thread
+[2016-05-03 01:26:22] Connected to remote host. Start sending messages
+[2016-05-03 01:56:21] Trying to restart thread
+[2016-05-03 01:56:22] Connected to remote host. Start sending messages
+[2016-05-03 02:26:21] Trying to restart thread
+[2016-05-03 02:26:22] Connected to remote host. Start sending messages
+[2016-05-03 02:56:21] Trying to restart thread
+[2016-05-03 02:56:22] Connected to remote host. Start sending messages
+[2016-05-03 03:26:21] Trying to restart thread
+[2016-05-03 03:26:22] Connected to remote host. Start sending messages
+[2016-05-03 03:56:21] Trying to restart thread
+[2016-05-03 03:56:22] Connected to remote host. Start sending messages
+[2016-05-03 04:26:21] Trying to restart thread
+[2016-05-03 04:26:22] Connected to remote host. Start sending messages
+[2016-05-03 04:56:21] Trying to restart thread
+[2016-05-03 04:56:22] Connected to remote host. Start sending messages
+[2016-05-03 05:26:21] Trying to restart thread
+[2016-05-03 05:26:21] Connected to remote host. Start sending messages
+[2016-05-03 05:56:21] Trying to restart thread
+[2016-05-03 05:56:22] Connected to remote host. Start sending messages
+[2016-05-03 06:26:21] Trying to restart thread
+[2016-05-03 06:26:22] Connected to remote host. Start sending messages
+[2016-05-03 06:56:21] Trying to restart thread
+[2016-05-03 06:56:22] Connected to remote host. Start sending messages
+[2016-05-03 07:26:21] Trying to restart thread
+[2016-05-03 07:26:22] Connected to remote host. Start sending messages
+[2016-05-03 07:56:21] Trying to restart thread
+[2016-05-03 07:56:22] Connected to remote host. Start sending messages
+[2016-05-03 08:26:21] Trying to restart thread
+[2016-05-03 08:26:22] Connected to remote host. Start sending messages
+[2016-05-03 08:56:22] Trying to restart thread
+[2016-05-03 08:56:22] Connected to remote host. Start sending messages
+[2016-05-03 09:26:21] Trying to restart thread
+[2016-05-03 09:26:22] Connected to remote host. Start sending messages
+[2016-05-03 09:56:21] Trying to restart thread
+[2016-05-03 09:56:22] Connected to remote host. Start sending messages
+[2016-05-03 10:26:21] Trying to restart thread
+[2016-05-03 10:26:22] Connected to remote host. Start sending messages
+[2016-05-03 10:56:22] Trying to restart thread
+[2016-05-03 10:56:23] Connected to remote host. Start sending messages
+[2016-05-03 11:26:22] Trying to restart thread
+[2016-05-03 11:26:23] Connected to remote host. Start sending messages
+[2016-05-03 11:56:22] Trying to restart thread
+[2016-05-03 11:56:23] Connected to remote host. Start sending messages
+[2016-05-03 12:26:22] Trying to restart thread
+[2016-05-03 12:26:23] Connected to remote host. Start sending messages
+[2016-05-03 12:56:22] Trying to restart thread
+[2016-05-03 12:56:23] Connected to remote host. Start sending messages
+[2016-05-03 13:26:22] Trying to restart thread
+[2016-05-03 13:26:23] Connected to remote host. Start sending messages
+[2016-05-03 13:56:22] Trying to restart thread
+[2016-05-03 13:56:23] Connected to remote host. Start sending messages
+[2016-05-03 14:26:22] Trying to restart thread
+[2016-05-03 14:26:22] Connected to remote host. Start sending messages
+[2016-05-03 14:56:22] Trying to restart thread
+[2016-05-03 14:56:23] Connected to remote host. Start sending messages
+[2016-05-03 15:26:23] Trying to restart thread
+[2016-05-03 15:26:23] Connected to remote host. Start sending messages
+[2016-05-03 15:56:22] Trying to restart thread
+[2016-05-03 15:56:23] Connected to remote host. Start sending messages
+[2016-05-03 16:26:23] Trying to restart thread
+[2016-05-03 16:26:23] Connected to remote host. Start sending messages
+[2016-05-03 16:56:22] Trying to restart thread
+[2016-05-03 16:56:23] Connected to remote host. Start sending messages
+[2016-05-03 17:26:23] Trying to restart thread
+[2016-05-03 17:26:23] Connected to remote host. Start sending messages
+[2016-05-03 17:56:23] Trying to restart thread
+[2016-05-03 17:56:23] Connected to remote host. Start sending messages
+[2016-05-03 18:26:22] Trying to restart thread
+[2016-05-03 18:26:23] Connected to remote host. Start sending messages
+[2016-05-03 18:56:22] Trying to restart thread
+[2016-05-03 18:56:23] Connected to remote host. Start sending messages
+[2016-05-03 19:26:22] Trying to restart thread
+[2016-05-03 19:26:23] Connected to remote host. Start sending messages
+[2016-05-03 19:56:23] Trying to restart thread
+[2016-05-03 19:56:23] Connected to remote host. Start sending messages
+[2016-05-03 20:26:23] Trying to restart thread
+[2016-05-03 20:26:23] Connected to remote host. Start sending messages
+[2016-05-03 20:56:22] Trying to restart thread
+[2016-05-03 20:56:22] Connected to remote host. Start sending messages
+[2016-05-03 21:26:22] Trying to restart thread
+[2016-05-03 21:26:23] Connected to remote host. Start sending messages
+[2016-05-03 21:56:23] Trying to restart thread
+[2016-05-03 21:56:23] Connected to remote host. Start sending messages
+[2016-05-03 22:26:22] Trying to restart thread
+[2016-05-03 22:26:23] Connected to remote host. Start sending messages
+[2016-05-03 22:56:22] Trying to restart thread
+[2016-05-03 22:56:23] Connected to remote host. Start sending messages
+[2016-05-03 23:26:22] Trying to restart thread
+[2016-05-03 23:26:23] Connected to remote host. Start sending messages
+[2016-05-03 23:56:22] Trying to restart thread
+[2016-05-03 23:56:23] Connected to remote host. Start sending messages
+[2016-05-04 00:26:22] Trying to restart thread
+[2016-05-04 00:26:23] Connected to remote host. Start sending messages
+[2016-05-04 00:56:22] Trying to restart thread
+[2016-05-04 00:56:23] Connected to remote host. Start sending messages
+[2016-05-04 01:26:22] Trying to restart thread
+[2016-05-04 01:26:23] Connected to remote host. Start sending messages
+[2016-05-04 01:56:22] Trying to restart thread
+[2016-05-04 01:56:23] Connected to remote host. Start sending messages
+[2016-05-04 02:26:22] Trying to restart thread
+[2016-05-04 02:26:22] Connected to remote host. Start sending messages
+[2016-05-04 02:56:22] Trying to restart thread
+[2016-05-04 02:56:24] Connected to remote host. Start sending messages
+[2016-05-04 03:26:22] Trying to restart thread
+[2016-05-04 03:26:22] Connected to remote host. Start sending messages
+[2016-05-04 03:56:23] Trying to restart thread
+[2016-05-04 03:56:23] Connected to remote host. Start sending messages
+[2016-05-04 04:26:22] Trying to restart thread
+[2016-05-04 04:26:23] Connected to remote host. Start sending messages
+[2016-05-04 04:56:22] Trying to restart thread
+[2016-05-04 04:56:22] Connected to remote host. Start sending messages
+[2016-05-04 05:26:22] Trying to restart thread
+[2016-05-04 05:26:23] Connected to remote host. Start sending messages
+[2016-05-04 05:56:23] Trying to restart thread
+[2016-05-04 05:56:23] Connected to remote host. Start sending messages
+[2016-05-04 06:26:22] Trying to restart thread
+[2016-05-04 06:26:23] Connected to remote host. Start sending messages
+[2016-05-04 06:56:22] Trying to restart thread
+[2016-05-04 06:56:23] Connected to remote host. Start sending messages
+[2016-05-04 07:22:01] Connected to remote host. Start sending messages
+[2016-05-04 07:26:22] Trying to restart thread
+[2016-05-04 07:26:22] Connected to remote host. Start sending messages
+[2016-05-04 07:56:23] Trying to restart thread
+[2016-05-04 07:56:23] Connected to remote host. Start sending messages
+[2016-05-04 08:26:22] Trying to restart thread
+[2016-05-04 08:26:23] Connected to remote host. Start sending messages
+[2016-05-04 08:56:22] Trying to restart thread
+[2016-05-04 08:56:23] Connected to remote host. Start sending messages
+[2016-05-04 09:18:31] Wed May  4 09:18:31 2016 | 5544694565496835444 | 27783397928 | *130*826*1*8555# | 1*8555 | PULL_REQUEST | timeRec=2016-05-04 09:18:31
+No customer with msisdn=27783397928 found.
+[2016-05-04 09:18:41] Wed May  4 09:18:41 2016 | 5544694565496835444 | 27783397928 | *130*826*1*8555# | STATE: wait_app_phase_2 | ABORT | timeRec=2016-05-04 09:18:41
+No customer with msisdn=27783397928 found.
+[2016-05-04 09:48:41] Trying to restart thread
+[2016-05-04 09:48:42] Connected to remote host. Start sending messages
+[2016-05-04 10:18:41] Trying to restart thread
+[2016-05-04 10:18:42] Connected to remote host. Start sending messages
+[2016-05-04 10:48:42] Trying to restart thread
+[2016-05-04 10:48:42] Connected to remote host. Start sending messages
+[2016-05-04 11:01:42] Wed May  4 11:01:42 2016 | 5544694571988377916 | 27786142449 | *130*826*1*8555# | 1*8555 | PULL_REQUEST | timeRec=2016-05-04 11:01:42
+No customer with msisdn=27786142449 found.
+[2016-05-04 11:01:52] Wed May  4 11:01:52 2016 | 5544694571988377916 | 27786142449 | *130*826*1*8555# | STATE: wait_app_phase_2 | ABORT | timeRec=2016-05-04 11:01:52
+No customer with msisdn=27786142449 found.
+[2016-05-04 11:31:52] Trying to restart thread
+[2016-05-04 11:31:53] Connected to remote host. Start sending messages
+[2016-05-04 12:01:53] Trying to restart thread
+[2016-05-04 12:01:53] Connected to remote host. Start sending messages
+[2016-05-04 12:09:41] Wed May  4 12:09:41 2016 | 613882077 | 27790983838 | *130*826*1*8555# | 1*8555 | PULL_REQUEST | timeRec=2016-05-04 12:09:41
+No customer with msisdn=27790983838 found.
+[2016-05-04 12:39:42] Trying to restart thread
+[2016-05-04 12:39:42] Connected to remote host. Start sending messages
+[2016-05-04 13:09:41] Trying to restart thread
+[2016-05-04 13:09:42] Connected to remote host. Start sending messages
+[2016-05-04 13:39:41] Trying to restart thread
+[2016-05-04 13:39:42] Connected to remote host. Start sending messages
+[2016-05-04 14:09:42] Trying to restart thread
+[2016-05-04 14:09:42] Connected to remote host. Start sending messages
+[2016-05-04 14:39:41] Trying to restart thread
+[2016-05-04 14:39:41] Connected to remote host. Start sending messages
+[2016-05-04 15:09:42] Trying to restart thread
+[2016-05-04 15:09:42] Connected to remote host. Start sending messages
+[2016-05-04 15:39:42] Trying to restart thread
+[2016-05-04 15:39:42] Connected to remote host. Start sending messages
+[2016-05-04 16:09:41] Trying to restart thread
+[2016-05-04 16:09:41] Connected to remote host. Start sending messages
+[2016-05-04 16:39:41] Trying to restart thread
+[2016-05-04 16:39:42] Connected to remote host. Start sending messages
+[2016-05-04 17:09:41] Trying to restart thread
+[2016-05-04 17:09:42] Connected to remote host. Start sending messages
+[2016-05-04 17:39:42] Trying to restart thread
+[2016-05-04 17:39:42] Connected to remote host. Start sending messages
+[2016-05-04 18:09:42] Trying to restart thread
+[2016-05-04 18:09:42] Connected to remote host. Start sending messages
+[2016-05-04 18:10:50] Wed May  4 18:10:50 2016 | 1820762425 | 27762905691 | *130*826*256# | 256 | PULL_REQUEST | timeRec=2016-05-04 18:10:50
+No customer with msisdn=27762905691 found.
+[2016-05-04 18:40:51] Trying to restart thread
+[2016-05-04 18:40:51] Connected to remote host. Start sending messages
+[2016-05-04 19:10:51] Trying to restart thread
+[2016-05-04 19:10:52] Connected to remote host. Start sending messages
+[2016-05-04 19:40:50] Trying to restart thread
+[2016-05-04 19:40:51] Connected to remote host. Start sending messages
+[2016-05-04 19:55:30] Wed May  4 19:55:30 2016 | 5544694605571729399 | 27782723975 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-04 19:55:30
+No customer with msisdn=27782723975 found.
+[2016-05-04 19:55:40] Wed May  4 19:55:40 2016 | 5544694605571729399 | 27782723975 | *130*826# | STATE: wait_app_phase_2 | ABORT | timeRec=2016-05-04 19:55:40
+No customer with msisdn=27782723975 found.
+[2016-05-04 20:25:41] Trying to restart thread
+[2016-05-04 20:25:41] Connected to remote host. Start sending messages
+[2016-05-04 20:55:40] Trying to restart thread
+[2016-05-04 20:55:41] Connected to remote host. Start sending messages
+[2016-05-04 21:25:40] Trying to restart thread
+[2016-05-04 21:25:40] Connected to remote host. Start sending messages
+[2016-05-04 21:55:40] Trying to restart thread
+[2016-05-04 21:55:41] Connected to remote host. Start sending messages
+[2016-05-04 22:25:41] Trying to restart thread
+[2016-05-04 22:25:41] Connected to remote host. Start sending messages
+[2016-05-04 22:55:41] Trying to restart thread
+[2016-05-04 22:55:42] Connected to remote host. Start sending messages
+[2016-05-04 23:25:40] Trying to restart thread
+[2016-05-04 23:25:41] Connected to remote host. Start sending messages
+[2016-05-04 23:55:41] Trying to restart thread
+[2016-05-04 23:55:41] Connected to remote host. Start sending messages
+[2016-05-05 00:25:40] Trying to restart thread
+[2016-05-05 00:25:41] Connected to remote host. Start sending messages
+[2016-05-05 00:55:40] Trying to restart thread
+[2016-05-05 00:55:41] Connected to remote host. Start sending messages
+[2016-05-05 01:06:51] Thu May  5 01:06:51 2016 | 1857218777 | 27763789135 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-05 01:06:51
+No customer with msisdn=27763789135 found.
+[2016-05-05 01:07:16] Thu May  5 01:07:16 2016 | 8159457770 | 27763789135 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-05 01:07:16
+No customer with msisdn=27763789135 found.
+[2016-05-05 01:07:38] Thu May  5 01:07:38 2016 | 8159457890 | 27763789135 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-05 01:07:38
+No customer with msisdn=27763789135 found.
+[2016-05-05 01:37:38] Trying to restart thread
+[2016-05-05 01:37:39] Connected to remote host. Start sending messages
+[2016-05-05 02:07:38] Trying to restart thread
+[2016-05-05 02:07:39] Connected to remote host. Start sending messages
+[2016-05-05 02:37:38] Trying to restart thread
+[2016-05-05 02:37:39] Connected to remote host. Start sending messages
+[2016-05-05 03:07:39] Trying to restart thread
+[2016-05-05 03:07:39] Connected to remote host. Start sending messages
+[2016-05-05 03:37:38] Trying to restart thread
+[2016-05-05 03:37:39] Connected to remote host. Start sending messages
+[2016-05-05 04:07:38] Trying to restart thread
+[2016-05-05 04:07:39] Connected to remote host. Start sending messages
+[2016-05-05 04:37:38] Trying to restart thread
+[2016-05-05 04:37:39] Connected to remote host. Start sending messages
+[2016-05-05 05:07:38] Trying to restart thread
+[2016-05-05 05:07:39] Connected to remote host. Start sending messages
+[2016-05-05 05:37:39] Trying to restart thread
+[2016-05-05 05:37:39] Connected to remote host. Start sending messages
+[2016-05-05 06:07:38] Trying to restart thread
+[2016-05-05 06:07:39] Connected to remote host. Start sending messages
+[2016-05-05 06:37:39] Trying to restart thread
+[2016-05-05 06:37:39] Connected to remote host. Start sending messages
+[2016-05-05 07:07:39] Trying to restart thread
+[2016-05-05 07:07:39] Connected to remote host. Start sending messages
+[2016-05-05 07:37:39] Trying to restart thread
+[2016-05-05 07:37:39] Connected to remote host. Start sending messages
+[2016-05-05 08:07:38] Trying to restart thread
+[2016-05-05 08:07:39] Connected to remote host. Start sending messages
+[2016-05-05 08:37:38] Trying to restart thread
+[2016-05-05 08:37:39] Connected to remote host. Start sending messages
+[2016-05-05 09:07:38] Trying to restart thread
+[2016-05-05 09:07:39] Connected to remote host. Start sending messages
+[2016-05-05 09:37:39] Trying to restart thread
+[2016-05-05 09:37:39] Connected to remote host. Start sending messages
+[2016-05-05 10:07:38] Trying to restart thread
+[2016-05-05 10:07:39] Connected to remote host. Start sending messages
+[2016-05-05 10:37:38] Trying to restart thread
+[2016-05-05 10:37:39] Connected to remote host. Start sending messages
+[2016-05-05 11:07:38] Trying to restart thread
+[2016-05-05 11:07:39] Connected to remote host. Start sending messages
+[2016-05-05 11:37:39] Trying to restart thread
+[2016-05-05 11:37:39] Connected to remote host. Start sending messages
+[2016-05-05 12:07:39] Trying to restart thread
+[2016-05-05 12:07:39] Connected to remote host. Start sending messages
+[2016-05-05 12:37:38] Trying to restart thread
+[2016-05-05 12:37:38] Connected to remote host. Start sending messages
+[2016-05-05 13:07:38] Trying to restart thread
+[2016-05-05 13:07:39] Connected to remote host. Start sending messages
+[2016-05-05 13:37:38] Trying to restart thread
+[2016-05-05 13:37:39] Connected to remote host. Start sending messages
+[2016-05-05 14:07:38] Trying to restart thread
+[2016-05-05 14:07:39] Connected to remote host. Start sending messages
+[2016-05-05 14:37:38] Trying to restart thread
+[2016-05-05 14:37:39] Connected to remote host. Start sending messages
+[2016-05-05 15:07:39] Trying to restart thread
+[2016-05-05 15:07:39] Connected to remote host. Start sending messages
+[2016-05-05 15:37:38] Trying to restart thread
+[2016-05-05 15:37:39] Connected to remote host. Start sending messages
+[2016-05-05 16:07:38] Trying to restart thread
+[2016-05-05 16:07:39] Connected to remote host. Start sending messages
+[2016-05-05 16:37:39] Trying to restart thread
+[2016-05-05 16:37:39] Connected to remote host. Start sending messages
+[2016-05-05 17:07:38] Trying to restart thread
+[2016-05-05 17:07:39] Connected to remote host. Start sending messages
+[2016-05-05 17:37:39] Trying to restart thread
+[2016-05-05 17:37:39] Connected to remote host. Start sending messages
+[2016-05-05 18:07:39] Trying to restart thread
+[2016-05-05 18:07:39] Connected to remote host. Start sending messages
+[2016-05-05 18:37:38] Trying to restart thread
+[2016-05-05 18:37:39] Connected to remote host. Start sending messages
+[2016-05-05 19:07:38] Trying to restart thread
+[2016-05-05 19:07:39] Connected to remote host. Start sending messages
+[2016-05-05 19:37:39] Trying to restart thread
+[2016-05-05 19:37:39] Connected to remote host. Start sending messages
+[2016-05-05 20:07:38] Trying to restart thread
+[2016-05-05 20:07:39] Connected to remote host. Start sending messages
+[2016-05-05 20:37:38] Trying to restart thread
+[2016-05-05 20:37:39] Connected to remote host. Start sending messages
+[2016-05-05 21:07:38] Trying to restart thread
+[2016-05-05 21:07:38] Connected to remote host. Start sending messages
+[2016-05-05 21:37:38] Trying to restart thread
+[2016-05-05 21:37:38] Connected to remote host. Start sending messages
+[2016-05-05 22:07:38] Trying to restart thread
+[2016-05-05 22:07:39] Connected to remote host. Start sending messages
+[2016-05-05 22:37:38] Trying to restart thread
+[2016-05-05 22:37:38] Connected to remote host. Start sending messages
+[2016-05-05 22:40:01] Thu May  5 22:40:01 2016 | 1548825949 | 27760299370 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-05 22:40:01
+No customer with msisdn=27760299370 found.
+[2016-05-05 23:10:02] Trying to restart thread
+[2016-05-05 23:10:02] Connected to remote host. Start sending messages
+[2016-05-05 23:40:01] Trying to restart thread
+[2016-05-05 23:40:02] Connected to remote host. Start sending messages
+[2016-05-06 00:10:01] Trying to restart thread
+[2016-05-06 00:10:02] Connected to remote host. Start sending messages
+[2016-05-06 00:40:01] Trying to restart thread
+[2016-05-06 00:40:01] Connected to remote host. Start sending messages
+[2016-05-06 01:10:01] Trying to restart thread
+[2016-05-06 01:10:01] Connected to remote host. Start sending messages
+[2016-05-06 01:40:01] Trying to restart thread
+[2016-05-06 01:40:02] Connected to remote host. Start sending messages
+[2016-05-06 02:10:02] Trying to restart thread
+[2016-05-06 02:10:02] Connected to remote host. Start sending messages
+[2016-05-06 02:40:01] Trying to restart thread
+[2016-05-06 02:40:01] Connected to remote host. Start sending messages
+[2016-05-06 03:10:01] Trying to restart thread
+[2016-05-06 03:10:01] Connected to remote host. Start sending messages
+[2016-05-06 03:40:01] Trying to restart thread
+[2016-05-06 03:40:02] Connected to remote host. Start sending messages
+[2016-05-06 04:10:02] Trying to restart thread
+[2016-05-06 04:10:02] Connected to remote host. Start sending messages
+[2016-05-06 04:40:01] Trying to restart thread
+[2016-05-06 04:40:02] Connected to remote host. Start sending messages
+[2016-05-06 05:02:52] Fri May  6 05:02:52 2016 | 8164632451 | 27760299370 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-06 05:02:52
+No customer with msisdn=27760299370 found.
+[2016-05-06 05:32:52] Trying to restart thread
+[2016-05-06 05:32:53] Connected to remote host. Start sending messages
+[2016-05-06 06:02:53] Trying to restart thread
+[2016-05-06 06:02:53] Connected to remote host. Start sending messages
+[2016-05-06 06:32:52] Trying to restart thread
+[2016-05-06 06:32:52] Connected to remote host. Start sending messages
+[2016-05-06 07:02:52] Trying to restart thread
+[2016-05-06 07:02:52] Connected to remote host. Start sending messages
+[2016-05-06 07:32:52] Trying to restart thread
+[2016-05-06 07:32:53] Connected to remote host. Start sending messages
+[2016-05-06 08:02:53] Trying to restart thread
+[2016-05-06 08:02:53] Connected to remote host. Start sending messages
+[2016-05-06 08:32:53] Trying to restart thread
+[2016-05-06 08:32:53] Connected to remote host. Start sending messages
+[2016-05-06 09:02:52] Trying to restart thread
+[2016-05-06 09:02:52] Connected to remote host. Start sending messages
+[2016-05-06 09:32:52] Trying to restart thread
+[2016-05-06 09:32:53] Connected to remote host. Start sending messages
+[2016-05-06 10:02:52] Trying to restart thread
+[2016-05-06 10:02:53] Connected to remote host. Start sending messages
+[2016-05-06 10:32:52] Trying to restart thread
+[2016-05-06 10:32:53] Connected to remote host. Start sending messages
+[2016-05-06 11:02:52] Trying to restart thread
+[2016-05-06 11:02:53] Connected to remote host. Start sending messages
+[2016-05-06 11:32:52] Trying to restart thread
+[2016-05-06 11:32:53] Connected to remote host. Start sending messages
+[2016-05-06 12:02:53] Trying to restart thread
+[2016-05-06 12:02:53] Connected to remote host. Start sending messages
+[2016-05-06 12:32:52] Trying to restart thread
+[2016-05-06 12:32:52] Connected to remote host. Start sending messages
+[2016-05-06 13:02:52] Trying to restart thread
+[2016-05-06 13:02:53] Connected to remote host. Start sending messages
+[2016-05-06 13:32:52] Trying to restart thread
+[2016-05-06 13:32:53] Connected to remote host. Start sending messages
+[2016-05-06 14:02:52] Trying to restart thread
+[2016-05-06 14:02:53] Connected to remote host. Start sending messages
+[2016-05-06 14:32:52] Trying to restart thread
+[2016-05-06 14:32:52] Connected to remote host. Start sending messages
+[2016-05-06 15:02:52] Trying to restart thread
+[2016-05-06 15:02:53] Connected to remote host. Start sending messages
+[2016-05-06 15:32:53] Trying to restart thread
+[2016-05-06 15:32:53] Connected to remote host. Start sending messages
+[2016-05-06 16:02:52] Trying to restart thread
+[2016-05-06 16:02:53] Connected to remote host. Start sending messages
+[2016-05-06 16:32:53] Trying to restart thread
+[2016-05-06 16:32:53] Connected to remote host. Start sending messages
+[2016-05-06 17:02:52] Trying to restart thread
+[2016-05-06 17:02:52] Connected to remote host. Start sending messages
+[2016-05-06 17:32:52] Trying to restart thread
+[2016-05-06 17:32:53] Connected to remote host. Start sending messages
+[2016-05-06 18:02:53] Trying to restart thread
+[2016-05-06 18:02:53] Connected to remote host. Start sending messages
+[2016-05-06 18:32:53] Trying to restart thread
+[2016-05-06 18:32:53] Connected to remote host. Start sending messages
+[2016-05-06 19:02:52] Trying to restart thread
+[2016-05-06 19:02:53] Connected to remote host. Start sending messages
+[2016-05-06 19:32:52] Trying to restart thread
+[2016-05-06 19:32:53] Connected to remote host. Start sending messages
+[2016-05-06 20:02:52] Trying to restart thread
+[2016-05-06 20:02:52] Connected to remote host. Start sending messages
+[2016-05-06 20:32:52] Trying to restart thread
+[2016-05-06 20:32:53] Connected to remote host. Start sending messages
+[2016-05-06 21:02:53] Trying to restart thread
+[2016-05-06 21:02:53] Connected to remote host. Start sending messages
+[2016-05-06 21:32:52] Trying to restart thread
+[2016-05-06 21:32:53] Connected to remote host. Start sending messages
+[2016-05-06 22:02:52] Trying to restart thread
+[2016-05-06 22:02:52] Connected to remote host. Start sending messages
+[2016-05-06 22:32:53] Trying to restart thread
+[2016-05-06 22:32:53] Connected to remote host. Start sending messages
+[2016-05-06 23:02:52] Trying to restart thread
+[2016-05-06 23:02:53] Connected to remote host. Start sending messages
+[2016-05-06 23:32:52] Trying to restart thread
+[2016-05-06 23:32:53] Connected to remote host. Start sending messages
+[2016-05-07 00:02:53] Trying to restart thread
+[2016-05-07 00:02:53] Connected to remote host. Start sending messages
+[2016-05-07 00:32:52] Trying to restart thread
+[2016-05-07 00:32:52] Connected to remote host. Start sending messages
+[2016-05-07 01:02:52] Trying to restart thread
+[2016-05-07 01:02:53] Connected to remote host. Start sending messages
+[2016-05-07 01:32:53] Trying to restart thread
+[2016-05-07 01:32:53] Connected to remote host. Start sending messages
+[2016-05-07 02:02:52] Trying to restart thread
+[2016-05-07 02:02:53] Connected to remote host. Start sending messages
+[2016-05-07 02:32:52] Trying to restart thread
+[2016-05-07 02:32:53] Connected to remote host. Start sending messages
+[2016-05-07 03:02:53] Trying to restart thread
+[2016-05-07 03:02:53] Connected to remote host. Start sending messages
+[2016-05-07 03:32:52] Trying to restart thread
+[2016-05-07 03:32:52] Connected to remote host. Start sending messages
+[2016-05-07 04:02:52] Trying to restart thread
+[2016-05-07 04:02:53] Connected to remote host. Start sending messages
+[2016-05-07 04:32:52] Trying to restart thread
+[2016-05-07 04:32:53] Connected to remote host. Start sending messages
+[2016-05-07 05:02:52] Trying to restart thread
+[2016-05-07 05:02:52] Connected to remote host. Start sending messages
+[2016-05-07 05:32:52] Trying to restart thread
+[2016-05-07 05:32:52] Connected to remote host. Start sending messages
+[2016-05-07 06:02:53] Trying to restart thread
+[2016-05-07 06:02:53] Connected to remote host. Start sending messages
+[2016-05-07 06:32:52] Trying to restart thread
+[2016-05-07 06:32:52] Connected to remote host. Start sending messages
+[2016-05-07 07:02:52] Trying to restart thread
+[2016-05-07 07:02:53] Connected to remote host. Start sending messages
+[2016-05-07 07:32:53] Trying to restart thread
+[2016-05-07 07:32:53] Connected to remote host. Start sending messages
+[2016-05-07 08:02:52] Trying to restart thread
+[2016-05-07 08:02:53] Connected to remote host. Start sending messages
+[2016-05-07 08:32:52] Trying to restart thread
+[2016-05-07 08:32:53] Connected to remote host. Start sending messages
+[2016-05-07 09:02:52] Trying to restart thread
+[2016-05-07 09:02:53] Connected to remote host. Start sending messages
+[2016-05-07 09:32:53] Trying to restart thread
+[2016-05-07 09:32:53] Connected to remote host. Start sending messages
+[2016-05-07 10:02:52] Trying to restart thread
+[2016-05-07 10:02:52] Connected to remote host. Start sending messages
+[2016-05-07 10:32:52] Trying to restart thread
+[2016-05-07 10:32:53] Connected to remote host. Start sending messages
+[2016-05-07 11:02:53] Trying to restart thread
+[2016-05-07 11:02:53] Connected to remote host. Start sending messages
+[2016-05-07 11:32:52] Trying to restart thread
+[2016-05-07 11:32:53] Connected to remote host. Start sending messages
+[2016-05-07 12:02:52] Trying to restart thread
+[2016-05-07 12:02:52] Connected to remote host. Start sending messages
+[2016-05-07 12:32:52] Trying to restart thread
+[2016-05-07 12:32:53] Connected to remote host. Start sending messages
+[2016-05-07 13:02:52] Trying to restart thread
+[2016-05-07 13:02:53] Connected to remote host. Start sending messages
+[2016-05-07 13:32:52] Trying to restart thread
+[2016-05-07 13:32:52] Connected to remote host. Start sending messages
+[2016-05-07 14:02:52] Trying to restart thread
+[2016-05-07 14:02:53] Connected to remote host. Start sending messages
+[2016-05-07 14:32:52] Trying to restart thread
+[2016-05-07 14:32:52] Connected to remote host. Start sending messages
+[2016-05-07 14:43:48] Sat May  7 14:43:48 2016 | 5544694857752056963 | 27603095206 | *130*826*1# | 1 | PULL_REQUEST | timeRec=2016-05-07 14:43:48
+No customer with msisdn=27603095206 found.
+[2016-05-07 14:43:58] Sat May  7 14:43:58 2016 | 5544694857752056963 | 27603095206 | *130*826*1# | STATE: wait_app_phase_2 | ABORT | timeRec=2016-05-07 14:43:58
+No customer with msisdn=27603095206 found.
+[2016-05-07 15:13:58] Trying to restart thread
+[2016-05-07 15:13:59] Connected to remote host. Start sending messages
+[2016-05-07 15:21:02] Sat May  7 15:21:02 2016 | 1555761951 | 27765559046 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-07 15:21:02
+No customer with msisdn=27765559046 found.
+[2016-05-07 15:51:02] Trying to restart thread
+[2016-05-07 15:51:03] Connected to remote host. Start sending messages
+[2016-05-07 16:21:03] Trying to restart thread
+[2016-05-07 16:21:03] Connected to remote host. Start sending messages
+[2016-05-07 16:51:02] Trying to restart thread
+[2016-05-07 16:51:03] Connected to remote host. Start sending messages
+[2016-05-07 17:21:02] Trying to restart thread
+[2016-05-07 17:21:03] Connected to remote host. Start sending messages
+[2016-05-07 17:51:03] Trying to restart thread
+[2016-05-07 17:51:03] Connected to remote host. Start sending messages
+[2016-05-07 18:21:03] Trying to restart thread
+[2016-05-07 18:21:03] Connected to remote host. Start sending messages
+[2016-05-07 18:51:02] Trying to restart thread
+[2016-05-07 18:51:03] Connected to remote host. Start sending messages
+[2016-05-07 19:21:02] Trying to restart thread
+[2016-05-07 19:21:02] Connected to remote host. Start sending messages
+[2016-05-07 19:51:02] Trying to restart thread
+[2016-05-07 19:51:03] Connected to remote host. Start sending messages
+[2016-05-07 20:21:03] Trying to restart thread
+[2016-05-07 20:21:03] Connected to remote host. Start sending messages
+[2016-05-07 20:51:02] Trying to restart thread
+[2016-05-07 20:51:03] Connected to remote host. Start sending messages
+[2016-05-07 21:21:02] Trying to restart thread
+[2016-05-07 21:21:03] Connected to remote host. Start sending messages
+[2016-05-07 21:51:03] Trying to restart thread
+[2016-05-07 21:51:03] Connected to remote host. Start sending messages
+[2016-05-07 22:21:03] Trying to restart thread
+[2016-05-07 22:21:03] Connected to remote host. Start sending messages
+[2016-05-07 22:51:02] Trying to restart thread
+[2016-05-07 22:51:02] Connected to remote host. Start sending messages
+[2016-05-07 23:21:02] Trying to restart thread
+[2016-05-07 23:21:03] Connected to remote host. Start sending messages
+[2016-05-07 23:51:02] Trying to restart thread
+[2016-05-07 23:51:03] Connected to remote host. Start sending messages
+[2016-05-07 23:59:41] Sat May  7 23:59:41 2016 | 8175681413 | 27825064696 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-07 23:59:41
+No customer with msisdn=27825064696 found.
+[2016-05-07 23:59:55] Sat May  7 23:59:55 2016 | 941239408 | 27825064696 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-07 23:59:55
+No customer with msisdn=27825064696 found.
+[2016-05-08 00:22:42] Sun May  8 00:22:42 2016 | 941260083 | 27825064696 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-08 00:22:42
+No customer with msisdn=27825064696 found.
+[2016-05-08 00:52:43] Trying to restart thread
+[2016-05-08 00:52:43] Connected to remote host. Start sending messages
+[2016-05-08 01:22:43] Trying to restart thread
+[2016-05-08 01:22:43] Connected to remote host. Start sending messages
+[2016-05-08 01:52:43] Trying to restart thread
+[2016-05-08 01:52:43] Connected to remote host. Start sending messages
+[2016-05-08 02:22:42] Trying to restart thread
+[2016-05-08 02:22:42] Connected to remote host. Start sending messages
+[2016-05-08 02:52:42] Trying to restart thread
+[2016-05-08 02:52:43] Connected to remote host. Start sending messages
+[2016-05-08 03:22:42] Trying to restart thread
+[2016-05-08 03:22:43] Connected to remote host. Start sending messages
+[2016-05-08 03:52:42] Trying to restart thread
+[2016-05-08 03:52:43] Connected to remote host. Start sending messages
+[2016-05-08 04:22:43] Trying to restart thread
+[2016-05-08 04:22:43] Connected to remote host. Start sending messages
+[2016-05-08 04:52:43] Trying to restart thread
+[2016-05-08 04:52:43] Connected to remote host. Start sending messages
+[2016-05-08 05:22:43] Trying to restart thread
+[2016-05-08 05:22:43] Connected to remote host. Start sending messages
+[2016-05-08 05:52:42] Trying to restart thread
+[2016-05-08 05:52:43] Connected to remote host. Start sending messages
+[2016-05-08 06:22:42] Trying to restart thread
+[2016-05-08 06:22:43] Connected to remote host. Start sending messages
+[2016-05-08 06:52:42] Trying to restart thread
+[2016-05-08 06:52:43] Connected to remote host. Start sending messages
+[2016-05-08 07:22:43] Trying to restart thread
+[2016-05-08 07:22:43] Connected to remote host. Start sending messages
+[2016-05-08 07:52:43] Trying to restart thread
+[2016-05-08 07:52:43] Connected to remote host. Start sending messages
+[2016-05-08 08:22:42] Trying to restart thread
+[2016-05-08 08:22:42] Connected to remote host. Start sending messages
+[2016-05-08 08:52:42] Trying to restart thread
+[2016-05-08 08:52:43] Connected to remote host. Start sending messages
+[2016-05-08 09:22:42] Trying to restart thread
+[2016-05-08 09:22:43] Connected to remote host. Start sending messages
+[2016-05-08 09:52:42] Trying to restart thread
+[2016-05-08 09:52:42] Connected to remote host. Start sending messages
+[2016-05-08 10:22:42] Trying to restart thread
+[2016-05-08 10:22:43] Connected to remote host. Start sending messages
+[2016-05-08 10:52:43] Trying to restart thread
+[2016-05-08 10:52:43] Connected to remote host. Start sending messages
+[2016-05-08 11:22:43] Trying to restart thread
+[2016-05-08 11:22:43] Connected to remote host. Start sending messages
+[2016-05-08 11:52:42] Trying to restart thread
+[2016-05-08 11:52:42] Connected to remote host. Start sending messages
+[2016-05-08 12:22:43] Trying to restart thread
+[2016-05-08 12:22:43] Connected to remote host. Start sending messages
+[2016-05-08 12:52:42] Trying to restart thread
+[2016-05-08 12:52:43] Connected to remote host. Start sending messages
+[2016-05-08 13:09:47] Sun May  8 13:09:47 2016 | 5544694942434410420 | 27633937908 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-08 13:09:47
+No customer with msisdn=27633937908 found.
+[2016-05-08 13:09:57] Sun May  8 13:09:57 2016 | 5544694942434410420 | 27633937908 | *130*826# | STATE: wait_app_phase_2 | ABORT | timeRec=2016-05-08 13:09:57
+No customer with msisdn=27633937908 found.
+[2016-05-08 13:39:58] Trying to restart thread
+[2016-05-08 13:39:58] Connected to remote host. Start sending messages
+[2016-05-08 14:09:58] Trying to restart thread
+[2016-05-08 14:09:58] Connected to remote host. Start sending messages
+[2016-05-08 14:39:57] Trying to restart thread
+[2016-05-08 14:39:57] Connected to remote host. Start sending messages
+[2016-05-08 15:09:57] Trying to restart thread
+[2016-05-08 15:09:57] Connected to remote host. Start sending messages
+[2016-05-08 15:39:57] Trying to restart thread
+[2016-05-08 15:39:57] Connected to remote host. Start sending messages
+[2016-05-08 16:09:57] Trying to restart thread
+[2016-05-08 16:09:58] Connected to remote host. Start sending messages
+[2016-05-08 16:39:58] Trying to restart thread
+[2016-05-08 16:39:58] Connected to remote host. Start sending messages
+[2016-05-08 17:09:57] Trying to restart thread
+[2016-05-08 17:09:57] Connected to remote host. Start sending messages
+[2016-05-08 17:39:57] Trying to restart thread
+[2016-05-08 17:39:58] Connected to remote host. Start sending messages
+[2016-05-08 18:09:58] Trying to restart thread
+[2016-05-08 18:09:58] Connected to remote host. Start sending messages
+[2016-05-08 18:39:57] Trying to restart thread
+[2016-05-08 18:39:58] Connected to remote host. Start sending messages
+[2016-05-08 18:57:55] Sun May  8 18:57:55 2016 | 1877657677 | 27762354531 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-08 18:57:55
+No customer with msisdn=27762354531 found.
+[2016-05-08 19:27:56] Trying to restart thread
+[2016-05-08 19:27:56] Connected to remote host. Start sending messages
+[2016-05-08 19:57:55] Trying to restart thread
+[2016-05-08 19:57:56] Connected to remote host. Start sending messages
+[2016-05-08 20:27:55] Trying to restart thread
+[2016-05-08 20:27:56] Connected to remote host. Start sending messages
+[2016-05-08 20:57:55] Trying to restart thread
+[2016-05-08 20:57:56] Connected to remote host. Start sending messages
+[2016-05-08 21:27:56] Trying to restart thread
+[2016-05-08 21:27:56] Connected to remote host. Start sending messages
+[2016-05-08 21:57:56] Trying to restart thread
+[2016-05-08 21:57:56] Connected to remote host. Start sending messages
+[2016-05-08 22:27:55] Trying to restart thread
+[2016-05-08 22:27:55] Connected to remote host. Start sending messages
+[2016-05-08 22:57:55] Trying to restart thread
+[2016-05-08 22:57:56] Connected to remote host. Start sending messages
+[2016-05-08 23:27:55] Trying to restart thread
+[2016-05-08 23:27:55] Connected to remote host. Start sending messages
+[2016-05-08 23:57:55] Trying to restart thread
+[2016-05-08 23:57:56] Connected to remote host. Start sending messages
+[2016-05-09 00:27:56] Trying to restart thread
+[2016-05-09 00:27:56] Connected to remote host. Start sending messages
+[2016-05-09 00:57:56] Trying to restart thread
+[2016-05-09 00:57:57] Connected to remote host. Start sending messages
+[2016-05-09 01:27:55] Trying to restart thread
+[2016-05-09 01:27:56] Connected to remote host. Start sending messages
+[2016-05-09 01:57:56] Trying to restart thread
+[2016-05-09 01:57:56] Connected to remote host. Start sending messages
+[2016-05-09 02:27:55] Trying to restart thread
+[2016-05-09 02:27:56] Connected to remote host. Start sending messages
+[2016-05-09 02:57:55] Trying to restart thread
+[2016-05-09 02:57:56] Connected to remote host. Start sending messages
+[2016-05-09 03:27:55] Trying to restart thread
+[2016-05-09 03:27:56] Connected to remote host. Start sending messages
+[2016-05-09 03:57:55] Trying to restart thread
+[2016-05-09 03:57:55] Connected to remote host. Start sending messages
+[2016-05-09 04:27:55] Trying to restart thread
+[2016-05-09 04:27:56] Connected to remote host. Start sending messages
+[2016-05-09 04:57:55] Trying to restart thread
+[2016-05-09 04:57:56] Connected to remote host. Start sending messages
+[2016-05-09 05:27:55] Trying to restart thread
+[2016-05-09 05:27:55] Connected to remote host. Start sending messages
+[2016-05-09 05:57:55] Trying to restart thread
+[2016-05-09 05:57:56] Connected to remote host. Start sending messages
+[2016-05-09 06:27:55] Trying to restart thread
+[2016-05-09 06:27:56] Connected to remote host. Start sending messages
+[2016-05-09 06:57:55] Trying to restart thread
+[2016-05-09 06:57:55] Connected to remote host. Start sending messages
+[2016-05-09 07:27:55] Trying to restart thread
+[2016-05-09 07:27:56] Connected to remote host. Start sending messages
+[2016-05-09 07:57:55] Trying to restart thread
+[2016-05-09 07:57:56] Connected to remote host. Start sending messages
+[2016-05-09 08:27:55] Trying to restart thread
+[2016-05-09 08:27:56] Connected to remote host. Start sending messages
+[2016-05-09 08:57:56] Trying to restart thread
+[2016-05-09 08:57:56] Connected to remote host. Start sending messages
+[2016-05-09 09:27:55] Trying to restart thread
+[2016-05-09 09:27:56] Connected to remote host. Start sending messages
+[2016-05-09 09:57:55] Trying to restart thread
+[2016-05-09 09:57:56] Connected to remote host. Start sending messages
+[2016-05-09 10:27:55] Trying to restart thread
+[2016-05-09 10:27:56] Connected to remote host. Start sending messages
+[2016-05-09 10:57:55] Trying to restart thread
+[2016-05-09 10:57:56] Connected to remote host. Start sending messages
+[2016-05-09 11:27:55] Trying to restart thread
+[2016-05-09 11:27:56] Connected to remote host. Start sending messages
+[2016-05-09 11:57:56] Trying to restart thread
+[2016-05-09 11:57:56] Connected to remote host. Start sending messages
+[2016-05-09 12:27:56] Trying to restart thread
+[2016-05-09 12:27:56] Connected to remote host. Start sending messages
+[2016-05-09 12:57:56] Trying to restart thread
+[2016-05-09 12:57:56] Connected to remote host. Start sending messages
+[2016-05-09 13:27:55] Trying to restart thread
+[2016-05-09 13:27:55] Connected to remote host. Start sending messages
+[2016-05-09 13:57:56] Trying to restart thread
+[2016-05-09 13:57:56] Connected to remote host. Start sending messages
+[2016-05-09 14:27:56] Trying to restart thread
+[2016-05-09 14:27:56] Connected to remote host. Start sending messages
+[2016-05-09 14:57:56] Trying to restart thread
+[2016-05-09 14:57:56] Connected to remote host. Start sending messages
+[2016-05-09 15:27:55] Trying to restart thread
+[2016-05-09 15:27:56] Connected to remote host. Start sending messages
+[2016-05-09 15:57:57] Trying to restart thread
+[2016-05-09 15:57:58] Connected to remote host. Start sending messages
+[2016-05-09 16:27:56] Trying to restart thread
+[2016-05-09 16:27:56] Connected to remote host. Start sending messages
+[2016-05-09 16:57:57] Trying to restart thread
+[2016-05-09 16:57:57] Connected to remote host. Start sending messages
+[2016-05-09 17:27:57] Trying to restart thread
+[2016-05-09 17:27:58] Connected to remote host. Start sending messages
+[2016-05-09 17:51:55] Mon May  9 17:51:55 2016 | 540523653 | 27761387878 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-09 17:51:55
+No customer with msisdn=27761387878 found.
+[2016-05-09 17:52:18] Mon May  9 17:52:18 2016 | 1842029091 | 27761387878 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-09 17:52:18
+No customer with msisdn=27761387878 found.
+[2016-05-09 18:22:19] Trying to restart thread
+[2016-05-09 18:22:20] Connected to remote host. Start sending messages
+[2016-05-09 18:52:20] Trying to restart thread
+[2016-05-09 18:52:20] Connected to remote host. Start sending messages
+[2016-05-09 19:22:20] Trying to restart thread
+[2016-05-09 19:22:21] Connected to remote host. Start sending messages
+[2016-05-09 19:52:21] Trying to restart thread
+[2016-05-09 19:52:22] Connected to remote host. Start sending messages
+[2016-05-09 20:22:21] Trying to restart thread
+[2016-05-09 20:22:21] Connected to remote host. Start sending messages
+[2016-05-09 20:37:49] Mon May  9 20:37:49 2016 | 1203288739 | 27763789135 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-09 20:37:49
+[2016-05-09 20:38:12] Mon May  9 20:38:12 2016 | 1565825980 | 27763789135 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-09 20:38:12
+[2016-05-09 20:38:35] Mon May  9 20:38:35 2016 | 1565828169 | 27763789135 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-09 20:38:35
+[2016-05-09 21:08:35] Trying to restart thread
+[2016-05-09 21:08:35] Connected to remote host. Start sending messages
+[2016-05-09 21:38:37] Trying to restart thread
+[2016-05-09 21:38:37] Connected to remote host. Start sending messages
+[2016-05-09 22:08:37] Trying to restart thread
+[2016-05-09 22:08:39] Connected to remote host. Start sending messages
+[2016-05-09 22:38:38] Trying to restart thread
+[2016-05-09 22:38:38] Connected to remote host. Start sending messages
+[2016-05-09 23:08:38] Trying to restart thread
+[2016-05-09 23:08:39] Connected to remote host. Start sending messages
+[2016-05-09 23:38:38] Trying to restart thread
+[2016-05-09 23:38:38] Connected to remote host. Start sending messages
+[2016-05-10 00:08:37] Trying to restart thread
+[2016-05-10 00:08:37] Connected to remote host. Start sending messages
+[2016-05-10 00:38:37] Trying to restart thread
+[2016-05-10 00:38:38] Connected to remote host. Start sending messages
+[2016-05-10 01:08:38] Trying to restart thread
+[2016-05-10 01:08:39] Connected to remote host. Start sending messages
+[2016-05-10 01:38:39] Trying to restart thread
+[2016-05-10 01:38:39] Connected to remote host. Start sending messages
+[2016-05-10 02:08:40] Trying to restart thread
+[2016-05-10 02:08:41] Connected to remote host. Start sending messages
+[2016-05-10 02:38:41] Trying to restart thread
+[2016-05-10 02:38:41] Connected to remote host. Start sending messages
+[2016-05-10 03:08:40] Trying to restart thread
+[2016-05-10 03:08:40] Connected to remote host. Start sending messages
+[2016-05-10 03:38:40] Trying to restart thread
+[2016-05-10 03:38:41] Connected to remote host. Start sending messages
+[2016-05-10 04:08:41] Trying to restart thread
+[2016-05-10 04:08:42] Connected to remote host. Start sending messages
+[2016-05-10 04:38:43] Trying to restart thread
+[2016-05-10 04:38:43] Connected to remote host. Start sending messages
+[2016-05-10 05:08:43] Trying to restart thread
+[2016-05-10 05:08:44] Connected to remote host. Start sending messages
+[2016-05-10 05:38:43] Trying to restart thread
+[2016-05-10 05:38:44] Connected to remote host. Start sending messages
+[2016-05-10 06:08:44] Trying to restart thread
+[2016-05-10 06:08:44] Connected to remote host. Start sending messages
+[2016-05-10 06:38:43] Trying to restart thread
+[2016-05-10 06:38:44] Connected to remote host. Start sending messages
+[2016-05-10 06:39:11] Tue May 10 06:39:11 2016 | 949882652 | 27820955252 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-10 06:39:11
+No customer with msisdn=27820955252 found.
+[2016-05-10 06:39:28] Tue May 10 06:39:28 2016 | 542581850 | 27820955252 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-10 06:39:28
+No customer with msisdn=27820955252 found.
+[2016-05-10 07:09:28] Trying to restart thread
+[2016-05-10 07:09:29] Connected to remote host. Start sending messages
+[2016-05-10 07:39:28] Trying to restart thread
+[2016-05-10 07:39:29] Connected to remote host. Start sending messages
+[2016-05-10 08:09:29] Trying to restart thread
+[2016-05-10 08:09:29] Connected to remote host. Start sending messages
+[2016-05-10 08:39:29] Trying to restart thread
+[2016-05-10 08:39:29] Connected to remote host. Start sending messages
+[2016-05-10 09:09:28] Trying to restart thread
+[2016-05-10 09:09:28] Connected to remote host. Start sending messages
+[2016-05-10 09:39:29] Trying to restart thread
+[2016-05-10 09:39:30] Connected to remote host. Start sending messages
+[2016-05-10 10:09:28] Trying to restart thread
+[2016-05-10 10:09:29] Connected to remote host. Start sending messages
+[2016-05-10 10:39:28] Trying to restart thread
+[2016-05-10 10:39:29] Connected to remote host. Start sending messages
+[2016-05-10 11:03:13] Tue May 10 11:03:13 2016 | 1844444235 | 27763789135 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-10 11:03:13
+[2016-05-10 11:33:13] Trying to restart thread
+[2016-05-10 11:33:14] Connected to remote host. Start sending messages
+[2016-05-10 12:03:13] Trying to restart thread
+[2016-05-10 12:03:14] Connected to remote host. Start sending messages
+[2016-05-10 12:33:13] Trying to restart thread
+[2016-05-10 12:33:13] Connected to remote host. Start sending messages
+[2016-05-10 13:03:14] Trying to restart thread
+[2016-05-10 13:03:14] Connected to remote host. Start sending messages
+[2016-05-10 13:33:13] Trying to restart thread
+[2016-05-10 13:33:14] Connected to remote host. Start sending messages
+[2016-05-10 14:03:14] Trying to restart thread
+[2016-05-10 14:03:14] Connected to remote host. Start sending messages
+[2016-05-10 14:33:14] Trying to restart thread
+[2016-05-10 14:33:14] Connected to remote host. Start sending messages
+[2016-05-10 15:03:14] Trying to restart thread
+[2016-05-10 15:03:14] Connected to remote host. Start sending messages
+[2016-05-10 15:33:14] Trying to restart thread
+[2016-05-10 15:33:14] Connected to remote host. Start sending messages
+[2016-05-10 16:03:13] Trying to restart thread
+[2016-05-10 16:03:14] Connected to remote host. Start sending messages
+[2016-05-10 16:33:13] Trying to restart thread
+[2016-05-10 16:33:14] Connected to remote host. Start sending messages
+[2016-05-10 17:03:13] Trying to restart thread
+[2016-05-10 17:03:14] Connected to remote host. Start sending messages
+[2016-05-10 17:33:13] Trying to restart thread
+[2016-05-10 17:33:13] Connected to remote host. Start sending messages
+[2016-05-10 18:03:14] Trying to restart thread
+[2016-05-10 18:03:14] Connected to remote host. Start sending messages
+[2016-05-10 18:33:13] Trying to restart thread
+[2016-05-10 18:33:14] Connected to remote host. Start sending messages
+[2016-05-10 19:03:13] Trying to restart thread
+[2016-05-10 19:03:14] Connected to remote host. Start sending messages
+[2016-05-10 19:33:14] Trying to restart thread
+[2016-05-10 19:33:14] Connected to remote host. Start sending messages
+[2016-05-10 20:03:14] Trying to restart thread
+[2016-05-10 20:03:14] Connected to remote host. Start sending messages
+[2016-05-10 20:33:13] Trying to restart thread
+[2016-05-10 20:33:14] Connected to remote host. Start sending messages
+[2016-05-10 21:03:13] Trying to restart thread
+[2016-05-10 21:03:14] Connected to remote host. Start sending messages
+[2016-05-10 21:33:14] Trying to restart thread
+[2016-05-10 21:33:14] Connected to remote host. Start sending messages
+[2016-05-10 22:03:13] Trying to restart thread
+[2016-05-10 22:03:14] Connected to remote host. Start sending messages
+[2016-05-10 22:17:09] Tue May 10 22:17:09 2016 | 1569884717 | 27818251532 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-10 22:17:09
+No customer with msisdn=27818251532 found.
+[2016-05-10 22:47:10] Trying to restart thread
+[2016-05-10 22:47:10] Connected to remote host. Start sending messages
+[2016-05-10 23:17:09] Trying to restart thread
+[2016-05-10 23:17:10] Connected to remote host. Start sending messages
+[2016-05-10 23:47:09] Trying to restart thread
+[2016-05-10 23:47:10] Connected to remote host. Start sending messages
+[2016-05-11 00:17:09] Trying to restart thread
+[2016-05-11 00:17:09] Connected to remote host. Start sending messages
+[2016-05-11 00:47:09] Trying to restart thread
+[2016-05-11 00:47:09] Connected to remote host. Start sending messages
+[2016-05-11 01:17:10] Trying to restart thread
+[2016-05-11 01:17:10] Connected to remote host. Start sending messages
+[2016-05-11 01:47:09] Trying to restart thread
+[2016-05-11 01:47:10] Connected to remote host. Start sending messages
+[2016-05-11 02:17:09] Trying to restart thread
+[2016-05-11 02:17:10] Connected to remote host. Start sending messages
+[2016-05-11 02:47:10] Trying to restart thread
+[2016-05-11 02:47:10] Connected to remote host. Start sending messages
+[2016-05-11 03:17:09] Trying to restart thread
+[2016-05-11 03:17:10] Connected to remote host. Start sending messages
+[2016-05-11 03:47:11] Trying to restart thread
+[2016-05-11 03:47:11] Connected to remote host. Start sending messages
+[2016-05-11 04:17:11] Trying to restart thread
+[2016-05-11 04:17:11] Connected to remote host. Start sending messages
+[2016-05-11 04:47:11] Trying to restart thread
+[2016-05-11 04:47:12] Connected to remote host. Start sending messages
+[2016-05-11 05:17:11] Trying to restart thread
+[2016-05-11 05:17:12] Connected to remote host. Start sending messages
+[2016-05-11 05:47:12] Trying to restart thread
+[2016-05-11 05:47:12] Connected to remote host. Start sending messages
+[2016-05-11 06:17:12] Trying to restart thread
+[2016-05-11 06:17:12] Connected to remote host. Start sending messages
+[2016-05-11 06:47:11] Trying to restart thread
+[2016-05-11 06:47:11] Connected to remote host. Start sending messages
+[2016-05-11 07:17:11] Trying to restart thread
+[2016-05-11 07:17:13] Unable to connect: timed out
+[2016-05-11 07:17:13] Connected to remote host. Start sending messages
+[2016-05-11 07:47:11] Trying to restart thread
+[2016-05-11 07:47:11] Connected to remote host. Start sending messages
+[2016-05-11 08:17:11] Trying to restart thread
+[2016-05-11 08:17:12] Connected to remote host. Start sending messages
+[2016-05-11 08:47:11] Trying to restart thread
+[2016-05-11 08:47:12] Connected to remote host. Start sending messages
+[2016-05-11 09:17:12] Trying to restart thread
+[2016-05-11 09:17:12] Connected to remote host. Start sending messages
+[2016-05-11 09:47:11] Trying to restart thread
+[2016-05-11 09:47:12] Connected to remote host. Start sending messages
+[2016-05-11 10:17:11] Trying to restart thread
+[2016-05-11 10:17:11] Connected to remote host. Start sending messages
+[2016-05-11 10:47:12] Trying to restart thread
+[2016-05-11 10:47:12] Connected to remote host. Start sending messages
+[2016-05-11 11:17:11] Trying to restart thread
+[2016-05-11 11:17:12] Connected to remote host. Start sending messages
+[2016-05-11 11:47:11] Trying to restart thread
+[2016-05-11 11:47:12] Connected to remote host. Start sending messages
+[2016-05-11 12:17:11] Trying to restart thread
+[2016-05-11 12:17:12] Connected to remote host. Start sending messages
+[2016-05-11 12:47:12] Trying to restart thread
+[2016-05-11 12:47:12] Connected to remote host. Start sending messages
+[2016-05-11 13:17:11] Trying to restart thread
+[2016-05-11 13:17:12] Connected to remote host. Start sending messages
+[2016-05-11 13:47:12] Trying to restart thread
+[2016-05-11 13:47:12] Connected to remote host. Start sending messages
+[2016-05-11 14:17:11] Trying to restart thread
+[2016-05-11 14:17:11] Connected to remote host. Start sending messages
+[2016-05-11 14:47:11] Trying to restart thread
+[2016-05-11 14:47:12] Connected to remote host. Start sending messages
+[2016-05-11 15:17:11] Trying to restart thread
+[2016-05-11 15:17:12] Connected to remote host. Start sending messages
+[2016-05-11 15:47:11] Trying to restart thread
+[2016-05-11 15:47:11] Connected to remote host. Start sending messages
+[2016-05-11 16:17:11] Trying to restart thread
+[2016-05-11 16:17:12] Connected to remote host. Start sending messages
+[2016-05-11 16:47:12] Trying to restart thread
+[2016-05-11 16:47:12] Connected to remote host. Start sending messages
+[2016-05-11 17:17:11] Trying to restart thread
+[2016-05-11 17:17:12] Connected to remote host. Start sending messages
+[2016-05-11 17:47:11] Trying to restart thread
+[2016-05-11 17:47:12] Connected to remote host. Start sending messages
+[2016-05-11 18:17:11] Trying to restart thread
+[2016-05-11 18:17:12] Connected to remote host. Start sending messages
+[2016-05-11 18:47:11] Trying to restart thread
+[2016-05-11 18:47:12] Connected to remote host. Start sending messages
+[2016-05-11 19:17:11] Trying to restart thread
+[2016-05-11 19:17:12] Connected to remote host. Start sending messages
+[2016-05-11 19:47:11] Trying to restart thread
+[2016-05-11 19:47:11] Connected to remote host. Start sending messages
+[2016-05-11 20:17:11] Trying to restart thread
+[2016-05-11 20:17:12] Connected to remote host. Start sending messages
+[2016-05-11 20:47:11] Trying to restart thread
+[2016-05-11 20:47:12] Connected to remote host. Start sending messages
+[2016-05-11 21:17:12] Trying to restart thread
+[2016-05-11 21:17:12] Connected to remote host. Start sending messages
+[2016-05-11 21:47:11] Trying to restart thread
+[2016-05-11 21:47:12] Connected to remote host. Start sending messages
+[2016-05-11 22:17:11] Trying to restart thread
+[2016-05-11 22:17:11] Connected to remote host. Start sending messages
+[2016-05-11 22:47:11] Trying to restart thread
+[2016-05-11 22:47:12] Connected to remote host. Start sending messages
+[2016-05-11 23:17:11] Trying to restart thread
+[2016-05-11 23:17:12] Connected to remote host. Start sending messages
+[2016-05-11 23:47:13] Trying to restart thread
+[2016-05-11 23:47:13] Connected to remote host. Start sending messages
+[2016-05-12 00:17:14] Trying to restart thread
+[2016-05-12 00:17:14] Connected to remote host. Start sending messages
+[2016-05-12 00:47:14] Trying to restart thread
+[2016-05-12 00:47:15] Connected to remote host. Start sending messages
+[2016-05-12 01:17:16] Trying to restart thread
+[2016-05-12 01:17:17] Connected to remote host. Start sending messages
+[2016-05-12 01:47:17] Trying to restart thread
+[2016-05-12 01:47:18] Connected to remote host. Start sending messages
+[2016-05-12 02:17:17] Trying to restart thread
+[2016-05-12 02:17:17] Connected to remote host. Start sending messages
+[2016-05-12 02:47:16] Trying to restart thread
+[2016-05-12 02:47:17] Connected to remote host. Start sending messages
+[2016-05-12 03:17:16] Trying to restart thread
+[2016-05-12 03:17:18] Connected to remote host. Start sending messages
+[2016-05-12 03:47:16] Trying to restart thread
+[2016-05-12 03:47:16] Connected to remote host. Start sending messages
+[2016-05-12 04:17:17] Trying to restart thread
+[2016-05-12 04:17:17] Connected to remote host. Start sending messages
+[2016-05-12 04:47:17] Trying to restart thread
+[2016-05-12 04:47:17] Connected to remote host. Start sending messages
+[2016-05-12 05:17:17] Trying to restart thread
+[2016-05-12 05:17:18] Connected to remote host. Start sending messages
+[2016-05-12 05:47:17] Trying to restart thread
+[2016-05-12 05:47:18] Connected to remote host. Start sending messages
+[2016-05-12 06:17:17] Trying to restart thread
+[2016-05-12 06:17:18] Connected to remote host. Start sending messages
+[2016-05-12 06:47:18] Trying to restart thread
+[2016-05-12 06:47:18] Connected to remote host. Start sending messages
+[2016-05-12 07:17:18] Trying to restart thread
+[2016-05-12 07:17:18] Connected to remote host. Start sending messages
+[2016-05-12 07:47:17] Trying to restart thread
+[2016-05-12 07:47:17] Connected to remote host. Start sending messages
+[2016-05-12 08:17:17] Trying to restart thread
+[2016-05-12 08:17:18] Connected to remote host. Start sending messages
+[2016-05-12 08:47:17] Trying to restart thread
+[2016-05-12 08:47:17] Connected to remote host. Start sending messages
+[2016-05-12 09:17:18] Trying to restart thread
+[2016-05-12 09:17:19] Connected to remote host. Start sending messages
+[2016-05-12 09:47:17] Trying to restart thread
+[2016-05-12 09:47:18] Connected to remote host. Start sending messages
+[2016-05-12 10:17:17] Trying to restart thread
+[2016-05-12 10:17:18] Connected to remote host. Start sending messages
+[2016-05-12 10:47:17] Trying to restart thread
+[2016-05-12 10:47:18] Connected to remote host. Start sending messages
+[2016-05-12 11:17:17] Trying to restart thread
+[2016-05-12 11:17:18] Connected to remote host. Start sending messages
+[2016-05-12 11:47:18] Trying to restart thread
+[2016-05-12 11:47:18] Connected to remote host. Start sending messages
+[2016-05-12 12:17:17] Trying to restart thread
+[2016-05-12 12:17:18] Connected to remote host. Start sending messages
+[2016-05-12 12:47:17] Trying to restart thread
+[2016-05-12 12:47:18] Connected to remote host. Start sending messages
+[2016-05-12 13:17:19] Trying to restart thread
+[2016-05-12 13:17:19] Connected to remote host. Start sending messages
+[2016-05-12 13:47:18] Trying to restart thread
+[2016-05-12 13:47:19] Connected to remote host. Start sending messages
+[2016-05-12 14:17:18] Trying to restart thread
+[2016-05-12 14:17:19] Connected to remote host. Start sending messages
+[2016-05-12 14:47:19] Trying to restart thread
+[2016-05-12 14:47:19] Connected to remote host. Start sending messages
+[2016-05-12 15:17:18] Trying to restart thread
+[2016-05-12 15:17:19] Connected to remote host. Start sending messages
+[2016-05-12 15:47:18] Trying to restart thread
+[2016-05-12 15:47:19] Connected to remote host. Start sending messages
+[2016-05-12 16:17:18] Trying to restart thread
+[2016-05-12 16:17:19] Connected to remote host. Start sending messages
+[2016-05-12 16:47:18] Trying to restart thread
+[2016-05-12 16:47:19] Connected to remote host. Start sending messages
+[2016-05-12 17:17:18] Trying to restart thread
+[2016-05-12 17:17:19] Connected to remote host. Start sending messages
+[2016-05-12 17:47:19] Trying to restart thread
+[2016-05-12 17:47:19] Connected to remote host. Start sending messages
+[2016-05-12 18:17:19] Trying to restart thread
+[2016-05-12 18:17:19] Connected to remote host. Start sending messages
+[2016-05-12 18:47:18] Trying to restart thread
+[2016-05-12 18:47:18] Connected to remote host. Start sending messages
+[2016-05-12 19:17:18] Trying to restart thread
+[2016-05-12 19:17:18] Connected to remote host. Start sending messages
+[2016-05-12 19:47:18] Trying to restart thread
+[2016-05-12 19:47:19] Connected to remote host. Start sending messages
+[2016-05-12 20:17:19] Trying to restart thread
+[2016-05-12 20:17:19] Connected to remote host. Start sending messages
+[2016-05-12 20:47:19] Trying to restart thread
+[2016-05-12 20:47:21] Connected to remote host. Start sending messages
+[2016-05-12 21:03:05] Thu May 12 21:03:05 2016 | 8200309475 | 27823638149 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-12 21:03:05
+No customer with msisdn=27823638149 found.
+[2016-05-12 21:33:05] Trying to restart thread
+[2016-05-12 21:33:06] Connected to remote host. Start sending messages
+[2016-05-12 22:03:06] Trying to restart thread
+[2016-05-12 22:03:06] Connected to remote host. Start sending messages
+[2016-05-12 22:33:07] Trying to restart thread
+[2016-05-12 22:33:07] Connected to remote host. Start sending messages
+[2016-05-12 23:03:07] Trying to restart thread
+[2016-05-12 23:03:07] Connected to remote host. Start sending messages
+[2016-05-12 23:33:06] Trying to restart thread
+[2016-05-12 23:33:07] Connected to remote host. Start sending messages
+[2016-05-13 00:03:06] Trying to restart thread
+[2016-05-13 00:03:07] Connected to remote host. Start sending messages
+[2016-05-13 00:33:06] Trying to restart thread
+[2016-05-13 00:33:07] Connected to remote host. Start sending messages
+[2016-05-13 01:03:07] Trying to restart thread
+[2016-05-13 01:03:08] Connected to remote host. Start sending messages
+[2016-05-13 01:33:07] Trying to restart thread
+[2016-05-13 01:33:07] Connected to remote host. Start sending messages
+[2016-05-13 02:03:07] Trying to restart thread
+[2016-05-13 02:03:08] Connected to remote host. Start sending messages
+[2016-05-13 02:33:06] Trying to restart thread
+[2016-05-13 02:33:06] Connected to remote host. Start sending messages
+[2016-05-13 03:03:06] Trying to restart thread
+[2016-05-13 03:03:07] Connected to remote host. Start sending messages
+[2016-05-13 03:33:07] Trying to restart thread
+[2016-05-13 03:33:08] Connected to remote host. Start sending messages
+[2016-05-13 04:03:07] Trying to restart thread
+[2016-05-13 04:03:08] Connected to remote host. Start sending messages
+[2016-05-13 04:33:09] Trying to restart thread
+[2016-05-13 04:33:09] Connected to remote host. Start sending messages
+[2016-05-13 05:03:11] Trying to restart thread
+[2016-05-13 05:03:11] Connected to remote host. Start sending messages
+[2016-05-13 05:33:11] Trying to restart thread
+[2016-05-13 05:33:12] Connected to remote host. Start sending messages
+[2016-05-13 06:03:11] Trying to restart thread
+[2016-05-13 06:03:12] Connected to remote host. Start sending messages
+[2016-05-13 06:33:12] Trying to restart thread
+[2016-05-13 06:33:12] Connected to remote host. Start sending messages
+[2016-05-13 07:03:12] Trying to restart thread
+[2016-05-13 07:03:12] Connected to remote host. Start sending messages
+[2016-05-13 07:33:11] Trying to restart thread
+[2016-05-13 07:33:12] Connected to remote host. Start sending messages
+[2016-05-13 08:03:12] Trying to restart thread
+[2016-05-13 08:03:12] Connected to remote host. Start sending messages
+[2016-05-13 08:33:12] Trying to restart thread
+[2016-05-13 08:33:12] Connected to remote host. Start sending messages
+[2016-05-13 09:03:11] Trying to restart thread
+[2016-05-13 09:03:12] Connected to remote host. Start sending messages
+[2016-05-13 09:33:11] Trying to restart thread
+[2016-05-13 09:33:12] Connected to remote host. Start sending messages
+[2016-05-13 10:03:11] Trying to restart thread
+[2016-05-13 10:03:12] Connected to remote host. Start sending messages
+[2016-05-13 10:33:11] Trying to restart thread
+[2016-05-13 10:33:12] Connected to remote host. Start sending messages
+[2016-05-13 11:03:11] Trying to restart thread
+[2016-05-13 11:03:12] Connected to remote host. Start sending messages
+[2016-05-13 11:33:11] Trying to restart thread
+[2016-05-13 11:33:12] Connected to remote host. Start sending messages
+[2016-05-13 12:03:11] Trying to restart thread
+[2016-05-13 12:03:12] Connected to remote host. Start sending messages
+[2016-05-13 12:33:11] Trying to restart thread
+[2016-05-13 12:33:12] Connected to remote host. Start sending messages
+[2016-05-13 13:03:12] Trying to restart thread
+[2016-05-13 13:03:12] Connected to remote host. Start sending messages
+[2016-05-13 13:33:11] Trying to restart thread
+[2016-05-13 13:33:13] Connected to remote host. Start sending messages
+[2016-05-13 14:03:11] Trying to restart thread
+[2016-05-13 14:03:12] Connected to remote host. Start sending messages
+[2016-05-13 14:33:11] Trying to restart thread
+[2016-05-13 14:33:11] Connected to remote host. Start sending messages
+[2016-05-13 15:03:11] Trying to restart thread
+[2016-05-13 15:03:12] Connected to remote host. Start sending messages
+[2016-05-13 15:33:11] Trying to restart thread
+[2016-05-13 15:33:11] Connected to remote host. Start sending messages
+[2016-05-13 16:03:11] Trying to restart thread
+[2016-05-13 16:03:11] Connected to remote host. Start sending messages
+[2016-05-13 16:33:11] Trying to restart thread
+[2016-05-13 16:33:12] Connected to remote host. Start sending messages
+[2016-05-13 17:03:11] Trying to restart thread
+[2016-05-13 17:03:12] Connected to remote host. Start sending messages
+[2016-05-13 17:33:11] Trying to restart thread
+[2016-05-13 17:33:12] Connected to remote host. Start sending messages
+[2016-05-13 18:03:11] Trying to restart thread
+[2016-05-13 18:03:12] Connected to remote host. Start sending messages
+[2016-05-13 18:33:11] Trying to restart thread
+[2016-05-13 18:33:11] Connected to remote host. Start sending messages
+[2016-05-13 19:03:12] Trying to restart thread
+[2016-05-13 19:03:12] Connected to remote host. Start sending messages
+[2016-05-13 19:33:11] Trying to restart thread
+[2016-05-13 19:33:12] Connected to remote host. Start sending messages
+[2016-05-13 20:03:11] Trying to restart thread
+[2016-05-13 20:03:11] Connected to remote host. Start sending messages
+[2016-05-13 20:33:12] Trying to restart thread
+[2016-05-13 20:33:12] Connected to remote host. Start sending messages
+[2016-05-13 20:36:35] Fri May 13 20:36:35 2016 | 5544695474465260429 | 27838760418 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-13 20:36:35
+No customer with msisdn=27838760418 found.
+[2016-05-13 20:36:45] Fri May 13 20:36:45 2016 | 5544695474465260429 | 27838760418 | *130*826# | STATE: wait_app_phase_2 | ABORT | timeRec=2016-05-13 20:36:45
+No customer with msisdn=27838760418 found.
+[2016-05-13 21:06:46] Trying to restart thread
+[2016-05-13 21:06:47] Connected to remote host. Start sending messages
+[2016-05-13 21:36:46] Trying to restart thread
+[2016-05-13 21:36:46] Connected to remote host. Start sending messages
+[2016-05-13 22:06:47] Trying to restart thread
+[2016-05-13 22:06:48] Connected to remote host. Start sending messages
+[2016-05-13 22:36:48] Trying to restart thread
+[2016-05-13 22:36:49] Connected to remote host. Start sending messages
+[2016-05-13 23:06:48] Trying to restart thread
+[2016-05-13 23:06:48] Connected to remote host. Start sending messages
+[2016-05-13 23:36:47] Trying to restart thread
+[2016-05-13 23:36:48] Connected to remote host. Start sending messages
+[2016-05-14 00:06:47] Trying to restart thread
+[2016-05-14 00:06:48] Connected to remote host. Start sending messages
+[2016-05-14 00:36:48] Trying to restart thread
+[2016-05-14 00:36:48] Connected to remote host. Start sending messages
+[2016-05-14 01:06:47] Trying to restart thread
+[2016-05-14 01:06:48] Connected to remote host. Start sending messages
+[2016-05-14 01:36:47] Trying to restart thread
+[2016-05-14 01:36:48] Connected to remote host. Start sending messages
+[2016-05-14 02:06:47] Trying to restart thread
+[2016-05-14 02:06:48] Connected to remote host. Start sending messages
+[2016-05-14 02:36:47] Trying to restart thread
+[2016-05-14 02:36:48] Connected to remote host. Start sending messages
+[2016-05-14 02:43:28] Sat May 14 02:43:28 2016 | 32839560 | 27842882787 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-14 02:43:28
+No customer with msisdn=27842882787 found.
+[2016-05-14 03:13:29] Trying to restart thread
+[2016-05-14 03:13:29] Connected to remote host. Start sending messages
+[2016-05-14 03:43:29] Trying to restart thread
+[2016-05-14 03:43:29] Connected to remote host. Start sending messages
+[2016-05-14 04:13:28] Trying to restart thread
+[2016-05-14 04:13:29] Connected to remote host. Start sending messages
+[2016-05-14 04:43:29] Trying to restart thread
+[2016-05-14 04:43:29] Connected to remote host. Start sending messages
+[2016-05-14 05:13:29] Trying to restart thread
+[2016-05-14 05:13:29] Connected to remote host. Start sending messages
+[2016-05-14 05:43:29] Trying to restart thread
+[2016-05-14 05:43:29] Connected to remote host. Start sending messages
+[2016-05-14 06:13:28] Trying to restart thread
+[2016-05-14 06:13:29] Connected to remote host. Start sending messages
+[2016-05-14 06:43:28] Trying to restart thread
+[2016-05-14 06:43:28] Connected to remote host. Start sending messages
+[2016-05-14 07:13:28] Trying to restart thread
+[2016-05-14 07:13:29] Connected to remote host. Start sending messages
+[2016-05-14 07:43:28] Trying to restart thread
+[2016-05-14 07:43:28] Connected to remote host. Start sending messages
+[2016-05-14 08:13:29] Trying to restart thread
+[2016-05-14 08:13:29] Connected to remote host. Start sending messages
+[2016-05-14 08:43:29] Trying to restart thread
+[2016-05-14 08:43:29] Connected to remote host. Start sending messages
+[2016-05-14 09:13:28] Trying to restart thread
+[2016-05-14 09:13:29] Connected to remote host. Start sending messages
+[2016-05-14 09:43:28] Trying to restart thread
+[2016-05-14 09:43:29] Connected to remote host. Start sending messages
+[2016-05-14 10:13:28] Trying to restart thread
+[2016-05-14 10:13:29] Connected to remote host. Start sending messages
+[2016-05-14 10:43:28] Trying to restart thread
+[2016-05-14 10:43:29] Connected to remote host. Start sending messages
+[2016-05-14 11:13:28] Trying to restart thread
+[2016-05-14 11:13:29] Connected to remote host. Start sending messages
+[2016-05-14 11:29:17] Sat May 14 11:29:17 2016 | 5544695530628823515 | 27782177030 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-14 11:29:17
+No customer with msisdn=27782177030 found.
+[2016-05-14 11:29:27] Sat May 14 11:29:27 2016 | 5544695530628823515 | 27782177030 | *130*826# | STATE: wait_app_phase_2 | ABORT | timeRec=2016-05-14 11:29:27
+No customer with msisdn=27782177030 found.
+[2016-05-14 11:59:27] Trying to restart thread
+[2016-05-14 11:59:28] Connected to remote host. Start sending messages
+[2016-05-14 12:29:28] Trying to restart thread
+[2016-05-14 12:29:28] Connected to remote host. Start sending messages
+[2016-05-14 12:59:28] Trying to restart thread
+[2016-05-14 12:59:28] Connected to remote host. Start sending messages
+[2016-05-14 13:29:27] Trying to restart thread
+[2016-05-14 13:29:28] Connected to remote host. Start sending messages
+[2016-05-14 13:59:28] Trying to restart thread
+[2016-05-14 13:59:28] Connected to remote host. Start sending messages
+[2016-05-14 14:29:28] Trying to restart thread
+[2016-05-14 14:29:28] Connected to remote host. Start sending messages
+[2016-05-14 14:59:28] Trying to restart thread
+[2016-05-14 14:59:28] Connected to remote host. Start sending messages
+[2016-05-14 15:29:27] Trying to restart thread
+[2016-05-14 15:29:28] Connected to remote host. Start sending messages
+[2016-05-14 15:59:28] Trying to restart thread
+[2016-05-14 15:59:28] Connected to remote host. Start sending messages
+[2016-05-14 16:29:27] Trying to restart thread
+[2016-05-14 16:29:28] Connected to remote host. Start sending messages
+[2016-05-14 16:59:28] Trying to restart thread
+[2016-05-14 16:59:28] Connected to remote host. Start sending messages
+[2016-05-14 17:18:53] Sat May 14 17:18:53 2016 | 1861793144 | 27792531271 | *130*826*911# | 911 | PULL_REQUEST | timeRec=2016-05-14 17:18:53
+No customer with msisdn=27792531271 found.
+[2016-05-14 17:48:54] Trying to restart thread
+[2016-05-14 17:48:54] Connected to remote host. Start sending messages
+[2016-05-14 18:18:53] Trying to restart thread
+[2016-05-14 18:18:54] Connected to remote host. Start sending messages
+[2016-05-14 18:48:53] Trying to restart thread
+[2016-05-14 18:48:54] Connected to remote host. Start sending messages
+[2016-05-14 19:18:53] Trying to restart thread
+[2016-05-14 19:18:54] Connected to remote host. Start sending messages
+[2016-05-14 19:48:53] Trying to restart thread
+[2016-05-14 19:48:54] Connected to remote host. Start sending messages
+[2016-05-14 20:18:54] Trying to restart thread
+[2016-05-14 20:18:55] Connected to remote host. Start sending messages
+[2016-05-14 20:48:54] Trying to restart thread
+[2016-05-14 20:48:55] Connected to remote host. Start sending messages
+[2016-05-14 21:18:54] Trying to restart thread
+[2016-05-14 21:18:54] Connected to remote host. Start sending messages
+[2016-05-14 21:48:55] Trying to restart thread
+[2016-05-14 21:48:55] Connected to remote host. Start sending messages
+[2016-05-14 22:18:54] Trying to restart thread
+[2016-05-14 22:18:55] Connected to remote host. Start sending messages
+[2016-05-14 22:48:54] Trying to restart thread
+[2016-05-14 22:48:55] Connected to remote host. Start sending messages
+[2016-05-14 23:18:55] Trying to restart thread
+[2016-05-14 23:18:55] Connected to remote host. Start sending messages
+[2016-05-14 23:48:54] Trying to restart thread
+[2016-05-14 23:48:55] Connected to remote host. Start sending messages
+[2016-05-14 23:52:04] Sat May 14 23:52:04 2016 | 1228687029 | 27767249107 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-14 23:52:04
+No customer with msisdn=27767249107 found.
+[2016-05-15 00:22:04] Trying to restart thread
+[2016-05-15 00:22:04] Connected to remote host. Start sending messages
+[2016-05-15 00:52:04] Trying to restart thread
+[2016-05-15 00:52:05] Connected to remote host. Start sending messages
+[2016-05-15 01:22:04] Trying to restart thread
+[2016-05-15 01:22:05] Connected to remote host. Start sending messages
+[2016-05-15 01:52:05] Trying to restart thread
+[2016-05-15 01:52:05] Connected to remote host. Start sending messages
+[2016-05-15 02:22:04] Trying to restart thread
+[2016-05-15 02:22:05] Connected to remote host. Start sending messages
+[2016-05-15 02:52:04] Trying to restart thread
+[2016-05-15 02:52:05] Connected to remote host. Start sending messages
+[2016-05-15 03:22:05] Trying to restart thread
+[2016-05-15 03:22:05] Connected to remote host. Start sending messages
+[2016-05-15 03:52:04] Trying to restart thread
+[2016-05-15 03:52:05] Connected to remote host. Start sending messages
+[2016-05-15 04:22:04] Trying to restart thread
+[2016-05-15 04:22:04] Connected to remote host. Start sending messages
+[2016-05-15 04:52:04] Trying to restart thread
+[2016-05-15 04:52:05] Connected to remote host. Start sending messages
+[2016-05-15 05:22:04] Trying to restart thread
+[2016-05-15 05:22:05] Connected to remote host. Start sending messages
+[2016-05-15 05:52:04] Trying to restart thread
+[2016-05-15 05:52:05] Connected to remote host. Start sending messages
+[2016-05-15 06:22:04] Trying to restart thread
+[2016-05-15 06:22:05] Connected to remote host. Start sending messages
+[2016-05-15 06:52:04] Trying to restart thread
+[2016-05-15 06:52:05] Connected to remote host. Start sending messages
+[2016-05-15 07:22:04] Trying to restart thread
+[2016-05-15 07:22:05] Connected to remote host. Start sending messages
+[2016-05-15 07:52:05] Trying to restart thread
+[2016-05-15 07:52:05] Connected to remote host. Start sending messages
+[2016-05-15 08:22:05] Trying to restart thread
+[2016-05-15 08:22:05] Connected to remote host. Start sending messages
+[2016-05-15 08:52:04] Trying to restart thread
+[2016-05-15 08:52:05] Connected to remote host. Start sending messages
+[2016-05-15 09:22:04] Trying to restart thread
+[2016-05-15 09:22:05] Connected to remote host. Start sending messages
+[2016-05-15 09:52:05] Trying to restart thread
+[2016-05-15 09:52:05] Connected to remote host. Start sending messages
+[2016-05-15 10:22:04] Trying to restart thread
+[2016-05-15 10:22:05] Connected to remote host. Start sending messages
+[2016-05-15 10:52:04] Trying to restart thread
+[2016-05-15 10:52:05] Connected to remote host. Start sending messages
+[2016-05-15 11:22:05] Trying to restart thread
+[2016-05-15 11:22:05] Connected to remote host. Start sending messages
+[2016-05-15 11:52:05] Trying to restart thread
+[2016-05-15 11:52:06] Connected to remote host. Start sending messages
+[2016-05-15 12:22:05] Trying to restart thread
+[2016-05-15 12:22:06] Connected to remote host. Start sending messages
+[2016-05-15 12:52:04] Trying to restart thread
+[2016-05-15 12:52:05] Connected to remote host. Start sending messages
+[2016-05-15 13:22:04] Trying to restart thread
+[2016-05-15 13:22:05] Connected to remote host. Start sending messages
+[2016-05-15 13:52:05] Trying to restart thread
+[2016-05-15 13:52:05] Connected to remote host. Start sending messages
+[2016-05-15 14:22:04] Trying to restart thread
+[2016-05-15 14:22:05] Connected to remote host. Start sending messages
+[2016-05-15 14:52:04] Trying to restart thread
+[2016-05-15 14:52:05] Connected to remote host. Start sending messages
+[2016-05-15 15:22:04] Trying to restart thread
+[2016-05-15 15:22:05] Connected to remote host. Start sending messages
+[2016-05-15 15:52:05] Trying to restart thread
+[2016-05-15 15:52:05] Connected to remote host. Start sending messages
+[2016-05-15 16:22:04] Trying to restart thread
+[2016-05-15 16:22:04] Connected to remote host. Start sending messages
+[2016-05-15 16:52:04] Trying to restart thread
+[2016-05-15 16:52:05] Connected to remote host. Start sending messages
+[2016-05-15 17:22:04] Trying to restart thread
+[2016-05-15 17:22:04] Connected to remote host. Start sending messages
+[2016-05-15 17:52:04] Trying to restart thread
+[2016-05-15 17:52:05] Connected to remote host. Start sending messages
+[2016-05-15 18:22:05] Trying to restart thread
+[2016-05-15 18:22:05] Connected to remote host. Start sending messages
+[2016-05-15 18:52:04] Trying to restart thread
+[2016-05-15 18:52:04] Connected to remote host. Start sending messages
+[2016-05-15 19:22:04] Trying to restart thread
+[2016-05-15 19:22:04] Connected to remote host. Start sending messages
+[2016-05-15 19:52:04] Trying to restart thread
+[2016-05-15 19:52:04] Connected to remote host. Start sending messages
+[2016-05-15 20:22:05] Trying to restart thread
+[2016-05-15 20:22:05] Connected to remote host. Start sending messages
+[2016-05-15 20:52:04] Trying to restart thread
+[2016-05-15 20:52:05] Connected to remote host. Start sending messages
+[2016-05-15 21:22:04] Trying to restart thread
+[2016-05-15 21:22:05] Connected to remote host. Start sending messages
+[2016-05-15 21:52:05] Trying to restart thread
+[2016-05-15 21:52:05] Connected to remote host. Start sending messages
+[2016-05-15 22:22:04] Trying to restart thread
+[2016-05-15 22:22:05] Connected to remote host. Start sending messages
+[2016-05-15 22:43:02] Sun May 15 22:43:02 2016 | 571871413 | 27769705072 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-15 22:43:02
+No customer with msisdn=27769705072 found.
+[2016-05-15 23:13:02] Trying to restart thread
+[2016-05-15 23:13:03] Connected to remote host. Start sending messages
+[2016-05-15 23:43:02] Trying to restart thread
+[2016-05-15 23:43:02] Connected to remote host. Start sending messages
+[2016-05-16 00:13:03] Trying to restart thread
+[2016-05-16 00:13:03] Connected to remote host. Start sending messages
+[2016-05-16 00:43:02] Trying to restart thread
+[2016-05-16 00:43:03] Connected to remote host. Start sending messages
+[2016-05-16 01:13:03] Trying to restart thread
+[2016-05-16 01:13:03] Connected to remote host. Start sending messages
+[2016-05-16 01:43:02] Trying to restart thread
+[2016-05-16 01:43:02] Connected to remote host. Start sending messages
+[2016-05-16 02:13:02] Trying to restart thread
+[2016-05-16 02:13:02] Connected to remote host. Start sending messages
+[2016-05-16 02:43:02] Trying to restart thread
+[2016-05-16 02:43:02] Connected to remote host. Start sending messages
+[2016-05-16 03:13:02] Trying to restart thread
+[2016-05-16 03:13:03] Connected to remote host. Start sending messages
+[2016-05-16 03:43:02] Trying to restart thread
+[2016-05-16 03:43:03] Connected to remote host. Start sending messages
+[2016-05-16 04:13:02] Trying to restart thread
+[2016-05-16 04:13:02] Connected to remote host. Start sending messages
+[2016-05-16 04:43:03] Trying to restart thread
+[2016-05-16 04:43:03] Connected to remote host. Start sending messages
+[2016-05-16 05:13:03] Trying to restart thread
+[2016-05-16 05:13:03] Connected to remote host. Start sending messages
+[2016-05-16 05:43:03] Trying to restart thread
+[2016-05-16 05:43:04] Unable to connect: timed out
+[2016-05-16 05:43:04] Connected to remote host. Start sending messages
+[2016-05-16 06:13:02] Trying to restart thread
+[2016-05-16 06:13:03] Connected to remote host. Start sending messages
+[2016-05-16 06:43:03] Trying to restart thread
+[2016-05-16 06:43:03] Connected to remote host. Start sending messages
+[2016-05-16 07:13:03] Trying to restart thread
+[2016-05-16 07:13:03] Connected to remote host. Start sending messages
+[2016-05-16 07:43:02] Trying to restart thread
+[2016-05-16 07:43:03] Connected to remote host. Start sending messages
+[2016-05-16 08:13:03] Trying to restart thread
+[2016-05-16 08:13:03] Connected to remote host. Start sending messages
+[2016-05-16 08:43:03] Trying to restart thread
+[2016-05-16 08:43:03] Connected to remote host. Start sending messages
+[2016-05-16 09:13:02] Trying to restart thread
+[2016-05-16 09:13:03] Connected to remote host. Start sending messages
+[2016-05-16 09:43:02] Trying to restart thread
+[2016-05-16 09:43:03] Connected to remote host. Start sending messages
+[2016-05-16 10:13:02] Trying to restart thread
+[2016-05-16 10:13:03] Connected to remote host. Start sending messages
+[2016-05-16 10:43:03] Trying to restart thread
+[2016-05-16 10:43:03] Connected to remote host. Start sending messages
+[2016-05-16 11:13:02] Trying to restart thread
+[2016-05-16 11:13:03] Connected to remote host. Start sending messages
+[2016-05-16 11:43:02] Trying to restart thread
+[2016-05-16 11:43:03] Connected to remote host. Start sending messages
+[2016-05-16 12:13:02] Trying to restart thread
+[2016-05-16 12:13:03] Connected to remote host. Start sending messages
+[2016-05-16 12:43:03] Trying to restart thread
+[2016-05-16 12:43:03] Connected to remote host. Start sending messages
+[2016-05-16 13:13:03] Trying to restart thread
+[2016-05-16 13:13:03] Connected to remote host. Start sending messages
+[2016-05-16 13:43:02] Trying to restart thread
+[2016-05-16 13:43:02] Connected to remote host. Start sending messages
+[2016-05-16 14:13:02] Trying to restart thread
+[2016-05-16 14:13:03] Connected to remote host. Start sending messages
+[2016-05-16 14:43:02] Trying to restart thread
+[2016-05-16 14:43:03] Connected to remote host. Start sending messages
+[2016-05-16 15:13:03] Trying to restart thread
+[2016-05-16 15:13:03] Connected to remote host. Start sending messages
+[2016-05-16 15:43:02] Trying to restart thread
+[2016-05-16 15:43:02] Connected to remote host. Start sending messages
+[2016-05-16 16:13:03] Trying to restart thread
+[2016-05-16 16:13:03] Connected to remote host. Start sending messages
+[2016-05-16 16:43:02] Trying to restart thread
+[2016-05-16 16:43:03] Connected to remote host. Start sending messages
+[2016-05-16 17:13:02] Trying to restart thread
+[2016-05-16 17:13:03] Connected to remote host. Start sending messages
+[2016-05-16 17:43:02] Trying to restart thread
+[2016-05-16 17:43:02] Connected to remote host. Start sending messages
+[2016-05-16 18:13:03] Trying to restart thread
+[2016-05-16 18:13:03] Connected to remote host. Start sending messages
+[2016-05-16 18:43:02] Trying to restart thread
+[2016-05-16 18:43:03] Connected to remote host. Start sending messages
+[2016-05-16 19:13:02] Trying to restart thread
+[2016-05-16 19:13:03] Connected to remote host. Start sending messages
+[2016-05-16 19:43:03] Trying to restart thread
+[2016-05-16 19:43:03] Connected to remote host. Start sending messages
+[2016-05-16 20:13:02] Trying to restart thread
+[2016-05-16 20:13:03] Connected to remote host. Start sending messages
+[2016-05-16 20:43:02] Trying to restart thread
+[2016-05-16 20:43:02] Connected to remote host. Start sending messages
+[2016-05-16 21:13:03] Trying to restart thread
+[2016-05-16 21:13:03] Connected to remote host. Start sending messages
+[2016-05-16 21:43:02] Trying to restart thread
+[2016-05-16 21:43:03] Connected to remote host. Start sending messages
+[2016-05-16 22:13:02] Trying to restart thread
+[2016-05-16 22:13:03] Connected to remote host. Start sending messages
+[2016-05-16 22:33:25] Mon May 16 22:33:25 2016 | 1918139950 | 27793809887 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-16 22:33:25
+No customer with msisdn=27793809887 found.
+[2016-05-16 23:03:25] Trying to restart thread
+[2016-05-16 23:03:26] Connected to remote host. Start sending messages
+[2016-05-16 23:33:25] Trying to restart thread
+[2016-05-16 23:33:26] Connected to remote host. Start sending messages
+[2016-05-17 00:03:25] Trying to restart thread
+[2016-05-17 00:03:25] Connected to remote host. Start sending messages
+[2016-05-17 00:33:25] Trying to restart thread
+[2016-05-17 00:33:26] Connected to remote host. Start sending messages
+[2016-05-17 01:03:25] Trying to restart thread
+[2016-05-17 01:03:26] Connected to remote host. Start sending messages
+[2016-05-17 01:33:25] Trying to restart thread
+[2016-05-17 01:33:26] Connected to remote host. Start sending messages
+[2016-05-17 02:03:25] Trying to restart thread
+[2016-05-17 02:03:25] Connected to remote host. Start sending messages
+[2016-05-17 02:33:25] Trying to restart thread
+[2016-05-17 02:33:26] Connected to remote host. Start sending messages
+[2016-05-17 03:03:25] Trying to restart thread
+[2016-05-17 03:03:26] Connected to remote host. Start sending messages
+[2016-05-17 03:33:25] Trying to restart thread
+[2016-05-17 03:33:25] Connected to remote host. Start sending messages
+[2016-05-17 04:03:25] Trying to restart thread
+[2016-05-17 04:03:26] Connected to remote host. Start sending messages
+[2016-05-17 04:33:25] Trying to restart thread
+[2016-05-17 04:33:26] Connected to remote host. Start sending messages
+[2016-05-17 05:03:25] Trying to restart thread
+[2016-05-17 05:03:25] Connected to remote host. Start sending messages
+[2016-05-17 05:33:26] Trying to restart thread
+[2016-05-17 05:33:26] Connected to remote host. Start sending messages
+[2016-05-17 06:03:25] Trying to restart thread
+[2016-05-17 06:03:26] Connected to remote host. Start sending messages
+[2016-05-17 06:33:25] Trying to restart thread
+[2016-05-17 06:33:26] Connected to remote host. Start sending messages
+[2016-05-17 07:03:25] Trying to restart thread
+[2016-05-17 07:03:26] Connected to remote host. Start sending messages
+[2016-05-17 07:33:25] Trying to restart thread
+[2016-05-17 07:33:26] Connected to remote host. Start sending messages
+[2016-05-17 08:03:26] Trying to restart thread
+[2016-05-17 08:03:26] Connected to remote host. Start sending messages
+[2016-05-17 08:33:25] Trying to restart thread
+[2016-05-17 08:33:26] Connected to remote host. Start sending messages
+[2016-05-17 09:03:25] Trying to restart thread
+[2016-05-17 09:03:26] Connected to remote host. Start sending messages
+[2016-05-17 09:33:25] Trying to restart thread
+[2016-05-17 09:33:26] Connected to remote host. Start sending messages
+[2016-05-17 10:03:26] Trying to restart thread
+[2016-05-17 10:03:27] Connected to remote host. Start sending messages
+[2016-05-17 10:33:25] Trying to restart thread
+[2016-05-17 10:33:25] Connected to remote host. Start sending messages
+[2016-05-17 11:03:26] Trying to restart thread
+[2016-05-17 11:03:26] Connected to remote host. Start sending messages
+[2016-05-17 11:33:25] Trying to restart thread
+[2016-05-17 11:33:26] Connected to remote host. Start sending messages
+[2016-05-17 12:03:26] Trying to restart thread
+[2016-05-17 12:03:26] Connected to remote host. Start sending messages
+[2016-05-17 12:33:25] Trying to restart thread
+[2016-05-17 12:33:26] Connected to remote host. Start sending messages
+[2016-05-17 13:03:25] Trying to restart thread
+[2016-05-17 13:03:26] Connected to remote host. Start sending messages
+[2016-05-17 13:33:25] Trying to restart thread
+[2016-05-17 13:33:26] Connected to remote host. Start sending messages
+[2016-05-17 14:03:25] Trying to restart thread
+[2016-05-17 14:03:25] Connected to remote host. Start sending messages
+[2016-05-17 14:33:25] Trying to restart thread
+[2016-05-17 14:33:25] Connected to remote host. Start sending messages
+[2016-05-17 15:03:26] Trying to restart thread
+[2016-05-17 15:03:26] Connected to remote host. Start sending messages
+[2016-05-17 15:33:25] Trying to restart thread
+[2016-05-17 15:33:26] Connected to remote host. Start sending messages
+[2016-05-17 16:03:26] Trying to restart thread
+[2016-05-17 16:03:26] Connected to remote host. Start sending messages
+[2016-05-17 16:33:26] Trying to restart thread
+[2016-05-17 16:33:26] Connected to remote host. Start sending messages
+[2016-05-17 17:03:25] Trying to restart thread
+[2016-05-17 17:03:26] Connected to remote host. Start sending messages
+[2016-05-17 17:33:26] Trying to restart thread
+[2016-05-17 17:33:27] Connected to remote host. Start sending messages
+[2016-05-17 18:03:26] Trying to restart thread
+[2016-05-17 18:03:26] Connected to remote host. Start sending messages
+[2016-05-17 18:33:25] Trying to restart thread
+[2016-05-17 18:33:26] Connected to remote host. Start sending messages
+[2016-05-17 19:03:25] Trying to restart thread
+[2016-05-17 19:03:26] Connected to remote host. Start sending messages
+[2016-05-17 19:33:25] Trying to restart thread
+[2016-05-17 19:33:26] Connected to remote host. Start sending messages
+[2016-05-17 20:03:25] Trying to restart thread
+[2016-05-17 20:03:26] Connected to remote host. Start sending messages
+[2016-05-17 20:32:34] Tue May 17 20:32:34 2016 | 1873953478 | 27727047774 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-17 20:32:34
+No customer with msisdn=27727047774 found.
+[2016-05-17 21:02:34] Trying to restart thread
+[2016-05-17 21:02:34] Connected to remote host. Start sending messages
+[2016-05-17 21:32:35] Trying to restart thread
+[2016-05-17 21:32:35] Connected to remote host. Start sending messages
+[2016-05-17 22:02:34] Trying to restart thread
+[2016-05-17 22:02:35] Connected to remote host. Start sending messages
+[2016-05-17 22:32:35] Trying to restart thread
+[2016-05-17 22:32:35] Connected to remote host. Start sending messages
+[2016-05-17 23:02:35] Trying to restart thread
+[2016-05-17 23:02:35] Connected to remote host. Start sending messages
+[2016-05-17 23:32:35] Trying to restart thread
+[2016-05-17 23:32:35] Connected to remote host. Start sending messages
+[2016-05-18 00:02:35] Trying to restart thread
+[2016-05-18 00:02:35] Connected to remote host. Start sending messages
+[2016-05-18 00:32:34] Trying to restart thread
+[2016-05-18 00:32:35] Connected to remote host. Start sending messages
+[2016-05-18 01:02:34] Trying to restart thread
+[2016-05-18 01:02:34] Connected to remote host. Start sending messages
+[2016-05-18 01:32:34] Trying to restart thread
+[2016-05-18 01:32:35] Connected to remote host. Start sending messages
+[2016-05-18 02:02:35] Trying to restart thread
+[2016-05-18 02:02:36] Connected to remote host. Start sending messages
+[2016-05-18 02:32:34] Trying to restart thread
+[2016-05-18 02:32:34] Connected to remote host. Start sending messages
+[2016-05-18 03:02:34] Trying to restart thread
+[2016-05-18 03:02:35] Connected to remote host. Start sending messages
+[2016-05-18 03:32:34] Trying to restart thread
+[2016-05-18 03:32:35] Connected to remote host. Start sending messages
+[2016-05-18 04:02:35] Trying to restart thread
+[2016-05-18 04:02:35] Connected to remote host. Start sending messages
+[2016-05-18 04:32:34] Trying to restart thread
+[2016-05-18 04:32:34] Unable to connect: [Errno 101] Network is unreachable
+[2016-05-18 04:32:34] Connected to remote host. Start sending messages
+[2016-05-18 05:02:34] Trying to restart thread
+[2016-05-18 05:02:34] Connected to remote host. Start sending messages
+[2016-05-18 05:32:34] Trying to restart thread
+[2016-05-18 05:32:35] Connected to remote host. Start sending messages
+[2016-05-18 06:02:34] Trying to restart thread
+[2016-05-18 06:02:35] Connected to remote host. Start sending messages
+[2016-05-18 06:32:34] Trying to restart thread
+[2016-05-18 06:32:35] Connected to remote host. Start sending messages
+[2016-05-18 07:02:34] Trying to restart thread
+[2016-05-18 07:02:34] Connected to remote host. Start sending messages
+[2016-05-18 07:32:34] Trying to restart thread
+[2016-05-18 07:32:34] Connected to remote host. Start sending messages
+[2016-05-18 08:02:34] Trying to restart thread
+[2016-05-18 08:02:35] Connected to remote host. Start sending messages
+[2016-05-18 08:32:34] Trying to restart thread
+[2016-05-18 08:32:35] Connected to remote host. Start sending messages
+[2016-05-18 09:02:34] Trying to restart thread
+[2016-05-18 09:02:35] Connected to remote host. Start sending messages
+[2016-05-18 09:32:35] Trying to restart thread
+[2016-05-18 09:32:35] Connected to remote host. Start sending messages
+[2016-05-18 10:02:34] Trying to restart thread
+[2016-05-18 10:02:35] Connected to remote host. Start sending messages
+[2016-05-18 10:32:34] Trying to restart thread
+[2016-05-18 10:32:35] Connected to remote host. Start sending messages
+[2016-05-18 11:02:34] Trying to restart thread
+[2016-05-18 11:02:35] Connected to remote host. Start sending messages
+[2016-05-18 11:32:34] Trying to restart thread
+[2016-05-18 11:32:35] Connected to remote host. Start sending messages
+[2016-05-18 12:02:34] Trying to restart thread
+[2016-05-18 12:02:35] Connected to remote host. Start sending messages
+[2016-05-18 12:32:34] Trying to restart thread
+[2016-05-18 12:32:34] Connected to remote host. Start sending messages
+[2016-05-18 13:02:35] Trying to restart thread
+[2016-05-18 13:02:35] Connected to remote host. Start sending messages
+[2016-05-18 13:32:35] Trying to restart thread
+[2016-05-18 13:32:35] Connected to remote host. Start sending messages
+[2016-05-18 14:02:34] Trying to restart thread
+[2016-05-18 14:02:35] Connected to remote host. Start sending messages
+[2016-05-18 14:32:34] Trying to restart thread
+[2016-05-18 14:32:34] Connected to remote host. Start sending messages
+[2016-05-18 15:02:34] Trying to restart thread
+[2016-05-18 15:02:35] Connected to remote host. Start sending messages
+[2016-05-18 15:32:35] Trying to restart thread
+[2016-05-18 15:32:35] Connected to remote host. Start sending messages
+[2016-05-18 16:02:34] Trying to restart thread
+[2016-05-18 16:02:36] Connected to remote host. Start sending messages
+[2016-05-18 16:32:34] Trying to restart thread
+[2016-05-18 16:32:35] Connected to remote host. Start sending messages
+[2016-05-18 17:02:35] Trying to restart thread
+[2016-05-18 17:02:35] Connected to remote host. Start sending messages
+[2016-05-18 17:32:34] Trying to restart thread
+[2016-05-18 17:32:34] Connected to remote host. Start sending messages
+[2016-05-18 18:02:34] Trying to restart thread
+[2016-05-18 18:02:35] Connected to remote host. Start sending messages
+[2016-05-18 18:32:34] Trying to restart thread
+[2016-05-18 18:32:35] Connected to remote host. Start sending messages
+[2016-05-18 19:02:34] Trying to restart thread
+[2016-05-18 19:02:34] Connected to remote host. Start sending messages
+[2016-05-18 19:32:35] Trying to restart thread
+[2016-05-18 19:32:35] Connected to remote host. Start sending messages
+[2016-05-18 20:02:34] Trying to restart thread
+[2016-05-18 20:02:35] Connected to remote host. Start sending messages
+[2016-05-18 20:32:34] Trying to restart thread
+[2016-05-18 20:32:35] Connected to remote host. Start sending messages
+[2016-05-18 21:02:34] Trying to restart thread
+[2016-05-18 21:02:35] Connected to remote host. Start sending messages
+[2016-05-18 21:32:34] Trying to restart thread
+[2016-05-18 21:32:35] Connected to remote host. Start sending messages
+[2016-05-18 22:02:35] Trying to restart thread
+[2016-05-18 22:02:35] Connected to remote host. Start sending messages
+[2016-05-18 22:32:34] Trying to restart thread
+[2016-05-18 22:32:35] Connected to remote host. Start sending messages
+[2016-05-18 23:02:35] Trying to restart thread
+[2016-05-18 23:02:35] Connected to remote host. Start sending messages
+[2016-05-18 23:32:34] Trying to restart thread
+[2016-05-18 23:32:34] Connected to remote host. Start sending messages
+[2016-05-19 00:02:34] Trying to restart thread
+[2016-05-19 00:02:35] Connected to remote host. Start sending messages
+[2016-05-19 00:32:34] Trying to restart thread
+[2016-05-19 00:32:34] Connected to remote host. Start sending messages
+[2016-05-19 01:02:34] Trying to restart thread
+[2016-05-19 01:02:35] Connected to remote host. Start sending messages
+[2016-05-19 01:32:34] Trying to restart thread
+[2016-05-19 01:32:35] Connected to remote host. Start sending messages
+[2016-05-19 02:02:34] Trying to restart thread
+[2016-05-19 02:02:35] Connected to remote host. Start sending messages
+[2016-05-19 02:32:35] Trying to restart thread
+[2016-05-19 02:32:35] Connected to remote host. Start sending messages
+[2016-05-19 03:02:35] Trying to restart thread
+[2016-05-19 03:02:35] Connected to remote host. Start sending messages
+[2016-05-19 03:32:34] Trying to restart thread
+[2016-05-19 03:32:35] Connected to remote host. Start sending messages
+[2016-05-19 04:02:34] Trying to restart thread
+[2016-05-19 04:02:34] Connected to remote host. Start sending messages
+[2016-05-19 04:32:34] Trying to restart thread
+[2016-05-19 04:32:35] Connected to remote host. Start sending messages
+[2016-05-19 05:02:35] Trying to restart thread
+[2016-05-19 05:02:35] Connected to remote host. Start sending messages
+[2016-05-19 05:32:34] Trying to restart thread
+[2016-05-19 05:32:35] Connected to remote host. Start sending messages
+[2016-05-19 06:02:34] Trying to restart thread
+[2016-05-19 06:02:35] Connected to remote host. Start sending messages
+[2016-05-19 06:32:35] Trying to restart thread
+[2016-05-19 06:32:35] Connected to remote host. Start sending messages
+[2016-05-19 07:02:34] Trying to restart thread
+[2016-05-19 07:02:34] Connected to remote host. Start sending messages
+[2016-05-19 07:32:35] Trying to restart thread
+[2016-05-19 07:32:35] Connected to remote host. Start sending messages
+[2016-05-19 08:02:35] Trying to restart thread
+[2016-05-19 08:02:35] Connected to remote host. Start sending messages
+[2016-05-19 08:32:34] Trying to restart thread
+[2016-05-19 08:32:35] Connected to remote host. Start sending messages
+[2016-05-19 09:02:34] Trying to restart thread
+[2016-05-19 09:02:35] Connected to remote host. Start sending messages
+[2016-05-19 09:32:35] Trying to restart thread
+[2016-05-19 09:32:35] Connected to remote host. Start sending messages
+[2016-05-19 10:02:34] Trying to restart thread
+[2016-05-19 10:02:35] Connected to remote host. Start sending messages
+[2016-05-19 10:32:35] Trying to restart thread
+[2016-05-19 10:32:36] Connected to remote host. Start sending messages
+[2016-05-19 11:02:34] Trying to restart thread
+[2016-05-19 11:02:35] Connected to remote host. Start sending messages
+[2016-05-19 11:32:34] Trying to restart thread
+[2016-05-19 11:32:34] Connected to remote host. Start sending messages
+[2016-05-19 12:02:34] Trying to restart thread
+[2016-05-19 12:02:34] Connected to remote host. Start sending messages
+[2016-05-19 12:32:34] Trying to restart thread
+[2016-05-19 12:32:34] Connected to remote host. Start sending messages
+[2016-05-19 13:02:35] Trying to restart thread
+[2016-05-19 13:02:35] Connected to remote host. Start sending messages
+[2016-05-19 13:32:34] Trying to restart thread
+[2016-05-19 13:32:34] Connected to remote host. Start sending messages
+[2016-05-19 14:02:34] Trying to restart thread
+[2016-05-19 14:02:35] Connected to remote host. Start sending messages
+[2016-05-19 14:32:35] Trying to restart thread
+[2016-05-19 14:32:35] Connected to remote host. Start sending messages
+[2016-05-19 15:02:34] Trying to restart thread
+[2016-05-19 15:02:35] Connected to remote host. Start sending messages
+[2016-05-19 15:32:35] Trying to restart thread
+[2016-05-19 15:32:35] Connected to remote host. Start sending messages
+[2016-05-19 16:02:34] Trying to restart thread
+[2016-05-19 16:02:34] Connected to remote host. Start sending messages
+[2016-05-19 16:32:34] Trying to restart thread
+[2016-05-19 16:32:35] Connected to remote host. Start sending messages
+[2016-05-19 17:02:34] Trying to restart thread
+[2016-05-19 17:02:35] Connected to remote host. Start sending messages
+[2016-05-19 17:32:34] Trying to restart thread
+[2016-05-19 17:32:35] Connected to remote host. Start sending messages
+[2016-05-19 18:02:35] Trying to restart thread
+[2016-05-19 18:02:35] Connected to remote host. Start sending messages
+[2016-05-19 18:32:35] Trying to restart thread
+[2016-05-19 18:32:35] Connected to remote host. Start sending messages
+[2016-05-19 19:02:34] Trying to restart thread
+[2016-05-19 19:02:35] Connected to remote host. Start sending messages
+[2016-05-19 19:32:34] Trying to restart thread
+[2016-05-19 19:32:34] Connected to remote host. Start sending messages
+[2016-05-19 20:02:34] Trying to restart thread
+[2016-05-19 20:02:35] Connected to remote host. Start sending messages
+[2016-05-19 20:32:34] Trying to restart thread
+[2016-05-19 20:32:35] Connected to remote host. Start sending messages
+[2016-05-19 21:02:34] Trying to restart thread
+[2016-05-19 21:02:35] Connected to remote host. Start sending messages
+[2016-05-19 21:32:34] Trying to restart thread
+[2016-05-19 21:32:35] Connected to remote host. Start sending messages
+[2016-05-19 22:02:34] Trying to restart thread
+[2016-05-19 22:02:35] Connected to remote host. Start sending messages
+[2016-05-19 22:32:34] Trying to restart thread
+[2016-05-19 22:32:34] Connected to remote host. Start sending messages
+[2016-05-19 23:02:34] Trying to restart thread
+[2016-05-19 23:02:34] Connected to remote host. Start sending messages
+[2016-05-19 23:23:10] Thu May 19 23:23:10 2016 | 590462922 | 27796585249 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-19 23:23:10
+No customer with msisdn=27796585249 found.
+[2016-05-19 23:40:04] Thu May 19 23:40:04 2016 | 1932110759 | 27796585249 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-19 23:40:04
+No customer with msisdn=27796585249 found.
+[2016-05-20 00:10:04] Trying to restart thread
+[2016-05-20 00:10:05] Connected to remote host. Start sending messages
+[2016-05-20 00:40:04] Trying to restart thread
+[2016-05-20 00:40:04] Connected to remote host. Start sending messages
+[2016-05-20 01:10:04] Trying to restart thread
+[2016-05-20 01:10:05] Connected to remote host. Start sending messages
+[2016-05-20 01:40:04] Trying to restart thread
+[2016-05-20 01:40:05] Connected to remote host. Start sending messages
+[2016-05-20 02:10:05] Trying to restart thread
+[2016-05-20 02:10:05] Connected to remote host. Start sending messages
+[2016-05-20 02:40:04] Trying to restart thread
+[2016-05-20 02:40:05] Connected to remote host. Start sending messages
+[2016-05-20 03:10:04] Trying to restart thread
+[2016-05-20 03:10:05] Connected to remote host. Start sending messages
+[2016-05-20 03:40:04] Trying to restart thread
+[2016-05-20 03:40:05] Connected to remote host. Start sending messages
+[2016-05-20 04:10:04] Trying to restart thread
+[2016-05-20 04:10:05] Connected to remote host. Start sending messages
+[2016-05-20 04:40:05] Trying to restart thread
+[2016-05-20 04:40:05] Connected to remote host. Start sending messages
+[2016-05-20 05:10:04] Trying to restart thread
+[2016-05-20 05:10:05] Connected to remote host. Start sending messages
+[2016-05-20 05:40:04] Trying to restart thread
+[2016-05-20 05:40:04] Connected to remote host. Start sending messages
+[2016-05-20 06:10:05] Trying to restart thread
+[2016-05-20 06:10:05] Connected to remote host. Start sending messages
+[2016-05-20 06:40:04] Trying to restart thread
+[2016-05-20 06:40:05] Connected to remote host. Start sending messages
+[2016-05-20 07:10:04] Trying to restart thread
+[2016-05-20 07:10:05] Connected to remote host. Start sending messages
+[2016-05-20 07:40:04] Trying to restart thread
+[2016-05-20 07:40:04] Connected to remote host. Start sending messages
+[2016-05-20 08:10:05] Trying to restart thread
+[2016-05-20 08:10:05] Connected to remote host. Start sending messages
+[2016-05-20 08:40:04] Trying to restart thread
+[2016-05-20 08:40:04] Connected to remote host. Start sending messages
+[2016-05-20 09:10:04] Trying to restart thread
+[2016-05-20 09:10:05] Connected to remote host. Start sending messages
+[2016-05-20 09:40:04] Trying to restart thread
+[2016-05-20 09:40:05] Connected to remote host. Start sending messages
+[2016-05-20 10:10:04] Trying to restart thread
+[2016-05-20 10:10:05] Connected to remote host. Start sending messages
+[2016-05-20 10:40:04] Trying to restart thread
+[2016-05-20 10:40:05] Connected to remote host. Start sending messages
+[2016-05-20 11:10:05] Trying to restart thread
+[2016-05-20 11:10:05] Connected to remote host. Start sending messages
+[2016-05-20 11:40:04] Trying to restart thread
+[2016-05-20 11:40:04] Connected to remote host. Start sending messages
+[2016-05-20 12:10:05] Trying to restart thread
+[2016-05-20 12:10:05] Connected to remote host. Start sending messages
+[2016-05-20 12:40:04] Trying to restart thread
+[2016-05-20 12:40:05] Connected to remote host. Start sending messages
+[2016-05-20 13:10:04] Trying to restart thread
+[2016-05-20 13:10:05] Connected to remote host. Start sending messages
+[2016-05-20 13:40:05] Trying to restart thread
+[2016-05-20 13:40:05] Connected to remote host. Start sending messages
+[2016-05-20 14:10:04] Trying to restart thread
+[2016-05-20 14:10:05] Connected to remote host. Start sending messages
+[2016-05-20 14:40:04] Trying to restart thread
+[2016-05-20 14:40:05] Connected to remote host. Start sending messages
+[2016-05-20 15:10:05] Trying to restart thread
+[2016-05-20 15:10:05] Connected to remote host. Start sending messages
+[2016-05-20 15:40:04] Trying to restart thread
+[2016-05-20 15:40:05] Connected to remote host. Start sending messages
+[2016-05-20 16:10:04] Trying to restart thread
+[2016-05-20 16:10:04] Connected to remote host. Start sending messages
+[2016-05-20 16:40:05] Trying to restart thread
+[2016-05-20 16:40:05] Connected to remote host. Start sending messages
+[2016-05-20 17:03:35] Fri May 20 17:03:35 2016 | 5544696095242499255 | 27737083000 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-20 17:03:35
+No customer with msisdn=27737083000 found.
+[2016-05-20 17:03:45] Fri May 20 17:03:45 2016 | 5544696095242499255 | 27737083000 | *130*826# | STATE: wait_app_phase_2 | ABORT | timeRec=2016-05-20 17:03:45
+No customer with msisdn=27737083000 found.
+[2016-05-20 17:04:11] Fri May 20 17:04:11 2016 | 5544696095281191398 | 27737083000 | *130*826# | *130*826 | PULL_REQUEST | timeRec=2016-05-20 17:04:11
+No customer with msisdn=27737083000 found.
+[2016-05-20 17:04:21] Fri May 20 17:04:21 2016 | 5544696095281191398 | 27737083000 | *130*826# | STATE: wait_app_phase_2 | ABORT | timeRec=2016-05-20 17:04:21
+No customer with msisdn=27737083000 found.
+[2016-05-20 17:23:16] Fri May 20 17:23:16 2016 | 617884 | 27624340966 | *130*826*3# | 3 | PULL_REQUEST | timeRec=2016-05-20 17:23:16
+No customer with msisdn=27624340966 found.
+[2016-05-20 17:24:49] Fri May 20 17:24:49 2016 | 619574 | 27624340966 | *130*826*3# | 3 | PULL_REQUEST | timeRec=2016-05-20 17:24:49
+No customer with msisdn=27624340966 found.
+[2016-05-20 17:54:50] Trying to restart thread
+[2016-05-20 17:54:50] Connected to remote host. Start sending messages
+[2016-05-20 18:24:50] Trying to restart thread
+[2016-05-20 18:24:50] Connected to remote host. Start sending messages
+[2016-05-20 18:54:49] Trying to restart thread
+[2016-05-20 18:54:50] Connected to remote host. Start sending messages
+[2016-05-20 19:24:49] Trying to restart thread
+[2016-05-20 19:24:50] Connected to remote host. Start sending messages
+[2016-05-20 19:54:49] Trying to restart thread
+[2016-05-20 19:54:50] Connected to remote host. Start sending messages
+[2016-05-20 20:24:50] Trying to restart thread
+[2016-05-20 20:24:50] Connected to remote host. Start sending messages
+[2016-05-20 20:54:49] Trying to restart thread
+[2016-05-20 20:54:50] Connected to remote host. Start sending messages
+[2016-05-20 21:24:50] Trying to restart thread
+[2016-05-20 21:24:50] Connected to remote host. Start sending messages
+[2016-05-20 21:54:51] Trying to restart thread
+[2016-05-20 21:54:51] Connected to remote host. Start sending messages
+[2016-05-20 22:24:50] Trying to restart thread
+[2016-05-20 22:24:51] Connected to remote host. Start sending messages
+[2016-05-20 22:54:50] Trying to restart thread
+[2016-05-20 22:54:50] Connected to remote host. Start sending messages
+[2016-05-20 23:24:50] Trying to restart thread
+[2016-05-20 23:24:50] Connected to remote host. Start sending messages
+[2016-05-20 23:54:50] Trying to restart thread
+[2016-05-20 23:54:51] Connected to remote host. Start sending messages
+[2016-05-21 00:24:50] Trying to restart thread
+[2016-05-21 00:24:50] Connected to remote host. Start sending messages
+[2016-05-21 00:54:51] Trying to restart thread
+[2016-05-21 00:54:51] Connected to remote host. Start sending messages
+[2016-05-21 01:24:50] Trying to restart thread
+[2016-05-21 01:24:50] Connected to remote host. Start sending messages
+[2016-05-21 01:54:50] Trying to restart thread
+[2016-05-21 01:54:51] Connected to remote host. Start sending messages
+[2016-05-21 02:24:50] Trying to restart thread
+[2016-05-21 02:24:50] Connected to remote host. Start sending messages
+[2016-05-21 02:54:50] Trying to restart thread
+[2016-05-21 02:54:51] Connected to remote host. Start sending messages
+[2016-05-21 03:24:51] Trying to restart thread
+[2016-05-21 03:24:51] Connected to remote host. Start sending messages
+[2016-05-21 03:54:50] Trying to restart thread
+[2016-05-21 03:54:50] Connected to remote host. Start sending messages
+[2016-05-21 04:24:50] Trying to restart thread
+[2016-05-21 04:24:51] Connected to remote host. Start sending messages
+[2016-05-21 04:54:50] Trying to restart thread
+[2016-05-21 04:54:51] Connected to remote host. Start sending messages
+[2016-05-21 05:24:51] Trying to restart thread
+[2016-05-21 05:24:51] Connected to remote host. Start sending messages
+[2016-05-21 05:54:50] Trying to restart thread
+[2016-05-21 05:54:51] Connected to remote host. Start sending messages
+[2016-05-21 06:24:50] Trying to restart thread
+[2016-05-21 06:24:51] Connected to remote host. Start sending messages
+[2016-05-21 06:54:50] Trying to restart thread
+[2016-05-21 06:54:50] Connected to remote host. Start sending messages
+[2016-05-21 07:24:50] Trying to restart thread
+[2016-05-21 07:24:51] Connected to remote host. Start sending messages
+[2016-05-21 07:54:50] Trying to restart thread
+[2016-05-21 07:54:51] Connected to remote host. Start sending messages
+[2016-05-21 08:22:14] Connected to remote host. Start sending messages
+[2016-05-21 08:24:50] Trying to restart thread
+[2016-05-21 08:24:50] Connected to remote host. Start sending messages

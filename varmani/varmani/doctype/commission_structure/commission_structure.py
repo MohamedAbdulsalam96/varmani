@@ -1,0 +1,17 @@
+# -*- coding: utf-8 -*-
+# Copyright (c) 2015, Hemant Pema and contributors
+# For license information, please see license.txt
+
+from __future__ import unicode_literals
+import frappe
+from frappe.model.document import Document
+
+class CommissionStructure(Document):
+	pass
+
+
+def get_last_sell(name):
+	pass
+
+def get_last_buy(name):
+	pass

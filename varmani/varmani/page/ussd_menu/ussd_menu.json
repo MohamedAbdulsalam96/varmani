@@ -1,0 +1,22 @@
+{
+ "content": null, 
+ "creation": "2016-02-03 09:37:10.787058", 
+ "docstatus": 0, 
+ "doctype": "Page", 
+ "idx": 0, 
+ "modified": "2016-02-03 09:37:10.787058", 
+ "modified_by": "Administrator", 
+ "module": "Varmani", 
+ "name": "ussd-menu", 
+ "owner": "Administrator", 
+ "page_name": "USSD Menu", 
+ "roles": [
+  {
+   "role": "MTN Service"
+  }
+ ], 
+ "script": null, 
+ "standard": "Yes", 
+ "style": null, 
+ "title": "USSD Menu Configuration"
+}
