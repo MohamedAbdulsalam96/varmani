@@ -101,7 +101,7 @@ def rica_sim(name, inform_referrer = True):
 																				  'MTN Services Settings',
 																				  'sms_password', False)
 
-				# frappe.msgprint(data.rica_password)
+				frappe.msgprint(data.rica_password)
 				driver = webdriver.PhantomJS()
 				driver.set_window_size(1120, 550)
 				driver.get(data.rica_login_url)
