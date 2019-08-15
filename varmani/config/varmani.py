@@ -17,15 +17,15 @@ def get_data():
 					"name": "Varmani Network",
 					"description": _("Customers in the network.")
 				},
-				{
-					"type": "page",
-					"name": "network-browser",
-					"icon": "icon-sitemap",
-					"label": _("Network of Customers"),
-					"route": "network-browser",
-					"description": _("Tree of varmani customers."),
-					"doctype": "Network Customer",
-				},
+				#{
+				#	"type": "page",
+				#	"name": "network-browser",
+				#	"icon": "icon-sitemap",
+				#	"label": _("Network of Customers"),
+				#	"route": "network-browser",
+				#	"description": _("Tree of varmani customers."),
+				#	"doctype": "Network Customer",
+				#},
 				{
 					"type": "doctype",
 					"name": "Banned MSISDN",
