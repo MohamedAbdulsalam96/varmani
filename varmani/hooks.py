@@ -63,9 +63,9 @@ notification_config = "varmani.varmani.notifications.get_notification_config"
 # 	"Event": "frappe.desk.doctype.event.event.has_permission",
 # }
 has_website_permission = {
-	"Customer": "varmani.varmani.doctype.varmani_network.varmani_network.referral",
-	"Varmani Network": "varmani.varmani.doctype.varmani_network.varmani_network.referral",
-	"User":""
+	#"Customer": "varmani.varmani.doctype.varmani_network.varmani_network.referral",
+	#"Varmani Network": "varmani.varmani.doctype.varmani_network.varmani_network.referral",
+	#"User":""
 }
 
 # Document Events
@@ -73,14 +73,14 @@ has_website_permission = {
 # Hook on document methods and events
 
 doc_events = {
-	"Payment Entry": {
+	#"Payment Entry": {
 		#"on_submit": "varmani.varmani.doctype.varmani_network.varmani_network.is_commission_due"
-		"on_cancel": "varmani.varmani.doctype.varmani_network.varmani_network.is_payment_deleted"
-   },
-	"GL Entry": {
-		"before_save": "varmani.varmani.doctype.varmani_network.varmani_network.update_party",
-		"on_submit": "varmani.varmani.doctype.varmani_network.varmani_network.is_commission_due"
-	}
+	#	"on_cancel": "varmani.varmani.doctype.varmani_network.varmani_network.is_payment_deleted"
+   #},
+	#"GL Entry": {
+	#	"before_save": "varmani.varmani.doctype.varmani_network.varmani_network.update_party",
+	#	"on_submit": "varmani.varmani.doctype.varmani_network.varmani_network.is_commission_due"
+	#}
 	#"Journal Entry Account":{
 
 #   },
