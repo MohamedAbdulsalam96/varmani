@@ -3,12 +3,7 @@
 # For license information, please see license.txt
 
 from __future__ import unicode_literals
-import frappe
 from frappe.model.document import Document
-import requests
-from frappe import _, throw, msgprint
-from frappe.utils import nowdate
-from varmani.scripts import messageService
 
 
 class SMSCustomer(Document):

@@ -9,10 +9,10 @@ import xml.etree.ElementTree as ET
 
 import json
 import requests
-from varmani.scripts.emailService import EmailService
-from varmani.scripts.frappeclient import FrappeClient
-from varmani.scripts.messageService import MessageSerice
-from varmani.scripts.old.messageProcessor import MessageProcessor
+from scripts import EmailService
+from scripts.frappeclient import FrappeClient
+from scripts.messageService import MessageSerice
+from scripts.old import MessageProcessor
 
 exitFlag = 0
 accessDetails = open('/home/hemant/access.txt')

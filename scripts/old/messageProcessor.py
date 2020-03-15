@@ -1,12 +1,8 @@
 # telnet program example
-import socket, select, string, sys
-import xml.etree.ElementTree as ET
-import requests, logging
-import time, threading, datetime
-from Queue import Queue
-from varmani.scripts.frappeclient import FrappeClient
+import time, datetime
+from scripts.frappeclient import FrappeClient
 import json
-from varmani.scripts.messageService import MessageSerice as myService
+from scripts.messageService import MessageSerice as myService
 
 
 class MessageProcessor(object):

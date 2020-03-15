@@ -1,7 +1,6 @@
 from selenium import webdriver
-from selenium.webdriver.common.alert import Alert
 from bs4 import BeautifulSoup
-from varmani.scripts.frappeclient import FrappeClient
+from scripts.frappeclient import FrappeClient
 import time, json. sys
 
 class RicaService(object):

@@ -1,8 +1,5 @@
-import json, time
-from varmani.scripts.emailService import EmailService
-from varmani.scripts.frappeclient import FrappeClient
-import socket, select, string, sys
-from varmani.scripts.messageService import MessageSerice
+import json
+from scripts.frappeclient import FrappeClient
 
 accessDetails = open('/home/hemant/access.txt')
 aD = json.loads(accessDetails.read())
