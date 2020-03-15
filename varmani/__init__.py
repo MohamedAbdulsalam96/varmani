@@ -1,5 +1,5 @@
 import frappe
-from scripts import messageService
+#from scripts import messageService
 from erpnext.stock.utils import get_stock_balance
 import datetime
 from frappe.utils.password import get_decrypted_password
