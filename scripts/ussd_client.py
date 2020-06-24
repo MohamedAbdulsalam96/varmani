@@ -73,7 +73,7 @@ class EchoClientProtocol(Protocol):
             try:
                 customer = self.client.get_api("varmani.varmani.doctype.varmani_network.varmani_network.get_customer",
                                           "msisdn=" + msisdn)  # returns varmani network node
-                if customer not None:
+                if customer != None:
                     req_msg = requestMsg.split('*130*826')
                     # print req_msg
                     # print req_msg[len(req_msg)-1]
