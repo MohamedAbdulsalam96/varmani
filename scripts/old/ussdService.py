@@ -118,7 +118,7 @@ def processMessage(sessionId, msisdn, rootMsg, requestMsg, msgType, ranNow):
 				# print req_msg[len(req_msg)-1]
 				if rootMsg != '*130*826#':#Speed dials
 					options = requestMsg.split('*')
-					print str(options)
+					print (str(options))
 					if options[0] == '0': #Buy products
 						pass
 					elif options[0] == '1':#Refer - *ID*SERIALNUMBER
@@ -165,7 +165,7 @@ def processMessage(sessionId, msisdn, rootMsg, requestMsg, msgType, ranNow):
 							next_command = result['next_command']
 							customer = client.get_api("varmani.varmani.doctype.varmani_network.varmani_network.get_customer",
 											  "msisdn=" + msisdn)  # returns varmani network node
-							print customer
+							print (customer)
 					elif options[0] == '2':#Get a new sim
 						try:
 							requester = options[1]
@@ -185,18 +185,18 @@ def processMessage(sessionId, msisdn, rootMsg, requestMsg, msgType, ranNow):
 							next_command = result['next_command']
 
 					elif options[0] == '202':  # new sim
-						print str(options[1])
+						print (str(options[1]))
 						result = client.get_api(
 							"varmani.varmani.doctype.varmani_network.varmani_network.is_this_a_varmani_sim",
 							"serial_no=%s" % (str(options[1])))
-						print str(result)
+						print (str(result))
 						if result==None:
 							message="You have not provided a Varmani Sim."
 						else:
 							result = client.get_api(
 								"varmani.varmani.doctype.varmani_network.varmani_network.is_this_sim_sold",
 								"serial_no=%s" % (str(options[1])))
-							print str(result)
+							print (str(result))
 							if result == None:
 								message = 'Sim is available'
 							else:
@@ -293,9 +293,9 @@ def processMessage(sessionId, msisdn, rootMsg, requestMsg, msgType, ranNow):
 					# print message_type
 					# print next_command
 
-				print message
-				print message_type
-				print next_command
+				print (message)
+				print (message_type)
+				print (next_command)
 
 				sendUSSD(sessionId,msisdn,message,message_type)#'USER_REQUEST')PULL_REQ_CONFIRM
 				recordMessage(sessionId, msisdn, rootMsg, message, message_type, next_command, "0")
@@ -319,7 +319,7 @@ def processMessage(sessionId, msisdn, rootMsg, requestMsg, msgType, ranNow):
 							customer = client.get_api(
 								"varmani.varmani.doctype.varmani_network.varmani_network.get_customer",
 								"id=" + id)  # returns varmani network node
-							print customer
+							print (customer)
 							if customer <> None:
 								# print 'got here: ' +"id=%s&serial=%s" % (options[1],options[2])
 								result = client.get_api("varmani.varmani.doctype.varmani_network.varmani_network.opt_in",
@@ -332,11 +332,11 @@ def processMessage(sessionId, msisdn, rootMsg, requestMsg, msgType, ranNow):
 								sendUSSD(sessionId, msisdn, message, message_type)  # 'USER_REQUEST')PULL_REQ_CONFIRM
 								recordMessage(sessionId, msisdn, rootMsg, message, message_type, next_command, "0")
 							else:
-								print 'No customer with msisdn=' + msisdn + ' found.'
+								print ('No customer with msisdn=' + msisdn + ' found.')
 								recordMessage(sessionId, msisdn, rootMsg, 'No customer with msisdn=' + msisdn + ' found.',
 											  msgType, '', "0")
 						else:
-							print 'No customer with msisdn=' +msisdn + ' found.'
+							print ('No customer with msisdn=' +msisdn + ' found.')
 							recordMessage(sessionId, msisdn, rootMsg, 'No customer with msisdn=' +msisdn + ' found.', msgType, '', "0")
 		except:
 			#sendUSSD(sessionId,msisdn,'Not Authorised!','PULL_REQ_CONFIRM')
