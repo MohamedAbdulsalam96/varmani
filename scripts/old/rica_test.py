@@ -61,7 +61,7 @@ driver.find_element_by_id("txtPassword").send_keys("G@ur@ng@!08")
 driver.find_element_by_id("btnLogin").click()
 
 if driver.current_url == "https://rica.mtn.co.za/Actions.aspx":
-    print "Login successful"
+    print ("Login successful")
     result = 'Login successful'
     driver.get("https://rica.mtn.co.za/RegisterNumber.aspx")
     if rica.is_consumer == True:
@@ -97,10 +97,10 @@ if driver.current_url == "https://rica.mtn.co.za/Actions.aspx":
     time.sleep(2)
     driver.find_element_by_id("lnkSubmit").click()
     time.sleep(3)
-    print driver
+    print (driver)
     try:
         alert = driver.switch_to_alert()
-        print alert.text
+        print (alert.text)
         # result += '\n| %s | %s |' % (frappe.utils.now_datetime().replace(microsecond=0).strftime("%Y-%m-%d %H:%M:%S"), alert.text)
         alert.accept()
     except:
@@ -110,7 +110,7 @@ if driver.current_url == "https://rica.mtn.co.za/Actions.aspx":
         # driver.find_element_by_id('txtMSISDN').send_keys(s.serial_no)#btnSearch
         # driver.find_element_by_id("btnSearch").click()
 
-        print str(sys.exc_info()[0])
+        print (str(sys.exc_info()[0]))
         # result += "\nFailled"
         # frappe.msgprint(driver.page_source)
         # soup = BeautifulSoup(driver.page_source, 'html.parser')#"lxml")
@@ -124,8 +124,8 @@ if driver.current_url == "https://rica.mtn.co.za/Actions.aspx":
         # 		pass
 
     if result.lower().find(("successfully RICA'd").lower()) != -1:
-        print result
+        print (result)
     else:
-        print 'Failed'
+        print ('Failed')
 
 driver.quit()
