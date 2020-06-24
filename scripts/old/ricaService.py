@@ -119,7 +119,7 @@ class RicaService(object):
             result.message = alert.text
             alert.accept()
         except:
-            print "no alert to accept"
+            print ("no alert to accept")
             soup = BeautifulSoup(self.driver.page_source, "lxml")
             #print soup._all_strings
             trs = soup.find('tr')
