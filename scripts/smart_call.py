@@ -6,12 +6,12 @@ client = Client(wsdlUrl)
 #print client
 
 result = client.service.authenticate_cashier('27832123780','27832123780','135326')#client.service.get_productlist()
-print result
+print (result)
 token = result.token
 if token != None:
-    print "connected = authenticated"
+    print ("connected = authenticated")
     result = client.service.get_balance(token)
-    print result
+    print (result)
 
     # reference= 'test'
     # sourcemsisdn='27832123780'
@@ -27,7 +27,7 @@ if token != None:
     # print result
 
     enum = client.factory.create('ReportTypeEnum')
-    print enum
+    print (enum)
 
     result = client.service.get_salesreport(token, 'DayEndHistoric', [])
-    print result
+    print (result)
