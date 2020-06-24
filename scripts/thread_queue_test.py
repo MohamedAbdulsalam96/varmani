@@ -4,9 +4,9 @@ from threading import Thread
 def do_stuff(q,i):
     while True:
         p= q.get()
-        print str(i) + ' got ' + str(p)
+        print (str(i) + ' got ' + str(p))
         q.task_done()
-    print 'Thread ' + i + ' done'
+    print ('Thread ' + i + ' done')
 
 
 q = Queue(maxsize=0)
@@ -20,9 +20,9 @@ for i in range(num_threads):
 for y in range (10):
     q.put(y)
 q.join()
-print "Batch " + str(y) + " Done"
+print ("Batch " + str(y) + " Done")
 
 for y in range (10):
     q.put(y)
 q.join()
-print "Batch " + str(y) + " Done"
+print ("Batch " + str(y) + " Done")
