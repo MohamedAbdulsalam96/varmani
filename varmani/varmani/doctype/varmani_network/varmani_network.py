@@ -100,7 +100,7 @@ def referral(id,referrer,serial='',customer_fullname='', customer_msisdn='', pin
 
 						frappe.db.commit()
 						#print new_customer.name
-						print new_varmani_network.name
+						print (new_varmani_network.name)
 						return {
 							'message': id + ' referred and linked.',
 							'message_type': 'PULL_REQ_CONFIRM',
