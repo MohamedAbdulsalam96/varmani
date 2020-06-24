@@ -297,7 +297,7 @@ def is_this_customer_refered(id):
 def opt_in(id, msisdn=''):
 	#is this a new customer and not using anyone elses msisdn?
 	# frappe.msgprint(str(msisdn))
-	if msisdn <> '':
+	if msisdn != '':
 		exists = frappe.db.exists('Varmani Network', {'msisdn': msisdn})
 		if exists:
 			varmani_network = frappe.get_doc('Varmani Network', exists)
