@@ -42,7 +42,7 @@ if __name__ == "__main__":
     sql = "INSERT INTO `tabBulk Pins` (name, creation, item_code, serial_number, pin) VALUES (%s, %s, %s, %s, %s)"
     # try:
     client = FrappeClient(aD['url'], aD['username'], aD['password'])
-    print datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S.%f")
+    print (datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S.%f"))
 
     items = client.get_api('varmani.varmani.doctype.bulk_pins.bulk_pins.get_items')
     # print items
@@ -93,6 +93,6 @@ if __name__ == "__main__":
         q.join()
 
 
-    print 'exited'
+    print ('exited')
     diff = datetime.datetime.now().replace(microsecond=0) - current
-    print current, diff.total_seconds() / 60
+    print (current, diff.total_seconds() / 60)
