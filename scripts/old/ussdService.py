@@ -109,7 +109,7 @@ def processMessage(sessionId, msisdn, rootMsg, requestMsg, msgType, ranNow):
 		#print 'NOT banned'
 		try:
 			customer = client.get_api("varmani.varmani.doctype.varmani_network.varmani_network.get_customer","msisdn=" + msisdn) #returns varmani network node
-			if customer not None:
+			if customer != None:
 				# if speed dial
 				# print 'stored command: ' + session['command']
 				# print customer['name']
