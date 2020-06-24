@@ -286,7 +286,7 @@ class EchoClientProtocol(Protocol):
                                     "varmani.varmani.doctype.varmani_network.varmani_network.get_customer",
                                     "id=" + id)  # returns varmani network node
                                 # print customer
-                                if customer <> None:
+                                if customer != None:
                                     # print 'got here: ' +"id=%s&serial=%s" % (options[1],options[2])
                                     result = self.client.get_api(
                                         "varmani.varmani.doctype.varmani_network.varmani_network.opt_in",
