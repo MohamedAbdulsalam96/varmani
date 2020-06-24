@@ -17,7 +17,7 @@ aD = json.loads(accessDetails.read())
 msisdn = '27810378419'
 client = FrappeClient(aD['url'], aD['username'], aD['password'])
 customer = client.get_api("varmani.get_customer","msisdn=" + msisdn)
-if customer not None:
+if customer != None:
 	print (customer)
 	print (customer["full_name"])
 	debt = client.get_api("erpnext.accounts.utils.get_balance_on","party_type=Customer&party=" + customer["customer"] +"&account=Debtors - VAR")
