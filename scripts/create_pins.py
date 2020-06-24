@@ -88,7 +88,7 @@ if __name__ == "__main__":
             # print load
             if (counter % 250) == 0:
                 q.put(data)
-                print counter
+                print (counter)
                 data = []
         q.join()
 
