@@ -58,7 +58,7 @@ class FrappeClient(object):
 			"doctype": doctype,
 			"name": name
 		})
-
+    
 	def submit(self, doclist):
 		return self.post_request({
 			"cmd": "frappe.client.submit",
