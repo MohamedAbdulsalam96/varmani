@@ -7,13 +7,13 @@ with open("requirements.txt") as f:
 from trader import __version__ as version
 
 setup(
-    name='varmani',
-    version=version,
-    description='Varmani Network Management Application',
-    author='Hemant Pema',
-    author_email='hem@varmani.co.za',
-    packages=find_packages(),
-    zip_safe=False,
-    include_package_data=True,
-    install_requires=install_requires
+	name="varmani",
+	version=version,
+	description="Varmani Network Management Application",
+	author="Hemant Pema",
+	author_email="hemant@pema.co.za",
+	packages=find_packages(),
+	zip_safe=False,
+	include_package_data=True,
+	install_requires=install_requires
 )
